@@ -1,0 +1,47 @@
+
+Closing GTK ...
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+# INIT GIT-TOOL-KIT
+## LOG FILE
+The file is correct
+## ELEMENT
+true
+Selection: Logs
+### LOGS ACTIONS
+true
+Selection: show
+#### Showing logs
+Closing GTK ...
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+# INIT GIT-TOOL-KIT
+## LOG FILE
+The file is correct
+## ELEMENT
+true
+Selection: Logs
+### LOGS ACTIONS
+true
+Selection: show
+#### Showing logs
+Closing GTK ...
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+# INIT GIT-TOOL-KIT
+## LOG FILE
+The file is correct
+## ELEMENT
+true
+Selection: Logs
+### LOGS ACTIONS
+true
+Selection: show
+#### Showing logs
+Closing GTK ...
