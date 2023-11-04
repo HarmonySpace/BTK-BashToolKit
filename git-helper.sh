@@ -27,6 +27,11 @@ print_message $UFR 0 none left 0 "0 5" $CHOOSE1
 if [[ $CHOOSE1 = "Ramas" ]]
 then
   log_print "### BRANCH ACTIONS"
+  print_message $FR 0 none left 0 "1 2" "¿Qué deseas hacer con"
+  # readarray -t GIT_BRANCHS < <(git for-each-ref --format='%(refname:short)' 'refs/heads/')
+  # GIT_CHOOSE1=$(print_choose "> " $CL1 $FR $CL1 "${GIT_BRANCHS[@]}")
+  # print_message $UFR 0 none left 0 "0 5" $GIT_CHOOSE1
+  # git checkout $GIT_CHOOSE1
 #"repositorio" selection
 elif [[ $CHOOSE1 = "Repositorio" ]]
 then
@@ -36,15 +41,15 @@ elif [[ $CHOOSE1 = "Logs" ]]
 then
   log_print "### LOGS ACTIONS"
   print_message $FR 0 none left 0 "1 2" "¿Qué deseas hacer con los Logs?"
-  CHOOSE2=$(print_choose "> " $CL1 $FR $CL1 show clear)
+  LOG_CHOOSE1=$(print_choose "> " $CL1 $FR $CL1 show clear)
   log_print "true"
-  log_print "Selection: $CHOOSE2" 
-  print_message $UFR 0 none left 0 "0 5" $CHOOSE2
-  if [[ $CHOOSE2 = "show" ]]
+  log_print "Selection: $LOG_CHOOSE1" 
+  print_message $UFR 0 none left 0 "0 5" $LOG_CHOOSE1
+  if [[ $LOG_CHOOSE1 = "show" ]]
   then
     log_print "#### Showing logs"
     cat ./$LOG
-  elif [[ $CHOOSE2 = "clear" ]]
+  elif [[ $LOG_CHOOSE1 = "clear" ]]
   then
     log_print "#### Cleaning logs"
     log_clear
