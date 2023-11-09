@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#funsiones de log
-source ../config.sh
-
 #funsiones comunes
 function log_info (){
   STATE=${3}

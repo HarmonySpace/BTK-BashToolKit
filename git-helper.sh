@@ -4,6 +4,7 @@
 source ./config.sh
 
 SEC=$(print_message body "$SEC")
+SEC2=$(print_message body "$SEC2")
 
 log_sep
 log_info info "configuracion importada"
@@ -30,27 +31,37 @@ then
   then
     log_info info "### interaccion"
     MSG=$(print_message key "Subir cambios a la nube")
-    print_join $SEC "$MSG" $SEC
+    print_join $SEC2 "$MSG" $SEC2
     print_message body "Archivos a subir"
     CHOOSE=$(print_chooseOne default "Todo" "Archivo")
     log_info info "seleccion: $CHOOSE"
     print_message key $CHOOSE
     if [[ $CHOOSE = "Todo" ]]
     then
-      log_info info "Añadiendo archivos"
-      git add .
-      if [[ "$?" = 0 ]]
-      then
-        log_info info "git add -> successfuly"
-      else
-        log_info error "git add -> failed"
-        log_info error "$?"
-        exit 1
-      fi
+      log_info info "Todos seleccionados"
+      FILE="."
     elif [[ $CHOOSE = "Archivo" ]]
     then
       log_info info "Buscando archivo"
+      print_message body "Seleccione el archivo a subir"
+      FILE=$(file_search default)
+      log_info info "Archivo seleccionado: $FILE"
+      print_message body "Archivo seleccionado:"
+      MSG=$(print_message key "$FILE")
+      print_message key "$MSG"
     fi
+    log_info info "Añadiendo archivos"
+    git add "$FILE"
+    try_catch "git add"
+    log_info info "Captando el commit del usuario"
+    MSG=$(print_message key "Añadir un nombre al commit:")
+    print_join $SEC2 "$MSG" $SEC2
+    COMMIT=$(print_input default "Insertar el commit acá")
+    git commit -m "$COMMIT"
+    try_catch "git commit"
+    log_info info "Subiendo cambios"
+    git push
+    try_catch
   fi
 fi
 

@@ -1,11 +1,21 @@
 #!/bin/bash
 
-#funsiones de pintar en pantalla
-source ../config.sh
+function print_join (){
+  echo "${1}" "${2}" "${3}"
+}
 
-##personalizados
+function try_catch (){
+  if [[ "$?" = 0 ]]
+  then
+    log_info info "${1} -> successfuly"
+  else
+    log_info error "${1} -> failed"
+    log_info error "$?"
+    exit 1
+  fi
+}
+
 function print_message (){
-  #gum style --foreground $1 --border-foreground $2 --border $3 --align $4 --margin "$5" --padding "$6" "$7"
   OP="${1}"
   if [[ $OP = "body" ]]
   then
@@ -28,10 +38,6 @@ function print_message (){
 
 }
 
-function print_join (){
-  echo "${1}" "${2}" "${3}"
-}
-
 function print_chooseOne (){
   OP="${1}"
   if [[ $OP = "default" ]]
@@ -45,4 +51,20 @@ function print_chooseOne (){
   fi 
 }
 
-#predeterminados
+function print_input (){
+  OP="${1}"
+  if [[ $OP = "default" ]]
+  then
+    gum input --prompt "> " --cursor.mode "blink" --char-limit 255 --prompt.foreground "$CL1" --cursor.foreground "$CL1" --placeholder "${2}"
+  elif [[ $OP = "custom" ]]
+  then
+    PASS="${8}"
+    if [[ $PASS = "pass" ]]
+    then
+      PASS="--password"
+    else
+      PASS=""
+    fi
+    gum input --prompt "${2}" --cursor.mode "${3}" --char-limit "${4}"  --prompt.foreground "${5}" --cursor.foreground "${6}" --placeholder "${7}" "${4}"
+  fi
+}
