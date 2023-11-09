@@ -1,0 +1,6 @@
+#colores
+CL1=21
+CL2=48
+ERR=165
+FR=247
+UFR=33

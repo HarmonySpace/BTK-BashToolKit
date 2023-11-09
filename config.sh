@@ -1,14 +1,11 @@
 
-#import functions
+#importar funsiones
 source ./scripts/logs-services.sh
 source ./scripts/prints-services.sh
+source ./colors.sh
+#importar colores
 
-#define vars
-CL1=21
-CL2=93
-FR=247
-UFR=33
-##files
-###logs
+#elementos logs
 LOG="logs.txt"
 SEP="◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢"
+SEC="<<>><<>><<>><<>>"
