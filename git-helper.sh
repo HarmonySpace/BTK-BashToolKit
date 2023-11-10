@@ -8,22 +8,31 @@ SEC2=$(print_message body "$SEC2")
 
 log_sep
 log_info info "configuracion importada"
+log_info info "mensaje de bienvenida"
 print_message custom $CL1 $CL2 double center 0 "1 10" "GIT TOOL KIT"
-log_info info "bienvenida"
 MSG=$(print_message key "Git" )
 print_message body "Aplicación de consola para el uso cotidiano de $MSG"
-log_info info "# interaccion"
+log_info info "seleccionado interaccion"
 print_message body "Interacciones con:"
-CHOOSE=$(print_chooseOne default "Ramas")
+CHOOSE=$(print_chooseOne default "Git" "Ramas")
 log_info info "seleccion: $CHOOSE"
 print_message key $CHOOSE
 MSG=$(print_message key $CHOOSE)
-log_info info "## interaccion"
-if [[ $CHOOSE = "Ramas" ]]
+if [[ $CHOOSE = "Git" ]]
 then
-  MSG=$(print_message key "Sección de Ramas")
+  MSG=$(print_message key "Configuración de GitToolKit")
   print_join $SEC "$MSG" $SEC
-  print_message body "Posibles interacciones con $CHOOSE"
+  log_info info "seleccionado configuraccion"
+  print_message body "Posibles configuraciónes"
+  CHOOSE=$(print_chooseOne default "Credenciales" "Logs")
+  log_info info "seleccion: $CHOOSE"
+  print_message key $CHOOSE
+elif [[ $CHOOSE = "Ramas" ]]
+then
+  MSG=$(print_message key "Gestión de Ramas")
+  print_join $SEC "$MSG" $SEC
+  log_info info "seleccionando interaccion con ramas"
+  print_message body "Posibles interacciones con las Ramas"
   CHOOSE=$(print_chooseOne default "Subir" "Bajar" "Cambiar" "Merge" )
   log_info info "seleccion: $CHOOSE"
   print_message key $CHOOSE
@@ -42,7 +51,7 @@ then
       FILE="."
     elif [[ $CHOOSE = "Archivo" ]]
     then
-      log_info info "Buscando archivo"
+      log_info info "buscando archivo"
       print_message body "Seleccione el archivo a subir"
       FILE=$(file_search default)
       log_info info "Archivo seleccionado: $FILE"
