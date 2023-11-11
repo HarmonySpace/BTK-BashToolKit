@@ -1202,3 +1202,170 @@
 18:25:47 11/09/23 [38;5;21mINFO[0m se selecciono la opcion Todos
 18:25:47 11/09/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
 18:25:47 11/09/23 [38;5;21mINFO[0m añadiendo los archivos
+18:25:47 11/09/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
+18:25:47 11/09/23 [38;5;21mINFO[0m preparando el commit
+18:26:34 11/09/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
+18:26:34 11/09/23 [38;5;21mINFO[0m subiendo los cambios de la rama
+18:27:42 11/09/23 [38;5;21mINFO[0m  -> successfuly
+18:27:42 11/09/23 [38;5;21mINFO[0m Cerrando GIT-UP bash
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+15:47:48 11/10/23 [38;5;21mINFO[0m configuracion importada
+15:47:48 11/10/23 [38;5;21mINFO[0m mensaje de bienvenida
+15:47:48 11/10/23 [38;5;21mINFO[0m seleccionando cambios
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:41:13 11/11/23 [38;5;21mINFO[0m configuracion importada
+10:41:13 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+10:41:13 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+10:41:28 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
+10:41:28 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
+10:41:28 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
+10:41:28 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
+10:41:28 11/11/23 [38;5;21mINFO[0m preparando el commit
+10:41:29 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
+10:41:30 11/11/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:50:22 11/11/23 [38;5;21mINFO[0m configuracion importada
+10:50:22 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+10:50:22 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:51:06 11/11/23 [38;5;21mINFO[0m configuracion importada
+10:51:06 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+10:51:06 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+10:57:11 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
+10:57:11 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
+10:57:11 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
+10:57:11 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
+10:57:11 11/11/23 [38;5;21mINFO[0m preparando el commit
+10:57:13 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
+10:57:13 11/11/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:57:20 11/11/23 [38;5;21mINFO[0m configuracion importada
+10:57:20 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+10:57:20 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+10:57:22 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
+10:57:22 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
+10:57:22 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
+10:57:22 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
+10:57:22 11/11/23 [38;5;21mINFO[0m preparando el commit
+10:57:31 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
+10:57:31 11/11/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:02:25 11/11/23 [38;5;21mINFO[0m configuracion importada
+11:02:25 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+11:02:25 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+11:02:27 11/11/23 [38;5;21mINFO[0m se selecciono la opcion 
+11:02:27 11/11/23 [38;5;165mERROR[0m opcioón no valida
+11:02:27 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
+11:02:27 11/11/23 [38;5;165mERROR[0m subida de archivos : git add -> failed
+11:02:27 11/11/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:03:48 11/11/23 [38;5;21mINFO[0m configuracion importada
+11:03:48 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+11:03:48 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+11:03:50 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Uno
+11:03:50 11/11/23 [38;5;21mINFO[0m buscando archivo
+11:03:53 11/11/23 [38;5;165mERROR[0m seleccion de archivos -> failed
+11:03:53 11/11/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:07:46 11/11/23 [38;5;21mINFO[0m configuracion importada
+11:07:46 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+11:07:46 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+11:07:49 11/11/23 [38;5;21mINFO[0m se selecciono la opcion 
+11:07:49 11/11/23 [38;5;165mERROR[0m opcioón no valida
+11:07:49 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
+11:07:49 11/11/23 [38;5;165mERROR[0m subida de archivos : git add -> failed
+11:07:50 11/11/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:11:42 11/11/23 [38;5;21mINFO[0m configuracion importada
+11:11:42 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+11:11:42 11/11/23 [38;5;21mINFO[0m seleccionado interaccion
+11:11:43 11/11/23 [38;5;21mINFO[0m seleccion: 
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:11:47 11/11/23 [38;5;21mINFO[0m configuracion importada
+11:11:47 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+11:11:47 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+11:11:52 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Uno
+11:11:52 11/11/23 [38;5;21mINFO[0m buscando archivo
+11:11:55 11/11/23 [38;5;165mERROR[0m seleccion de archivos -> failed
+11:11:55 11/11/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:19:40 11/11/23 [38;5;21mINFO[0m configuracion importada
+11:19:40 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+11:19:41 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+11:19:54 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
+11:19:54 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
+11:19:54 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
+11:19:54 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
+11:19:54 11/11/23 [38;5;21mINFO[0m preparando el commit
+11:28:32 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
+11:28:32 11/11/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:48:56 11/11/23 [38;5;21mINFO[0m configuracion importada
+11:48:56 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+11:48:56 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+11:48:57 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
+11:48:57 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
+11:48:57 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
+11:48:57 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
+11:48:57 11/11/23 [38;5;21mINFO[0m preparando el commit
+11:49:28 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
+11:49:28 11/11/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:49:44 11/11/23 [38;5;21mINFO[0m configuracion importada
+11:49:44 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+11:49:44 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+11:49:45 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
+11:49:45 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
+11:49:45 11/11/23 [38;5;21mINFO[0m añadiendo los archivos

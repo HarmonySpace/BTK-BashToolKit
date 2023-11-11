@@ -16,6 +16,6 @@ function file_search (){
     fi
     gum file --cursor "${2} " "$ALL" --cursor.foregound "${4}" --directory.foreground "${5}" --file.foreground "${6}" --selected.foreground "${7}" --directory "${8}"
   else
-    log_info error "opcion invalida"
+    log_info error "opcion invalida" $SERROR
   fi
 }
