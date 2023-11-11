@@ -43,6 +43,7 @@ try_catch "subida de archivos : git add"
 log_info info "preparando el commit" $SLOGS
 print_message body "Añadir mensaje de commit"
 COMMIT=$(print_input default "Inserta tu commit acá ...")
+print_message key "$COMMIT"
 git commit -m "$COMMIT"
 try_catch "añadiendo commit : git commit -m"
 log_info info "subiendo los cambios de la rama" $SLOGS

@@ -1369,3 +1369,18 @@
 11:49:45 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
 11:49:45 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
 11:49:45 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
+11:49:45 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
+11:49:45 11/11/23 [38;5;21mINFO[0m preparando el commit
+11:56:15 11/11/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
+11:56:15 11/11/23 [38;5;21mINFO[0m subiendo los cambios de la rama
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+12:00:01 11/11/23 [38;5;21mINFO[0m configuracion importada
+12:00:01 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
+12:00:01 11/11/23 [38;5;21mINFO[0m seleccionando cambios
+12:00:01 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
+12:00:01 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
+12:00:01 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
