@@ -35,14 +35,13 @@ function print_message (){
   else
     log_info error "opcion no valida" $SERROR
   fi
-
 }
 
 function print_chooseOne (){
   OP="${1}"
   if [[ $OP = "default" ]]
   then
-    gum choose --cursor "> " --cursor.foreground $CL1 --item.foreground $FR --selected.foreground $CL1 ${2} ${3} ${4} ${5} ${6} 
+    gum choose --cursor "> " --cursor.foreground $CL1 --item.foreground $FR --selected.foreground $CL1 "${2}" "${3}" "${4}" "${5}" "${6}" 
   elif [[ $OP = "custom" ]]
   then
     gum choose --cursor="${2}" --cursor.foreground="${3}" --item.foreground="${4}" --selected.foreground="${5}" "${6}" "${7}" "${8}" "${9}" "${10}"

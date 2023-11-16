@@ -2,5 +2,4 @@
 
 source ./config.sh
 
-git add .
-try_catch
+print_chooseOne default "Todo" "hola a todos"
