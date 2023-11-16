@@ -2,4 +2,5 @@
 
 source ./config.sh
 
-print_chooseOne default "Todo" "hola a todos"
+print_chooseOne default "soy dog"
+

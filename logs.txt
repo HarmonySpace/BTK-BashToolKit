@@ -1570,3 +1570,45 @@
 11:31:42 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Todos
 11:31:42 11/16/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
 11:31:42 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
+11:31:42 11/16/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
+11:31:42 11/16/23 [38;5;21mINFO[0m preparando el commit
+11:31:47 11/16/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
+11:31:47 11/16/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:32:01 11/16/23 [38;5;21mINFO[0m configuracion importada
+11:32:01 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
+11:32:01 11/16/23 [38;5;21mINFO[0m seleccionando cambios
+11:32:03 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Uno
+11:32:03 11/16/23 [38;5;21mINFO[0m buscando archivo
+11:32:06 11/16/23 [38;5;21mINFO[0m seleccion de archivos -> successfuly
+11:32:06 11/16/23 [38;5;21mINFO[0m archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/git-up.sh
+11:32:06 11/16/23 [38;5;21mINFO[0m se selecciono el archivo
+11:32:06 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
+11:32:06 11/16/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
+11:32:06 11/16/23 [38;5;21mINFO[0m preparando el commit
+11:32:13 11/16/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
+11:32:13 11/16/23 [38;5;21mINFO[0m subiendo los cambios de la rama
+11:33:01 11/16/23 [38;5;165mERROR[0m  -> failed
+11:33:01 11/16/23 [38;5;165mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:34:51 11/16/23 [38;5;21mINFO[0m configuracion importada
+11:34:51 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
+11:34:51 11/16/23 [38;5;21mINFO[0m seleccionando cambios
+11:35:26 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Uno
+11:35:26 11/16/23 [38;5;21mINFO[0m buscando archivo
+11:35:35 11/16/23 [38;5;21mINFO[0m seleccion de archivos -> successfuly
+11:35:35 11/16/23 [38;5;21mINFO[0m archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/git-up.sh
+11:35:35 11/16/23 [38;5;21mINFO[0m se selecciono el archivo
+11:35:35 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
+11:35:35 11/16/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
+11:35:36 11/16/23 [38;5;21mINFO[0m preparando el commit
+11:36:10 11/16/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
+11:36:10 11/16/23 [38;5;165mERROR[0m 0
