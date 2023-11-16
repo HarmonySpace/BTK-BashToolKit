@@ -2,5 +2,5 @@
 
 source ./config.sh
 
-print_chooseOne default "soy dog"
+print_chooseOne default "testing para video"
 
