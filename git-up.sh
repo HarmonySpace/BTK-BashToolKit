@@ -10,7 +10,7 @@ SEC2=$(print_message body "$SEC2")
 log_sep
 log_info info "configuracion importada" $SLOGS
 log_info info "mensaje de bienvenida" $SLOGS
-print_m m $CL1 $FR double center 0 "1 10" "GIT TOOL KIT"
+print_message custom $CL1 $FR double center 0 "1 10" "GIT TOOL KIT"
 print_message custom $CL1 0 none center 0 "1 10" "( ONLY GIT PUSH )"
 MSG=$(print_message key "Github" )
 print_message body "Aplicación para subir cambios de $MSG"
