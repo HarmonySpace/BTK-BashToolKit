@@ -51,6 +51,12 @@ git commit -m "$COMMIT_gu"
 try_catch "adding commit"
 log_info "upload changes to repository"
 spin_time "Upload changes in git" 2
+git push
+try_catch "make a push"
+log_info "successfull"
+log_info "closing a program"
+print_key "Subida exitosa"
+log_info "finish"
 
 
 

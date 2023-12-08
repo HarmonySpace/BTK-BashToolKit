@@ -677,3 +677,24 @@
 12:31:24 12/08/23 [38;5;21mINFO[0m option choosed ->> Todos
 12:31:24 12/08/23 [38;5;21mINFO[0m select all files
 12:31:24 12/08/23 [38;5;21mINFO[0m add files
+12:31:24 12/08/23 [38;5;21mINFO[0m adding files -> successfuly
+12:31:24 12/08/23 [38;5;21mINFO[0m creatin a commit
+12:31:33 12/08/23 [38;5;21mINFO[0m take input -> successfuly
+12:31:33 12/08/23 [38;5;21mINFO[0m input taked ADD ALL FILES
+12:31:33 12/08/23 [38;5;21mINFO[0m adding commit -> successfuly
+12:31:33 12/08/23 [38;5;21mINFO[0m upload changes to repository
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+12:34:15 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+12:34:15 12/08/23 [38;5;21mINFO[0m clear screan
+12:34:15 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+12:34:15 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+12:34:15 12/08/23 [38;5;21mINFO[0m starting message
+12:34:15 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+12:34:17 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+12:34:17 12/08/23 [38;5;21mINFO[0m option choosed ->> Todos
+12:34:17 12/08/23 [38;5;21mINFO[0m select all files
+12:34:17 12/08/23 [38;5;21mINFO[0m add files
