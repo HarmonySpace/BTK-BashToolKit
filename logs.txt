@@ -698,3 +698,45 @@
 12:34:17 12/08/23 [38;5;21mINFO[0m option choosed ->> Todos
 12:34:17 12/08/23 [38;5;21mINFO[0m select all files
 12:34:17 12/08/23 [38;5;21mINFO[0m add files
+12:34:17 12/08/23 [38;5;21mINFO[0m adding files -> successfuly
+12:34:17 12/08/23 [38;5;21mINFO[0m creatin a commit
+12:34:23 12/08/23 [38;5;21mINFO[0m take input -> successfuly
+12:34:23 12/08/23 [38;5;21mINFO[0m input taked Add all changes
+12:34:23 12/08/23 [38;5;21mINFO[0m adding commit -> successfuly
+12:34:23 12/08/23 [38;5;21mINFO[0m upload changes to repository
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+12:37:14 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+12:37:15 12/08/23 [38;5;21mINFO[0m clear screan
+12:37:15 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+12:37:15 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+12:37:15 12/08/23 [38;5;21mINFO[0m starting message
+12:37:15 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+12:37:15 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+12:37:15 12/08/23 [38;5;21mINFO[0m option choosed ->> Todos
+12:37:15 12/08/23 [38;5;21mINFO[0m select all files
+12:37:15 12/08/23 [38;5;21mINFO[0m add files
+12:37:16 12/08/23 [38;5;21mINFO[0m adding files -> successfuly
+12:37:16 12/08/23 [38;5;21mINFO[0m creatin a commit
+12:37:16 12/08/23 [38;5;21mINFO[0m take input -> successfuly
+12:37:16 12/08/23 [38;5;21mINFO[0m input taked 
+12:37:16 12/08/23 [38;5;93mERROR[0m adding commit -> failed
+12:37:16 12/08/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+12:37:18 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+12:37:18 12/08/23 [38;5;21mINFO[0m clear screan
+12:37:18 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+12:37:19 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+12:37:19 12/08/23 [38;5;21mINFO[0m starting message
+12:37:19 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+12:37:19 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+12:37:19 12/08/23 [38;5;21mINFO[0m option choosed ->> Todos
+12:37:19 12/08/23 [38;5;21mINFO[0m select all files
+12:37:19 12/08/23 [38;5;21mINFO[0m add files
