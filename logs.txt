@@ -3,1675 +3,677 @@
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:31:38 11/07/23 [38;5;21mINFO[0m configuración importada
+10:17:40 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:17:40 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:34:22 11/07/23 [38;5;21mINFO[0m configuración importada
+10:20:29 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:20:29 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:20:29 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:35:57 11/07/23 [38;5;21mINFO[0m configuración importada
+10:20:49 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:20:49 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:20:49 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:40:50 11/07/23 [38;5;21mINFO[0m configuración importada
+10:46:06 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:46:06 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:46:06 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:42:16 11/07/23 [38;5;21mINFO[0m configuración importada
-19:42:16 11/07/23 [38;5;21mINFO[0m bienvenida
+10:51:09 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:51:09 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:51:09 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:43:56 11/07/23 [38;5;21mINFO[0m configuración importada
-19:43:56 11/07/23 [38;5;21mINFO[0m bienvenida
+10:51:29 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:51:29 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:51:29 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:44:33 11/07/23 [38;5;21mINFO[0m configuración importada
-19:44:33 11/07/23 [38;5;21mINFO[0m bienvenida
+10:51:46 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:51:46 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:51:46 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:49:13 11/07/23 [38;5;21m21[0m configuración importada
-19:49:13 11/07/23 [38;5;21m21[0m bienvenida
+10:51:56 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:51:56 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:51:56 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:49:26 11/07/23 [38;5;21m21[0m configuración importada
-19:49:26 11/07/23 [38;5;21m21[0m bienvenida
+10:52:06 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:52:06 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:52:07 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:49:59 11/07/23  configuración importada
-19:49:59 11/07/23  bienvenida
+10:52:18 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:52:18 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:52:18 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:50:14 11/07/23 [38;5;21m21[0m configuración importada
-19:50:14 11/07/23 [38;5;21m21[0m bienvenida
+10:53:11 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:53:11 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:53:11 12/08/23 [38;5;21mINFO[0m clear screan
+10:53:11 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:51:50 11/07/23 [38;5;21mINFO[0m configuración importada
-19:51:50 11/07/23 [38;5;21mINFO[0m bienvenida
+10:53:39 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:53:39 12/08/23 [38;5;21mINFO[0m clear screan
+10:53:39 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:53:39 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:52:08 11/07/23 [38;5;21mINFO[0m configuración importada
-19:52:08 11/07/23 [38;5;21mINFO[0m bienvenida
+10:56:14 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:56:14 12/08/23 [38;5;21mINFO[0m clear screan
+10:56:14 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:56:14 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:52:35 11/07/23 [38;5;21mINFO[0m configuración importada
-19:52:35 11/07/23 [38;5;21mINFO[0m bienvenida
-19:52:36 11/07/23 [38;5;21mINFO[0m seleccionando interacción
+10:59:38 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:59:38 12/08/23 [38;5;21mINFO[0m clear screan
+10:59:38 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:59:38 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-19:53:27 11/07/23 [38;5;21mINFO[0m configuración importada
-19:53:27 11/07/23 [38;5;21mINFO[0m bienvenida
-19:53:28 11/07/23 [38;5;21mINFO[0m seleccionando interacción
+11:05:53 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:05:53 12/08/23 [38;5;21mINFO[0m clear screan
+11:05:53 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:05:53 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:58:50 11/07/23 [38;5;21mINFO[0m configuración importada
-22:58:50 11/07/23 [38;5;21mINFO[0m bienvenida
-22:58:50 11/07/23 [38;5;21mINFO[0m seleccionando interacción
+11:07:05 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:07:05 12/08/23 [38;5;21mINFO[0m clear screan
+11:07:05 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:07:05 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:59:12 11/07/23 [38;5;21mINFO[0m configuración importada
-22:59:12 11/07/23 [38;5;21mINFO[0m bienvenida
-22:59:12 11/07/23 [38;5;21mINFO[0m seleccionando interacción
+11:07:23 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:07:23 12/08/23 [38;5;21mINFO[0m clear screan
+11:07:23 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:07:23 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:02:10 11/07/23 [38;5;21mINFO[0m configuración importada
-23:02:10 11/07/23 [38;5;21mINFO[0m bienvenida
-23:02:11 11/07/23 [38;5;21mINFO[0m seleccionando interacción
+11:08:42 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:08:42 12/08/23 [38;5;21mINFO[0m clear screan
+11:08:42 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:08:43 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:02:32 11/07/23 [38;5;21mINFO[0m configuración importada
-23:02:32 11/07/23 [38;5;21mINFO[0m bienvenida
-23:02:32 11/07/23 [38;5;21mINFO[0m seleccionando interacción
+11:10:03 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:10:03 12/08/23 [38;5;21mINFO[0m clear screan
+11:10:03 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:10:03 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:03:14 11/07/23 [38;5;21mINFO[0m configuración importada
-23:03:14 11/07/23 [38;5;21mINFO[0m bienvenida
-23:03:14 11/07/23 [38;5;21mINFO[0m seleccionando interacción
+11:10:21 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:10:21 12/08/23 [38;5;21mINFO[0m clear screan
+11:10:21 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:10:21 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:03:30 11/07/23 [38;5;21mINFO[0m configuración importada
-23:03:30 11/07/23 [38;5;21mINFO[0m bienvenida
-23:03:30 11/07/23 [38;5;21mINFO[0m seleccionando interacción
+11:11:02 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:11:02 12/08/23 [38;5;21mINFO[0m clear screan
+11:11:02 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:11:02 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:05:07 11/07/23 [38;5;21mINFO[0m configuración importada
-23:05:07 11/07/23 [38;5;21mINFO[0m bienvenida
-23:05:07 11/07/23 [38;5;21mINFO[0m seleccionando interacción
-23:05:08 11/07/23 [38;5;21mINFO[0m seleccionada: Ramas
+11:11:44 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:11:44 12/08/23 [38;5;21mINFO[0m clear screan
+11:11:44 12/08/23 [38;5;21mINFO[0m  -> successfuly
+11:11:44 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:11:44 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:06:07 11/07/23 [38;5;21mINFO[0m configuración importada
-23:06:07 11/07/23 [38;5;21mINFO[0m bienvenida
-23:06:07 11/07/23 [38;5;21mINFO[0m seleccionando interacción
-23:06:09 11/07/23 [38;5;21mINFO[0m seleccionada: Ramas
+11:11:57 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:11:57 12/08/23 [38;5;21mINFO[0m clear screan
+11:11:57 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:11:57 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:11:58 12/08/23 [38;5;21mINFO[0m starting message
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:07:23 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:07:23 11/07/23 [38;5;21mINFO[0m bienvenida
-23:07:23 11/07/23 [38;5;21mINFO[0m # interaccion
-23:07:24 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:12:36 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:12:36 12/08/23 [38;5;21mINFO[0m clear screan
+11:12:36 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:12:36 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:12:36 12/08/23 [38;5;21mINFO[0m starting message
+11:12:36 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:13:24 12/08/23 [38;5;21mINFO[0m choose file -> successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:07:44 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:07:44 11/07/23 [38;5;21mINFO[0m bienvenida
-23:07:44 11/07/23 [38;5;21mINFO[0m # interaccion
-23:07:45 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:13:25 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:13:25 12/08/23 [38;5;21mINFO[0m clear screan
+11:13:25 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:13:25 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:13:25 12/08/23 [38;5;21mINFO[0m starting message
+11:13:25 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:13:28 12/08/23 [38;5;21mINFO[0m choose file -> successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:08:49 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:08:49 11/07/23 [38;5;21mINFO[0m bienvenida
-23:08:49 11/07/23 [38;5;21mINFO[0m # interaccion
-23:08:50 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:20:11 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:20:11 12/08/23 [38;5;21mINFO[0m clear screan
+11:20:11 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:20:11 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:20:11 12/08/23 [38;5;21mINFO[0m starting message
+11:20:11 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:20:14 12/08/23 [38;5;21mINFO[0m choose file -> successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:09:21 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:09:21 11/07/23 [38;5;21mINFO[0m bienvenida
-23:09:21 11/07/23 [38;5;21mINFO[0m # interaccion
-23:09:21 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:20:40 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:20:40 12/08/23 [38;5;21mINFO[0m clear screan
+11:20:40 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:20:40 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:20:40 12/08/23 [38;5;21mINFO[0m starting message
+11:20:40 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:20:43 12/08/23 [38;5;21mINFO[0m choose file -> successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:11:43 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:11:43 11/07/23 [38;5;21mINFO[0m bienvenida
-23:11:43 11/07/23 [38;5;21mINFO[0m # interaccion
-23:11:44 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:23:01 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:23:01 12/08/23 [38;5;21mINFO[0m clear screan
+11:23:01 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:23:01 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:23:01 12/08/23 [38;5;21mINFO[0m starting message
+11:23:01 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:25:16 12/08/23 [38;5;21mINFO[0m choose file -> successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:11:48 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:11:48 11/07/23 [38;5;21mINFO[0m bienvenida
-23:11:48 11/07/23 [38;5;21mINFO[0m # interaccion
-23:11:49 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:25:17 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:25:17 12/08/23 [38;5;21mINFO[0m clear screan
+11:25:17 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:25:17 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:25:18 12/08/23 [38;5;21mINFO[0m starting message
+11:25:18 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:25:20 12/08/23 [38;5;21mINFO[0m choose file -> successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:11:56 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:11:56 11/07/23 [38;5;21mINFO[0m bienvenida
-23:11:56 11/07/23 [38;5;21mINFO[0m # interaccion
-23:11:56 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:26:35 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:26:35 12/08/23 [38;5;21mINFO[0m clear screan
+11:26:35 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:26:35 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:26:35 12/08/23 [38;5;21mINFO[0m starting message
+11:26:35 12/08/23 [38;5;21mINFO[0m print water -> successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:14:31 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:14:31 11/07/23 [38;5;21mINFO[0m bienvenida
-23:14:31 11/07/23 [38;5;21mINFO[0m # interaccion
-23:14:31 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:27:27 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:27:27 12/08/23 [38;5;21mINFO[0m clear screan
+11:27:27 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:27:27 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:27:27 12/08/23 [38;5;21mINFO[0m starting message
+11:27:27 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:27:28 12/08/23 [38;5;21mINFO[0m choose file -> successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:16:14 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:16:14 11/07/23 [38;5;21mINFO[0m bienvenida
-23:16:14 11/07/23 [38;5;21mINFO[0m # interaccion
-23:16:15 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:31:23 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:31:23 12/08/23 [38;5;21mINFO[0m clear screan
+11:31:23 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:31:23 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:31:23 12/08/23 [38;5;21mINFO[0m starting message
+11:31:23 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:31:24 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+11:31:24 12/08/23 [38;5;21mINFO[0m option choosed ->> Todos
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:17:26 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:17:26 11/07/23 [38;5;21mINFO[0m bienvenida
-23:17:26 11/07/23 [38;5;21mINFO[0m # interaccion
-23:17:27 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:33:33 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:33:33 12/08/23 [38;5;21mINFO[0m clear screan
+11:33:33 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:33:33 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:33:33 12/08/23 [38;5;21mINFO[0m starting message
+11:33:33 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:33:35 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+11:33:35 12/08/23 [38;5;21mINFO[0m option choosed ->> Uno
+11:33:35 12/08/23 [38;5;21mINFO[0m browser file
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:17:42 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:17:42 11/07/23 [38;5;21mINFO[0m bienvenida
-23:17:42 11/07/23 [38;5;21mINFO[0m # interaccion
-23:17:44 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:34:15 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:34:15 12/08/23 [38;5;21mINFO[0m clear screan
+11:34:15 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:34:15 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:34:15 12/08/23 [38;5;21mINFO[0m starting message
+11:34:15 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:34:16 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+11:34:16 12/08/23 [38;5;21mINFO[0m option choosed ->> Uno
+11:34:16 12/08/23 [38;5;21mINFO[0m browser file
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:18:08 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:18:08 11/07/23 [38;5;21mINFO[0m bienvenida
-23:18:08 11/07/23 [38;5;21mINFO[0m # interaccion
-23:18:08 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:35:52 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:35:52 12/08/23 [38;5;21mINFO[0m clear screan
+11:35:52 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:35:52 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:35:52 12/08/23 [38;5;21mINFO[0m starting message
+11:35:52 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:35:54 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+11:35:54 12/08/23 [38;5;21mINFO[0m option choosed ->> Uno
+11:35:54 12/08/23 [38;5;21mINFO[0m browser file
+11:36:12 12/08/23 [38;5;21mINFO[0m file choose -> successfuly
+11:36:12 12/08/23 [38;5;21mINFO[0m file choosed ->> /home/spacebox/Documentos/tools/BashToolKit/ascii.txt
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:19:16 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:19:16 11/07/23 [38;5;21mINFO[0m bienvenida
-23:19:17 11/07/23 [38;5;21mINFO[0m # interaccion
-23:19:17 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+11:37:59 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:37:59 12/08/23 [38;5;21mINFO[0m clear screan
+11:37:59 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+11:37:59 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:37:59 12/08/23 [38;5;21mINFO[0m starting message
+11:38:00 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+11:38:01 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+11:38:01 12/08/23 [38;5;21mINFO[0m option choosed ->> Uno
+11:38:01 12/08/23 [38;5;21mINFO[0m browser file
+11:38:04 12/08/23 [38;5;21mINFO[0m file choose -> successfuly
+11:38:04 12/08/23 [38;5;21mINFO[0m file choosed ->> /home/spacebox/Documentos/tools/BashToolKit/ascii.txt
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:19:36 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:19:36 11/07/23 [38;5;21mINFO[0m bienvenida
-23:19:36 11/07/23 [38;5;21mINFO[0m # interaccion
-23:19:37 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+12:00:06 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:19:41 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:19:41 11/07/23 [38;5;21mINFO[0m bienvenida
-23:19:41 11/07/23 [38;5;21mINFO[0m # interaccion
-23:19:44 11/07/23 [38;5;21mINFO[0m seleccion: 
+12:00:37 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:23:23 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:23:23 11/07/23 [38;5;21mINFO[0m bienvenida
-23:23:23 11/07/23 [38;5;21mINFO[0m # interaccion
-23:23:23 11/07/23 [38;5;21mINFO[0m seleccion: 
+12:00:48 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:24:51 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:24:51 11/07/23 [38;5;21mINFO[0m bienvenida
-23:24:51 11/07/23 [38;5;21mINFO[0m # interaccion
-23:24:53 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
+12:01:21 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:26:45 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:26:45 11/07/23 [38;5;21mINFO[0m bienvenida
-23:26:45 11/07/23 [38;5;21mINFO[0m # interaccion
-23:26:46 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
-23:26:49 11/07/23 [38;5;21mINFO[0m seleccion: Bajar
+12:01:48 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:29:07 11/07/23 [38;5;21mINFO[0m configuracion importada
-23:29:07 11/07/23 [38;5;21mINFO[0m bienvenida
-23:29:07 11/07/23 [38;5;21mINFO[0m # interaccion
-23:29:08 11/07/23 [38;5;21mINFO[0m seleccion: Ramas
-23:29:08 11/07/23 [38;5;21mINFO[0m ## interaccion
-23:29:19 11/07/23 [38;5;21mINFO[0m seleccion: Cambiar
+12:02:12 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:11:02 11/08/23 [38;5;21mINFO[0m configuracion importada
-16:11:02 11/08/23 [38;5;21mINFO[0m bienvenida
-16:11:02 11/08/23 [38;5;21mINFO[0m # interaccion
-16:11:03 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-16:11:03 11/08/23 [38;5;21mINFO[0m ## interaccion
-16:11:17 11/08/23 [38;5;21mINFO[0m seleccion: Cambiar
+12:02:50 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:33:17 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:33:17 11/08/23 [38;5;21mINFO[0m bienvenida
-22:33:17 11/08/23 [38;5;21mINFO[0m # interaccion
-22:33:18 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:33:18 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:33:43 11/08/23 [38;5;21mINFO[0m seleccion: 
+12:03:42 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:33:45 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:33:45 11/08/23 [38;5;21mINFO[0m bienvenida
-22:33:45 11/08/23 [38;5;21mINFO[0m # interaccion
-22:33:46 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:33:46 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:33:52 11/08/23 [38;5;21mINFO[0m seleccion: Subir
+12:03:52 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:36:08 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:36:08 11/08/23 [38;5;21mINFO[0m bienvenida
-22:36:08 11/08/23 [38;5;21mINFO[0m # interaccion
-22:36:08 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:36:08 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:36:09 11/08/23 [38;5;21mINFO[0m seleccion: Subir
+12:04:13 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:38:00 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:38:00 11/08/23 [38;5;21mINFO[0m bienvenida
-22:38:00 11/08/23 [38;5;21mINFO[0m # interaccion
-22:38:01 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:38:01 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:38:01 11/08/23 [38;5;21mINFO[0m seleccion: Subir
+12:06:20 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:38:49 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:38:49 11/08/23 [38;5;21mINFO[0m bienvenida
-22:38:49 11/08/23 [38;5;21mINFO[0m # interaccion
-22:38:50 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:38:50 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:38:50 11/08/23 [38;5;21mINFO[0m seleccion: Subir
+12:06:37 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:39:26 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:39:26 11/08/23 [38;5;21mINFO[0m bienvenida
-22:39:26 11/08/23 [38;5;21mINFO[0m # interaccion
-22:40:26 11/08/23 [38;5;21mINFO[0m seleccion: 
-22:40:26 11/08/23 [38;5;21mINFO[0m ## interaccion
+12:06:46 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:44:55 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:44:55 11/08/23 [38;5;21mINFO[0m bienvenida
-22:44:55 11/08/23 [38;5;21mINFO[0m # interaccion
-22:44:56 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:44:56 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:45:00 11/08/23 [38;5;21mINFO[0m seleccion: Subir
+12:07:14 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:45:15 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:45:15 11/08/23 [38;5;21mINFO[0m bienvenida
-22:45:15 11/08/23 [38;5;21mINFO[0m # interaccion
-22:45:16 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:45:16 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:45:17 11/08/23 [38;5;21mINFO[0m seleccion: Subir
+12:09:37 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:46:04 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:46:04 11/08/23 [38;5;21mINFO[0m bienvenida
-22:46:04 11/08/23 [38;5;21mINFO[0m # interaccion
-22:46:05 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:46:05 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:46:05 11/08/23 [38;5;21mINFO[0m seleccion: Subir
+12:10:40 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:53:28 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:53:28 11/08/23 [38;5;21mINFO[0m bienvenida
-22:53:28 11/08/23 [38;5;21mINFO[0m # interaccion
-22:53:34 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:53:34 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:54:02 11/08/23 [38;5;21mINFO[0m seleccion: Subir
-22:54:02 11/08/23 [38;5;21mINFO[0m ### interaccion
-22:54:41 11/08/23 [38;5;21mINFO[0m seleccion: 
+12:11:05 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:54:42 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:54:42 11/08/23 [38;5;21mINFO[0m bienvenida
-22:54:42 11/08/23 [38;5;21mINFO[0m # interaccion
-22:54:43 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:54:43 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:54:45 11/08/23 [38;5;21mINFO[0m seleccion: 
+12:11:17 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:55:27 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:55:27 11/08/23 [38;5;21mINFO[0m bienvenida
-22:55:27 11/08/23 [38;5;21mINFO[0m # interaccion
-22:55:27 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:55:27 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:55:38 11/08/23 [38;5;21mINFO[0m seleccion: Subir
-22:55:38 11/08/23 [38;5;21mINFO[0m ### interaccion
-22:55:43 11/08/23 [38;5;21mINFO[0m seleccion: 
+12:11:25 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:56:57 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:56:58 11/08/23 [38;5;21mINFO[0m bienvenida
-22:56:58 11/08/23 [38;5;21mINFO[0m # interaccion
-22:56:58 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:56:58 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:56:59 11/08/23 [38;5;21mINFO[0m seleccion: Subir
-22:56:59 11/08/23 [38;5;21mINFO[0m ### interaccion
-22:57:00 11/08/23 [38;5;21mINFO[0m seleccion: Todo
+12:11:33 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-22:58:20 11/08/23 [38;5;21mINFO[0m configuracion importada
-22:58:20 11/08/23 [38;5;21mINFO[0m bienvenida
-22:58:21 11/08/23 [38;5;21mINFO[0m # interaccion
-22:58:21 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-22:58:21 11/08/23 [38;5;21mINFO[0m ## interaccion
-22:58:22 11/08/23 [38;5;21mINFO[0m seleccion: Subir
-22:58:22 11/08/23 [38;5;21mINFO[0m ### interaccion
-22:58:22 11/08/23 [38;5;21mINFO[0m seleccion: Todo
-22:58:22 11/08/23 [38;5;21mINFO[0m Añadiendo archivos
+12:11:49 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:01:49 11/08/23 [38;5;21mINFO[0m configuracion importada
-23:01:50 11/08/23 [38;5;21mINFO[0m bienvenida
-23:01:50 11/08/23 [38;5;21mINFO[0m # interaccion
-23:01:50 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-23:01:50 11/08/23 [38;5;21mINFO[0m ## interaccion
-23:01:50 11/08/23 [38;5;21mINFO[0m seleccion: Subir
-23:01:50 11/08/23 [38;5;21mINFO[0m ### interaccion
-23:01:51 11/08/23 [38;5;21mINFO[0m seleccion: Todo
-23:01:51 11/08/23 [38;5;21mINFO[0m Añadiendo archivos
-23:01:51 11/08/23 [38;5;21mINFO[0m 0
+12:12:10 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:03:53 11/08/23 [38;5;21mINFO[0m configuracion importada
-23:03:53 11/08/23 [38;5;21mINFO[0m bienvenida
-23:03:53 11/08/23 [38;5;21mINFO[0m # interaccion
-23:03:54 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-23:03:54 11/08/23 [38;5;21mINFO[0m ## interaccion
-23:03:58 11/08/23 [38;5;21mINFO[0m seleccion: 
-23:03:58 11/08/23 [38;5;165mERROR[0m git add -> successfuly
+12:12:20 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:03:59 11/08/23 [38;5;21mINFO[0m configuracion importada
-23:03:59 11/08/23 [38;5;21mINFO[0m bienvenida
-23:03:59 11/08/23 [38;5;21mINFO[0m # interaccion
-23:04:12 11/08/23 [38;5;21mINFO[0m seleccion: 
-23:04:12 11/08/23 [38;5;21mINFO[0m ## interaccion
+12:12:29 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:04:13 11/08/23 [38;5;21mINFO[0m configuracion importada
-23:04:13 11/08/23 [38;5;21mINFO[0m bienvenida
-23:04:13 11/08/23 [38;5;21mINFO[0m # interaccion
-23:04:14 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-23:04:14 11/08/23 [38;5;21mINFO[0m ## interaccion
-23:04:15 11/08/23 [38;5;21mINFO[0m seleccion: Subir
-23:04:15 11/08/23 [38;5;21mINFO[0m ### interaccion
-23:04:16 11/08/23 [38;5;21mINFO[0m seleccion: Todo
-23:04:16 11/08/23 [38;5;21mINFO[0m Añadiendo archivos
-23:04:16 11/08/23 [38;5;165mERROR[0m git add -> successfuly
+12:12:54 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:33:05 11/08/23 [38;5;21mINFO[0m configuracion importada
-23:33:05 11/08/23 [38;5;21mINFO[0m bienvenida
-23:33:05 11/08/23 [38;5;21mINFO[0m # interaccion
-23:33:08 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-23:33:08 11/08/23 [38;5;21mINFO[0m ## interaccion
+12:17:38 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:33:43 11/08/23 [38;5;21mINFO[0m configuracion importada
-23:33:43 11/08/23 [38;5;21mINFO[0m bienvenida
-23:33:43 11/08/23 [38;5;21mINFO[0m # interaccion
-23:33:45 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-23:33:45 11/08/23 [38;5;21mINFO[0m ## interaccion
-23:33:46 11/08/23 [38;5;21mINFO[0m seleccion: Subir
-23:33:46 11/08/23 [38;5;21mINFO[0m ### interaccion
-23:33:47 11/08/23 [38;5;21mINFO[0m seleccion: Todo
-23:33:47 11/08/23 [38;5;21mINFO[0m Añadiendo archivos
-23:33:47 11/08/23 [38;5;21mINFO[0m git add -> successfuly
+12:17:56 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:35:18 11/08/23 [38;5;21mINFO[0m configuracion importada
-23:35:18 11/08/23 [38;5;21mINFO[0m bienvenida
-23:35:18 11/08/23 [38;5;21mINFO[0m # interaccion
-23:35:20 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-23:35:20 11/08/23 [38;5;21mINFO[0m ## interaccion
-23:35:22 11/08/23 [38;5;21mINFO[0m seleccion: Subir
-23:35:22 11/08/23 [38;5;21mINFO[0m ### interaccion
-23:35:23 11/08/23 [38;5;21mINFO[0m seleccion: Todo
-23:35:23 11/08/23 [38;5;21mINFO[0m Añadiendo archivos
-23:35:23 11/08/23 [38;5;21mINFO[0m git add -> successfuly
+12:18:11 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:36:17 11/08/23 [38;5;21mINFO[0m configuracion importada
-23:36:17 11/08/23 [38;5;21mINFO[0m bienvenida
-23:36:17 11/08/23 [38;5;21mINFO[0m # interaccion
-23:36:18 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-23:36:18 11/08/23 [38;5;21mINFO[0m ## interaccion
-23:36:20 11/08/23 [38;5;21mINFO[0m seleccion: Subir
-23:36:20 11/08/23 [38;5;21mINFO[0m ### interaccion
-23:36:20 11/08/23 [38;5;21mINFO[0m seleccion: Todo
-23:36:21 11/08/23 [38;5;21mINFO[0m Añadiendo archivos
-23:36:21 11/08/23 [38;5;21mINFO[0m git add -> successfuly
+12:18:50 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:37:24 11/08/23 [38;5;21mINFO[0m configuracion importada
-23:37:24 11/08/23 [38;5;21mINFO[0m bienvenida
-23:37:24 11/08/23 [38;5;21mINFO[0m # interaccion
-23:37:25 11/08/23 [38;5;21mINFO[0m seleccion: Ramas
-23:37:25 11/08/23 [38;5;21mINFO[0m ## interaccion
-23:37:26 11/08/23 [38;5;21mINFO[0m seleccion: Subir
-23:37:26 11/08/23 [38;5;21mINFO[0m ### interaccion
-23:37:26 11/08/23 [38;5;21mINFO[0m seleccion: Todo
-23:37:26 11/08/23 [38;5;21mINFO[0m Añadiendo archivos
-23:37:26 11/08/23 [38;5;21mINFO[0m git add -> successfuly
+12:19:29 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-09:59:12 11/09/23 [38;5;21mINFO[0m configuracion importada
-09:59:12 11/09/23 [38;5;21mINFO[0m bienvenida
-09:59:12 11/09/23 [38;5;21mINFO[0m # interaccion
-09:59:13 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-09:59:13 11/09/23 [38;5;21mINFO[0m ## interaccion
-09:59:14 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-09:59:14 11/09/23 [38;5;21mINFO[0m ### interaccion
-09:59:15 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-09:59:15 11/09/23 [38;5;21mINFO[0m Buscando archivo
+12:19:45 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-09:59:35 11/09/23 [38;5;21mINFO[0m configuracion importada
-09:59:35 11/09/23 [38;5;21mINFO[0m bienvenida
-09:59:35 11/09/23 [38;5;21mINFO[0m # interaccion
-09:59:36 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-09:59:36 11/09/23 [38;5;21mINFO[0m ## interaccion
-09:59:36 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-09:59:36 11/09/23 [38;5;21mINFO[0m ### interaccion
-09:59:37 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-09:59:37 11/09/23 [38;5;21mINFO[0m Buscando archivo
+12:20:10 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:01:15 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:01:15 11/09/23 [38;5;21mINFO[0m bienvenida
-10:01:15 11/09/23 [38;5;21mINFO[0m # interaccion
-10:01:15 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:01:16 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:01:16 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:01:16 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:01:17 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-10:01:17 11/09/23 [38;5;21mINFO[0m Buscando archivo
+12:20:34 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:01:39 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:01:39 11/09/23 [38;5;21mINFO[0m bienvenida
-10:01:39 11/09/23 [38;5;21mINFO[0m # interaccion
-10:01:39 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:01:39 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:01:40 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:01:40 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:01:40 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-10:01:40 11/09/23 [38;5;21mINFO[0m Buscando archivo
+12:23:06 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:02:27 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:02:27 11/09/23 [38;5;21mINFO[0m bienvenida
-10:02:27 11/09/23 [38;5;21mINFO[0m # interaccion
-10:02:28 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:02:28 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:02:28 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:02:28 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:02:30 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-10:02:30 11/09/23 [38;5;21mINFO[0m Buscando archivo
+12:23:28 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:03:06 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:03:06 11/09/23 [38;5;21mINFO[0m bienvenida
-10:03:06 11/09/23 [38;5;21mINFO[0m # interaccion
-10:03:07 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:03:07 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:03:07 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:03:07 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:03:08 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-10:03:08 11/09/23 [38;5;21mINFO[0m Buscando archivo
+12:23:36 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:04:26 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:04:26 11/09/23 [38;5;21mINFO[0m bienvenida
-10:04:26 11/09/23 [38;5;21mINFO[0m # interaccion
-10:04:27 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:04:27 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:04:27 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:04:27 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:04:29 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-10:04:29 11/09/23 [38;5;21mINFO[0m Buscando archivo
-10:06:21 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:06:41 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:09:57 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:10:31 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:11:08 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:11:23 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:13:22 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:14:05 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:15:45 11/09/23 [38;5;21mINFO[0m hello
-10:17:41 11/09/23 [38;5;21mINFO[0m hello
-10:17:41 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:18:04 11/09/23 [38;5;21mINFO[0m hello
-10:18:04 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:19:18 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:19:52 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:20:06 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:20:31 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:20:41 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:20:48 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:21:15 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:21:50 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:21:58 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:22:10 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:22:52 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:23:09 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:23:39 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:23:47 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:23:56 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:23:59 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:24:49 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:25:57 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:26:26 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:27:13 11/09/23 [38;5;48mWARNING[0m Searching a files
-10:28:13 11/09/23 [38;5;48mWARNING[0m Searching a files
+12:24:05 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:28:23 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:28:23 11/09/23 [38;5;21mINFO[0m bienvenida
-10:28:23 11/09/23 [38;5;21mINFO[0m # interaccion
-10:28:24 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:28:24 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:28:25 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:28:25 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:28:26 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-10:28:26 11/09/23 [38;5;21mINFO[0m Buscando archivo
+12:24:37 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:39:48 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:39:49 11/09/23 [38;5;21mINFO[0m bienvenida
-10:39:49 11/09/23 [38;5;21mINFO[0m # interaccion
-10:39:50 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:39:50 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:39:51 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:39:51 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:39:53 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-10:39:53 11/09/23 [38;5;21mINFO[0m Buscando archivo
+12:25:17 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:40:04 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:40:04 11/09/23 [38;5;21mINFO[0m bienvenida
-10:40:04 11/09/23 [38;5;21mINFO[0m # interaccion
-10:40:05 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:40:05 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:40:06 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:40:06 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:40:06 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-10:40:06 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-10:40:06 11/09/23 [38;5;21mINFO[0m git add -> successfuly
+12:27:10 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:40:08 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:40:08 11/09/23 [38;5;21mINFO[0m bienvenida
-10:40:08 11/09/23 [38;5;21mINFO[0m # interaccion
-10:40:09 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:40:09 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:40:11 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:40:11 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:40:12 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-10:40:12 11/09/23 [38;5;21mINFO[0m Buscando archivo
-10:40:15 11/09/23 [38;5;21mINFO[0m Archivo seleccionado: [38;5;21m/home/spacebox/Documentos/tools/BashToolKit/colors.sh[0m
+12:27:20 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+12:27:21 12/08/23 [38;5;21mINFO[0m clear screan
+12:27:21 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+12:27:21 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+12:27:21 12/08/23 [38;5;21mINFO[0m starting message
+12:27:21 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+12:27:23 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+12:27:23 12/08/23 [38;5;21mINFO[0m option choosed ->> Todos
+12:27:23 12/08/23 [38;5;21mINFO[0m browser file
+12:27:37 12/08/23 [38;5;21mINFO[0m file choose -> successfuly
+12:27:37 12/08/23 [38;5;21mINFO[0m file choosed ->> 
+12:27:37 12/08/23 [38;5;21mINFO[0m add files
+12:27:37 12/08/23 [38;5;21mINFO[0m adding files -> successfuly
+12:27:40 12/08/23 [38;5;21mINFO[0m take input -> successfuly
+12:27:40 12/08/23 [38;5;21mINFO[0m input taked 
+12:27:40 12/08/23 [38;5;93mERROR[0m adding commit -> failed
+12:27:40 12/08/23 [38;5;93mERROR[0m 0
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:40:48 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:40:48 11/09/23 [38;5;21mINFO[0m bienvenida
-10:40:48 11/09/23 [38;5;21mINFO[0m # interaccion
-10:40:49 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:40:49 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:40:50 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:40:50 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:40:52 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-10:40:52 11/09/23 [38;5;21mINFO[0m Buscando archivo
-10:40:54 11/09/23 [38;5;21mINFO[0m Archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/config.sh
+12:28:59 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+12:28:59 12/08/23 [38;5;21mINFO[0m clear screan
+12:28:59 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+12:28:59 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+12:28:59 12/08/23 [38;5;21mINFO[0m starting message
+12:28:59 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+12:29:01 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+12:29:01 12/08/23 [38;5;21mINFO[0m option choosed ->> Todos
+12:29:01 12/08/23 [38;5;93mERROR[0m opcioón no valida
+12:29:01 12/08/23 [38;5;21mINFO[0m add files
+12:29:01 12/08/23 [38;5;21mINFO[0m adding files -> successfuly
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:43:41 11/09/23 [38;5;21mINFO[0m configuracion importada
-10:43:41 11/09/23 [38;5;21mINFO[0m bienvenida
-10:43:41 11/09/23 [38;5;21mINFO[0m # interaccion
-10:43:43 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-10:43:43 11/09/23 [38;5;21mINFO[0m ## interaccion
-10:43:45 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-10:43:45 11/09/23 [38;5;21mINFO[0m ### interaccion
-10:43:47 11/09/23 [38;5;21mINFO[0m seleccion: Archivo
-10:43:47 11/09/23 [38;5;21mINFO[0m Buscando archivo
-10:43:52 11/09/23 [38;5;21mINFO[0m Archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/colors.sh
-10:43:52 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-10:43:52 11/09/23 [38;5;21mINFO[0m git add -> successfuly
+12:29:54 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+12:29:54 12/08/23 [38;5;21mINFO[0m clear screan
+12:29:54 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+12:29:54 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+12:29:54 12/08/23 [38;5;21mINFO[0m starting message
+12:29:54 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+12:29:55 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+12:29:55 12/08/23 [38;5;21mINFO[0m option choosed ->> Todos
+12:29:56 12/08/23 [38;5;21mINFO[0m select all files
+12:29:56 12/08/23 [38;5;21mINFO[0m add files
+12:29:56 12/08/23 [38;5;21mINFO[0m adding files -> successfuly
+12:30:23 12/08/23 [38;5;21mINFO[0m take input -> successfuly
+12:30:23 12/08/23 [38;5;21mINFO[0m input taked UPLOAD ALL CHANGES
+12:30:24 12/08/23 [38;5;93mERROR[0m adding commit -> failed
+12:30:24 12/08/23 [38;5;93mERROR[0m 0
 
 
 
 
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:29:14 11/09/23 [38;5;21mINFO[0m configuracion importada
-16:29:14 11/09/23 [38;5;21mINFO[0m bienvenida
-16:29:14 11/09/23 [38;5;21mINFO[0m # interaccion
-16:29:14 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-16:29:15 11/09/23 [38;5;21mINFO[0m ## interaccion
-16:29:15 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-16:29:15 11/09/23 [38;5;21mINFO[0m ### interaccion
-16:29:22 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-16:29:23 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-16:29:23 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-16:29:23 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-16:29:23 11/09/23 [38;5;21mINFO[0m Captando el comit del usuario
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:30:15 11/09/23 [38;5;21mINFO[0m configuracion importada
-16:30:15 11/09/23 [38;5;21mINFO[0m bienvenida
-16:30:15 11/09/23 [38;5;21mINFO[0m # interaccion
-16:30:16 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-16:30:16 11/09/23 [38;5;21mINFO[0m ## interaccion
-16:30:16 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-16:30:16 11/09/23 [38;5;21mINFO[0m ### interaccion
-16:30:17 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-16:30:17 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-16:30:17 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-16:30:17 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-16:30:18 11/09/23 [38;5;21mINFO[0m Captando el comit del usuario
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:31:00 11/09/23 [38;5;21mINFO[0m configuracion importada
-16:31:00 11/09/23 [38;5;21mINFO[0m bienvenida
-16:31:00 11/09/23 [38;5;21mINFO[0m # interaccion
-16:31:01 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-16:31:01 11/09/23 [38;5;21mINFO[0m ## interaccion
-16:31:01 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-16:31:01 11/09/23 [38;5;21mINFO[0m ### interaccion
-16:31:01 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-16:31:02 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-16:31:02 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-16:31:02 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-16:31:02 11/09/23 [38;5;21mINFO[0m Captando el commit del usuario
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:31:56 11/09/23 [38;5;21mINFO[0m configuracion importada
-16:31:56 11/09/23 [38;5;21mINFO[0m bienvenida
-16:31:56 11/09/23 [38;5;21mINFO[0m # interaccion
-16:31:56 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-16:31:56 11/09/23 [38;5;21mINFO[0m ## interaccion
-16:31:57 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-16:31:57 11/09/23 [38;5;21mINFO[0m ### interaccion
-16:31:58 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-16:31:58 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-16:31:58 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-16:31:58 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-16:31:58 11/09/23 [38;5;21mINFO[0m Captando el commit del usuario
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:32:04 11/09/23 [38;5;21mINFO[0m configuracion importada
-16:32:04 11/09/23 [38;5;21mINFO[0m bienvenida
-16:32:04 11/09/23 [38;5;21mINFO[0m # interaccion
-16:32:05 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-16:32:05 11/09/23 [38;5;21mINFO[0m ## interaccion
-16:32:05 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-16:32:05 11/09/23 [38;5;21mINFO[0m ### interaccion
-16:32:06 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-16:32:06 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-16:32:06 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-16:32:06 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-16:32:06 11/09/23 [38;5;21mINFO[0m Captando el commit del usuario
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:32:28 11/09/23 [38;5;21mINFO[0m configuracion importada
-16:32:28 11/09/23 [38;5;21mINFO[0m bienvenida
-16:32:28 11/09/23 [38;5;21mINFO[0m # interaccion
-16:32:29 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-16:32:29 11/09/23 [38;5;21mINFO[0m ## interaccion
-16:32:29 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-16:32:29 11/09/23 [38;5;21mINFO[0m ### interaccion
-16:32:29 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-16:32:29 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-16:32:29 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-16:32:29 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-16:32:29 11/09/23 [38;5;21mINFO[0m Captando el commit del usuario
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:35:32 11/09/23 [38;5;21mINFO[0m configuracion importada
-16:35:32 11/09/23 [38;5;21mINFO[0m bienvenida
-16:35:32 11/09/23 [38;5;21mINFO[0m # interaccion
-16:35:32 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-16:35:33 11/09/23 [38;5;21mINFO[0m ## interaccion
-16:35:33 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-16:35:33 11/09/23 [38;5;21mINFO[0m ### interaccion
-16:35:35 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-16:35:35 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-16:35:35 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-16:35:35 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-16:35:35 11/09/23 [38;5;21mINFO[0m Captando el commit del usuario
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:35:53 11/09/23 [38;5;21mINFO[0m configuracion importada
-16:35:53 11/09/23 [38;5;21mINFO[0m bienvenida
-16:35:53 11/09/23 [38;5;21mINFO[0m # interaccion
-16:35:53 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-16:35:54 11/09/23 [38;5;21mINFO[0m ## interaccion
-16:35:54 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-16:35:54 11/09/23 [38;5;21mINFO[0m ### interaccion
-16:36:49 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-16:36:49 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-16:36:49 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-16:36:49 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-16:36:49 11/09/23 [38;5;21mINFO[0m Captando el commit del usuario
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:36:50 11/09/23 [38;5;21mINFO[0m configuracion importada
-16:36:50 11/09/23 [38;5;21mINFO[0m bienvenida
-16:36:50 11/09/23 [38;5;21mINFO[0m # interaccion
-16:36:50 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-16:36:50 11/09/23 [38;5;21mINFO[0m ## interaccion
-16:36:51 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-16:36:51 11/09/23 [38;5;21mINFO[0m ### interaccion
-16:36:51 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-16:36:51 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-16:36:51 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-16:36:51 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-16:36:51 11/09/23 [38;5;21mINFO[0m Captando el commit del usuario
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-16:37:09 11/09/23 [38;5;21mINFO[0m configuracion importada
-16:37:09 11/09/23 [38;5;21mINFO[0m bienvenida
-16:37:09 11/09/23 [38;5;21mINFO[0m # interaccion
-16:37:09 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-16:37:09 11/09/23 [38;5;21mINFO[0m ## interaccion
-16:37:09 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-16:37:09 11/09/23 [38;5;21mINFO[0m ### interaccion
-16:37:11 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-16:37:11 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-16:37:11 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-16:37:11 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-16:37:12 11/09/23 [38;5;21mINFO[0m Captando el commit del usuario
-17:06:58 11/09/23 [38;5;21mINFO[0m  -> successfuly
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:09:37 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:09:37 11/09/23 [38;5;21mINFO[0m bienvenida
-17:09:37 11/09/23 [38;5;21mINFO[0m # interaccion
-17:09:38 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-17:09:38 11/09/23 [38;5;21mINFO[0m ## interaccion
-17:09:39 11/09/23 [38;5;21mINFO[0m seleccion: Subir
-17:09:39 11/09/23 [38;5;21mINFO[0m ### interaccion
-17:09:42 11/09/23 [38;5;21mINFO[0m seleccion: Todo
-17:09:43 11/09/23 [38;5;21mINFO[0m Todos seleccionados
-17:09:43 11/09/23 [38;5;21mINFO[0m Añadiendo archivos
-17:09:43 11/09/23 [38;5;21mINFO[0m git add -> successfuly
-17:09:43 11/09/23 [38;5;21mINFO[0m Captando el commit del usuario
-17:09:49 11/09/23 [38;5;21mINFO[0m git commit -> successfuly
-17:09:49 11/09/23 [38;5;21mINFO[0m Subiendo cambios
-17:10:13 11/09/23 [38;5;21mINFO[0m  -> successfuly
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:19:08 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:19:08 11/09/23 [38;5;21mINFO[0m bienvenida
-17:19:08 11/09/23 [38;5;21mINFO[0m # interaccion
-17:19:11 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-17:19:11 11/09/23 [38;5;21mINFO[0m ## interaccion
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:19:51 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:19:51 11/09/23 [38;5;21mINFO[0m bienvenida
-17:19:51 11/09/23 [38;5;21mINFO[0m # interaccion
-17:19:51 11/09/23 [38;5;21mINFO[0m seleccion: Git
-17:19:51 11/09/23 [38;5;21mINFO[0m ## interaccion
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:19:54 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:19:54 11/09/23 [38;5;21mINFO[0m bienvenida
-17:19:54 11/09/23 [38;5;21mINFO[0m # interaccion
-17:19:56 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-17:19:56 11/09/23 [38;5;21mINFO[0m ## interaccion
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:20:14 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:20:14 11/09/23 [38;5;21mINFO[0m bienvenida
-17:20:14 11/09/23 [38;5;21mINFO[0m # interaccion
-17:20:15 11/09/23 [38;5;21mINFO[0m seleccion: Git
-17:20:15 11/09/23 [38;5;21mINFO[0m ## interaccion
-17:20:15 11/09/23 [38;5;21mINFO[0m git selected
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:20:18 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:20:18 11/09/23 [38;5;21mINFO[0m bienvenida
-17:20:18 11/09/23 [38;5;21mINFO[0m # interaccion
-17:20:19 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-17:20:19 11/09/23 [38;5;21mINFO[0m ## interaccion
-17:22:21 11/09/23 [38;5;21mINFO[0m seleccion: 
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:24:13 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:24:13 11/09/23 [38;5;21mINFO[0m bienvenida
-17:24:13 11/09/23 [38;5;21mINFO[0m # interaccion
-17:24:15 11/09/23 [38;5;21mINFO[0m seleccion: Git
-17:24:15 11/09/23 [38;5;21mINFO[0m ## interaccion
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:25:11 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:25:11 11/09/23 [38;5;21mINFO[0m bienvenida
-17:25:11 11/09/23 [38;5;21mINFO[0m # interaccion
-17:25:13 11/09/23 [38;5;21mINFO[0m seleccion: Ramas
-17:25:13 11/09/23 [38;5;21mINFO[0m ## interaccion
-17:25:17 11/09/23 [38;5;21mINFO[0m seleccion: 
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:29:27 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:29:27 11/09/23 [38;5;21mINFO[0m bienvenida
-17:29:27 11/09/23 [38;5;21mINFO[0m # interaccion
-17:29:28 11/09/23 [38;5;21mINFO[0m seleccion: Git
-17:29:29 11/09/23 [38;5;21mINFO[0m ## interaccion
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:41:11 11/09/23 [38;5;21mINFO[0m configuracion importada
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:41:28 11/09/23 [38;5;21mINFO[0m configuracion importada
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:54:46 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:54:46 11/09/23 [38;5;21mINFO[0m mensaje de bienvenida
-17:54:46 11/09/23 [38;5;21mINFO[0m seleccionando cambios
-17:54:46 11/09/23 [38;5;165mERROR[0m opcion no valida
-17:55:51 11/09/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-17:55:51 11/09/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:55:55 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:55:55 11/09/23 [38;5;21mINFO[0m mensaje de bienvenida
-17:55:55 11/09/23 [38;5;21mINFO[0m seleccionando cambios
-17:55:55 11/09/23 [38;5;165mERROR[0m opcion no valida
-17:55:58 11/09/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-17:55:58 11/09/23 [38;5;21mINFO[0m buscando archivo
-17:56:06 11/09/23 [38;5;21mINFO[0m file selection -> successfuly
-17:56:06 11/09/23 [38;5;21mINFO[0m archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/colors.sh
-17:56:06 11/09/23 [38;5;21mINFO[0m se selecciono el archivo
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:57:08 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:57:08 11/09/23 [38;5;21mINFO[0m mensaje de bienvenida
-17:57:08 11/09/23 [38;5;21mINFO[0m seleccionando cambios
-17:57:08 11/09/23 [38;5;165mERROR[0m opcion no valida
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-17:58:20 11/09/23 [38;5;21mINFO[0m configuracion importada
-17:58:20 11/09/23 [38;5;21mINFO[0m mensaje de bienvenida
-17:58:20 11/09/23 [38;5;21mINFO[0m seleccionando cambios
-17:58:26 11/09/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-17:58:26 11/09/23 [38;5;21mINFO[0m buscando archivo
-17:58:30 11/09/23 [38;5;21mINFO[0m file selection -> successfuly
-17:58:30 11/09/23 [38;5;21mINFO[0m archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/config.sh
-17:58:30 11/09/23 [38;5;21mINFO[0m se selecciono el archivo
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-18:25:36 11/09/23 [38;5;21mINFO[0m configuracion importada
-18:25:36 11/09/23 [38;5;21mINFO[0m mensaje de bienvenida
-18:25:36 11/09/23 [38;5;21mINFO[0m seleccionando cambios
-18:25:47 11/09/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-18:25:47 11/09/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-18:25:47 11/09/23 [38;5;21mINFO[0m añadiendo los archivos
-18:25:47 11/09/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-18:25:47 11/09/23 [38;5;21mINFO[0m preparando el commit
-18:26:34 11/09/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
-18:26:34 11/09/23 [38;5;21mINFO[0m subiendo los cambios de la rama
-18:27:42 11/09/23 [38;5;21mINFO[0m  -> successfuly
-18:27:42 11/09/23 [38;5;21mINFO[0m Cerrando GIT-UP bash
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-15:47:48 11/10/23 [38;5;21mINFO[0m configuracion importada
-15:47:48 11/10/23 [38;5;21mINFO[0m mensaje de bienvenida
-15:47:48 11/10/23 [38;5;21mINFO[0m seleccionando cambios
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:41:13 11/11/23 [38;5;21mINFO[0m configuracion importada
-10:41:13 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-10:41:13 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-10:41:28 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-10:41:28 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-10:41:28 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-10:41:28 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-10:41:28 11/11/23 [38;5;21mINFO[0m preparando el commit
-10:41:29 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
-10:41:30 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:50:22 11/11/23 [38;5;21mINFO[0m configuracion importada
-10:50:22 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-10:50:22 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:51:06 11/11/23 [38;5;21mINFO[0m configuracion importada
-10:51:06 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-10:51:06 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-10:57:11 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-10:57:11 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-10:57:11 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-10:57:11 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-10:57:11 11/11/23 [38;5;21mINFO[0m preparando el commit
-10:57:13 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
-10:57:13 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-10:57:20 11/11/23 [38;5;21mINFO[0m configuracion importada
-10:57:20 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-10:57:20 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-10:57:22 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-10:57:22 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-10:57:22 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-10:57:22 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-10:57:22 11/11/23 [38;5;21mINFO[0m preparando el commit
-10:57:31 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
-10:57:31 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:02:25 11/11/23 [38;5;21mINFO[0m configuracion importada
-11:02:25 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:02:25 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-11:02:27 11/11/23 [38;5;21mINFO[0m se selecciono la opcion 
-11:02:27 11/11/23 [38;5;165mERROR[0m opcioón no valida
-11:02:27 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-11:02:27 11/11/23 [38;5;165mERROR[0m subida de archivos : git add -> failed
-11:02:27 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:03:48 11/11/23 [38;5;21mINFO[0m configuracion importada
-11:03:48 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:03:48 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-11:03:50 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-11:03:50 11/11/23 [38;5;21mINFO[0m buscando archivo
-11:03:53 11/11/23 [38;5;165mERROR[0m seleccion de archivos -> failed
-11:03:53 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:07:46 11/11/23 [38;5;21mINFO[0m configuracion importada
-11:07:46 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:07:46 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-11:07:49 11/11/23 [38;5;21mINFO[0m se selecciono la opcion 
-11:07:49 11/11/23 [38;5;165mERROR[0m opcioón no valida
-11:07:49 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-11:07:49 11/11/23 [38;5;165mERROR[0m subida de archivos : git add -> failed
-11:07:50 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:11:42 11/11/23 [38;5;21mINFO[0m configuracion importada
-11:11:42 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:11:42 11/11/23 [38;5;21mINFO[0m seleccionado interaccion
-11:11:43 11/11/23 [38;5;21mINFO[0m seleccion: 
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:11:47 11/11/23 [38;5;21mINFO[0m configuracion importada
-11:11:47 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:11:47 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-11:11:52 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-11:11:52 11/11/23 [38;5;21mINFO[0m buscando archivo
-11:11:55 11/11/23 [38;5;165mERROR[0m seleccion de archivos -> failed
-11:11:55 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:19:40 11/11/23 [38;5;21mINFO[0m configuracion importada
-11:19:40 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:19:41 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-11:19:54 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-11:19:54 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-11:19:54 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-11:19:54 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-11:19:54 11/11/23 [38;5;21mINFO[0m preparando el commit
-11:28:32 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
-11:28:32 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:48:56 11/11/23 [38;5;21mINFO[0m configuracion importada
-11:48:56 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:48:56 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-11:48:57 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-11:48:57 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-11:48:57 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-11:48:57 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-11:48:57 11/11/23 [38;5;21mINFO[0m preparando el commit
-11:49:28 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
-11:49:28 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:49:44 11/11/23 [38;5;21mINFO[0m configuracion importada
-11:49:44 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:49:44 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-11:49:45 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-11:49:45 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-11:49:45 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-11:49:45 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-11:49:45 11/11/23 [38;5;21mINFO[0m preparando el commit
-11:56:15 11/11/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
-11:56:15 11/11/23 [38;5;21mINFO[0m subiendo los cambios de la rama
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-12:00:01 11/11/23 [38;5;21mINFO[0m configuracion importada
-12:00:01 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-12:00:01 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-12:00:01 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-12:00:01 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-12:00:01 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-12:00:02 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-12:00:02 11/11/23 [38;5;21mINFO[0m preparando el commit
-12:00:20 11/11/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
-12:00:20 11/11/23 [38;5;21mINFO[0m subiendo los cambios de la rama
-12:04:02 11/11/23 [38;5;165mERROR[0m  -> failed
-12:04:02 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-12:04:10 11/11/23 [38;5;21mINFO[0m configuracion importada
-12:04:10 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-12:04:10 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-12:04:10 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-12:04:10 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-12:04:10 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-12:04:10 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-12:04:11 11/11/23 [38;5;21mINFO[0m preparando el commit
-12:04:11 11/11/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
-12:04:12 11/11/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-12:04:23 11/11/23 [38;5;21mINFO[0m configuracion importada
-12:04:23 11/11/23 [38;5;21mINFO[0m mensaje de bienvenida
-12:04:24 11/11/23 [38;5;21mINFO[0m seleccionando cambios
-12:04:25 11/11/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-12:04:25 11/11/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-12:04:25 11/11/23 [38;5;21mINFO[0m añadiendo los archivos
-12:04:25 11/11/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-12:04:25 11/11/23 [38;5;21mINFO[0m preparando el commit
-12:04:46 11/11/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
-12:04:46 11/11/23 [38;5;21mINFO[0m subiendo los cambios de la rama
-12:05:02 11/11/23 [38;5;21mINFO[0m  -> successfuly
-12:05:02 11/11/23 [38;5;21mINFO[0m Cerrando GIT-UP bash
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-21:45:12 11/12/23 [38;5;21mINFO[0m configuracion importada
-21:45:12 11/12/23 [38;5;21mINFO[0m mensaje de bienvenida
-21:45:12 11/12/23 [38;5;21mINFO[0m seleccionando cambios
-21:45:26 11/12/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-21:45:26 11/12/23 [38;5;21mINFO[0m buscando archivo
-21:45:33 11/12/23 [38;5;165mERROR[0m seleccion de archivos -> failed
-21:45:33 11/12/23 [38;5;165mERROR[0m 0
-22:38:50 11/12/23 [38;5;21mINFO[0m probando
-22:38:51 11/12/23 [38;5;48mWARNING[0m advertencia
-22:38:51 11/12/23 [38;5;165mERROR[0m error encontrado
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-08:50:14 11/13/23 [38;5;21mINFO[0m configuracion importada
-08:50:14 11/13/23 [38;5;21mINFO[0m mensaje de bienvenida
-08:50:14 11/13/23 [38;5;21mINFO[0m seleccionando cambios
-08:50:20 11/13/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-08:50:20 11/13/23 [38;5;21mINFO[0m buscando archivo
-08:50:46 11/13/23 [38;5;165mERROR[0m seleccion de archivos -> failed
-08:50:46 11/13/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-23:18:20 11/15/23 [38;5;21mINFO[0m configuracion importada
-23:18:20 11/15/23 [38;5;21mINFO[0m mensaje de bienvenida
-23:18:20 11/15/23 [38;5;21mINFO[0m seleccionando cambios
-23:18:22 11/15/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-23:18:22 11/15/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-23:18:22 11/15/23 [38;5;21mINFO[0m añadiendo los archivos
-23:18:22 11/15/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-23:18:22 11/15/23 [38;5;21mINFO[0m preparando el commit
-23:18:38 11/15/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
-23:18:38 11/15/23 [38;5;21mINFO[0m subiendo los cambios de la rama
-23:19:23 11/15/23 [38;5;21mINFO[0m  -> successfuly
-23:19:23 11/15/23 [38;5;21mINFO[0m Cerrando GIT-UP bash
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:26:13 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:26:13 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:26:13 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:26:22 11/16/23 [38;5;21mINFO[0m se selecciono la opcion 
-11:26:22 11/16/23 [38;5;165mERROR[0m opcioón no valida
-11:26:22 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:26:22 11/16/23 [38;5;165mERROR[0m subida de archivos : git add -> failed
-11:26:22 11/16/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:26:42 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:26:42 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:26:42 11/16/23 [38;5;165mERROR[0m opcion no valida
-11:26:42 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:26:47 11/16/23 [38;5;21mINFO[0m se selecciono la opcion 
-11:26:47 11/16/23 [38;5;165mERROR[0m opcioón no valida
-11:26:47 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:26:47 11/16/23 [38;5;165mERROR[0m subida de archivos : git add -> failed
-11:26:47 11/16/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:27:09 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:27:09 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:27:09 11/16/23 [38;5;165mERROR[0m opcion no valida
-11:27:09 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:27:17 11/16/23 [38;5;21mINFO[0m se selecciono la opcion 
-11:27:17 11/16/23 [38;5;165mERROR[0m opcioón no valida
-11:27:17 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:27:17 11/16/23 [38;5;165mERROR[0m subida de archivos : git add -> failed
-11:27:17 11/16/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:27:17 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:27:17 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:27:17 11/16/23 [38;5;165mERROR[0m opcion no valida
-11:27:18 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:27:19 11/16/23 [38;5;21mINFO[0m se selecciono la opcion 
-11:27:19 11/16/23 [38;5;165mERROR[0m opcioón no valida
-11:27:19 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:27:19 11/16/23 [38;5;165mERROR[0m subida de archivos : git add -> failed
-11:27:19 11/16/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:27:29 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:27:29 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:27:29 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:28:13 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-11:28:13 11/16/23 [38;5;21mINFO[0m buscando archivo
-11:28:59 11/16/23 [38;5;21mINFO[0m seleccion de archivos -> successfuly
-11:28:59 11/16/23 [38;5;21mINFO[0m archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/git-up.sh
-11:28:59 11/16/23 [38;5;21mINFO[0m se selecciono el archivo
-11:28:59 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:28:59 11/16/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-11:28:59 11/16/23 [38;5;21mINFO[0m preparando el commit
-11:29:12 11/16/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
-11:29:12 11/16/23 [38;5;21mINFO[0m subiendo los cambios de la rama
-11:31:17 11/16/23 [38;5;165mERROR[0m  -> failed
-11:31:17 11/16/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:31:26 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:31:26 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:31:26 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:31:28 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-11:31:28 11/16/23 [38;5;21mINFO[0m buscando archivo
-11:31:34 11/16/23 [38;5;21mINFO[0m seleccion de archivos -> successfuly
-11:31:34 11/16/23 [38;5;21mINFO[0m archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/git-up.sh
-11:31:34 11/16/23 [38;5;21mINFO[0m se selecciono el archivo
-11:31:34 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:31:34 11/16/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-11:31:34 11/16/23 [38;5;21mINFO[0m preparando el commit
-11:31:39 11/16/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
-11:31:39 11/16/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:31:41 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:31:41 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:31:41 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:31:42 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-11:31:42 11/16/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-11:31:42 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:31:42 11/16/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-11:31:42 11/16/23 [38;5;21mINFO[0m preparando el commit
-11:31:47 11/16/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
-11:31:47 11/16/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:32:01 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:32:01 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:32:01 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:32:03 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-11:32:03 11/16/23 [38;5;21mINFO[0m buscando archivo
-11:32:06 11/16/23 [38;5;21mINFO[0m seleccion de archivos -> successfuly
-11:32:06 11/16/23 [38;5;21mINFO[0m archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/git-up.sh
-11:32:06 11/16/23 [38;5;21mINFO[0m se selecciono el archivo
-11:32:06 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:32:06 11/16/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-11:32:06 11/16/23 [38;5;21mINFO[0m preparando el commit
-11:32:13 11/16/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
-11:32:13 11/16/23 [38;5;21mINFO[0m subiendo los cambios de la rama
-11:33:01 11/16/23 [38;5;165mERROR[0m  -> failed
-11:33:01 11/16/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:34:51 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:34:51 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:34:51 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:35:26 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-11:35:26 11/16/23 [38;5;21mINFO[0m buscando archivo
-11:35:35 11/16/23 [38;5;21mINFO[0m seleccion de archivos -> successfuly
-11:35:35 11/16/23 [38;5;21mINFO[0m archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/git-up.sh
-11:35:35 11/16/23 [38;5;21mINFO[0m se selecciono el archivo
-11:35:35 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:35:35 11/16/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-11:35:36 11/16/23 [38;5;21mINFO[0m preparando el commit
-11:36:10 11/16/23 [38;5;165mERROR[0m añadiendo commit : git commit -m -> failed
-11:36:10 11/16/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:39:09 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:39:09 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:39:09 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:39:12 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-11:39:12 11/16/23 [38;5;21mINFO[0m buscando archivo
-11:39:14 11/16/23 [38;5;21mINFO[0m seleccion de archivos -> successfuly
-11:39:14 11/16/23 [38;5;21mINFO[0m archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/dog.sh
-11:39:14 11/16/23 [38;5;21mINFO[0m se selecciono el archivo
-11:39:14 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:39:14 11/16/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-11:39:14 11/16/23 [38;5;21mINFO[0m preparando el commit
-11:39:18 11/16/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
-11:39:18 11/16/23 [38;5;21mINFO[0m subiendo los cambios de la rama
-11:39:29 11/16/23 [38;5;21mINFO[0m  -> successfuly
-11:39:29 11/16/23 [38;5;21mINFO[0m Cerrando GIT-UP bash
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:46:33 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:46:33 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:46:33 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:47:35 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-11:47:36 11/16/23 [38;5;21mINFO[0m buscando archivo
-11:48:34 11/16/23 [38;5;165mERROR[0m seleccion de archivos -> failed
-11:48:34 11/16/23 [38;5;165mERROR[0m 0
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-11:49:07 11/16/23 [38;5;21mINFO[0m configuracion importada
-11:49:07 11/16/23 [38;5;21mINFO[0m mensaje de bienvenida
-11:49:07 11/16/23 [38;5;21mINFO[0m seleccionando cambios
-11:49:08 11/16/23 [38;5;21mINFO[0m se selecciono la opcion Uno
-11:49:08 11/16/23 [38;5;21mINFO[0m buscando archivo
-11:49:10 11/16/23 [38;5;21mINFO[0m seleccion de archivos -> successfuly
-11:49:10 11/16/23 [38;5;21mINFO[0m archivo seleccionado: /home/spacebox/Documentos/tools/BashToolKit/dog.sh
-11:49:10 11/16/23 [38;5;21mINFO[0m se selecciono el archivo
-11:49:10 11/16/23 [38;5;21mINFO[0m añadiendo los archivos
-11:49:10 11/16/23 [38;5;21mINFO[0m subida de archivos : git add -> successfuly
-11:49:10 11/16/23 [38;5;21mINFO[0m preparando el commit
-11:49:28 11/16/23 [38;5;21mINFO[0m añadiendo commit : git commit -m -> successfuly
-11:49:28 11/16/23 [38;5;21mINFO[0m subiendo los cambios de la rama
-11:50:15 11/16/23 [38;5;21mINFO[0m  -> successfuly
-11:50:15 11/16/23 [38;5;21mINFO[0m Cerrando GIT-UP bash
-
-
-
-
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
-15:52:18 12/01/23 [38;5;21mINFO[0m configuracion importada
-15:52:18 12/01/23 [38;5;21mINFO[0m mensaje de bienvenida
-15:52:18 12/01/23 [38;5;21mINFO[0m seleccionando cambios
-15:52:20 12/01/23 [38;5;21mINFO[0m se selecciono la opcion Todos
-15:52:20 12/01/23 [38;5;21mINFO[0m se seleccionaron todos los archivos
-15:52:20 12/01/23 [38;5;21mINFO[0m añadiendo los archivos
+12:31:22 12/08/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+12:31:22 12/08/23 [38;5;21mINFO[0m clear screan
+12:31:22 12/08/23 [38;5;21mINFO[0m clear -> successfuly
+12:31:22 12/08/23 [38;5;21mINFO[0m STARTING A PROGRAM
+12:31:22 12/08/23 [38;5;21mINFO[0m starting message
+12:31:22 12/08/23 [38;5;21mINFO[0m print water -> successfuly
+12:31:24 12/08/23 [38;5;21mINFO[0m option choose -> successfuly
+12:31:24 12/08/23 [38;5;21mINFO[0m option choosed ->> Todos
+12:31:24 12/08/23 [38;5;21mINFO[0m select all files
+12:31:24 12/08/23 [38;5;21mINFO[0m add files

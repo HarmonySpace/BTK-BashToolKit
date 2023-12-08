@@ -1,16 +1,19 @@
 #!/bin/bash
 
-#importar funsiones
-source ./scripts/logs-services.sh
-source ./scripts/prints-services.sh
-source ./scripts/files_services.sh
-source ./colors.sh
+# search the file dirs
+CONFIG_PATH=$(cd $SCRIPT_DIR && cd .. && pwd)
 
-#variables de entorno
-LOG="logs.txt"
-SLOGS="false"
-SERROR="true"
+#import all configuration files
+source $CONFIG_PATH/enviroment.sh
+source $CONFIG_PATH/colors.sh
+source $CONFIG_PATH/services/system.sh
+source $CONFIG_PATH/services/logs.sh
+source $CONFIG_PATH/services/prints.sh
+source $CONFIG_PATH/services/choose.sh
+source $CONFIG_PATH/services/input.sh
+source $CONFIG_PATH/services/spin.sh
+source $CONFIG_PATH/services/file.sh
+source $CONFIG_PATH/services/user.sh
 
-SEP="◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢"
-SEC="<<>><<>><<>><<>>"
-SEC2="•·····•"
+# export default
+export CONFIG_LOADED=true
