@@ -803,3 +803,85 @@
 16:02:54 12/09/23 [38;5;21mINFO[0m option choosed ->> Todos
 16:02:55 12/09/23 [38;5;21mINFO[0m select all files
 16:02:55 12/09/23 [38;5;21mINFO[0m add files
+16:02:55 12/09/23 [38;5;21mINFO[0m adding files -> successfuly
+16:02:55 12/09/23 [38;5;21mINFO[0m creatin a commit
+16:03:22 12/09/23 [38;5;21mINFO[0m take input -> successfuly
+16:03:22 12/09/23 [38;5;21mINFO[0m input taked Testing a path integration
+16:03:22 12/09/23 [38;5;21mINFO[0m adding commit -> successfuly
+16:03:22 12/09/23 [38;5;21mINFO[0m upload changes to repository
+16:04:20 12/09/23 [38;5;21mINFO[0m make a push -> successfuly
+16:04:20 12/09/23 [38;5;21mINFO[0m successfull
+16:04:20 12/09/23 [38;5;21mINFO[0m closing a program
+16:04:20 12/09/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+16:12:42 12/09/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+16:12:42 12/09/23 [38;5;21mINFO[0m clear screan
+16:12:42 12/09/23 [38;5;21mINFO[0m clear -> successfuly
+16:12:42 12/09/23 [38;5;21mINFO[0m STARTING A PROGRAM
+16:12:42 12/09/23 [38;5;21mINFO[0m starting message
+16:12:42 12/09/23 [38;5;21mINFO[0m print water -> successfuly
+16:12:43 12/09/23 [38;5;21mINFO[0m option choose -> successfuly
+16:12:43 12/09/23 [38;5;21mINFO[0m option choosed ->> 
+16:12:44 12/09/23 [38;5;93mERROR[0m opcioón no valida
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+16:12:58 12/09/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+16:12:58 12/09/23 [38;5;21mINFO[0m clear screan
+16:12:58 12/09/23 [38;5;21mINFO[0m clear -> successfuly
+16:12:58 12/09/23 [38;5;21mINFO[0m STARTING A PROGRAM
+16:12:58 12/09/23 [38;5;21mINFO[0m starting message
+16:12:58 12/09/23 [38;5;21mINFO[0m print water -> successfuly
+16:12:59 12/09/23 [38;5;21mINFO[0m option choose -> successfuly
+16:12:59 12/09/23 [38;5;21mINFO[0m option choosed ->> 
+16:12:59 12/09/23 [38;5;93mERROR[0m opcioón no valida
+16:12:59 12/09/23 [38;5;21mINFO[0m add files
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+16:13:15 12/09/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+16:13:15 12/09/23 [38;5;21mINFO[0m clear screan
+16:13:15 12/09/23 [38;5;21mINFO[0m clear -> successfuly
+16:13:15 12/09/23 [38;5;21mINFO[0m STARTING A PROGRAM
+16:13:15 12/09/23 [38;5;21mINFO[0m starting message
+16:13:15 12/09/23 [38;5;21mINFO[0m print water -> successfuly
+16:13:16 12/09/23 [38;5;21mINFO[0m option choose -> successfuly
+16:13:16 12/09/23 [38;5;21mINFO[0m option choosed ->> 
+16:13:16 12/09/23 [38;5;93mERROR[0m opcioón no valida
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+16:14:28 12/09/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+16:14:28 12/09/23 [38;5;21mINFO[0m clear screan
+16:14:28 12/09/23 [38;5;21mINFO[0m clear -> successfuly
+16:14:28 12/09/23 [38;5;21mINFO[0m STARTING A PROGRAM
+16:14:28 12/09/23 [38;5;21mINFO[0m starting message
+16:14:28 12/09/23 [38;5;21mINFO[0m print water -> successfuly
+16:14:30 12/09/23 [38;5;21mINFO[0m option choose -> successfuly
+16:14:30 12/09/23 [38;5;21mINFO[0m option choosed ->> 
+16:14:30 12/09/23 [38;5;93mERROR[0m opcioón no valida
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+16:14:50 12/09/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+16:14:50 12/09/23 [38;5;21mINFO[0m clear screan
+16:14:50 12/09/23 [38;5;21mINFO[0m clear -> successfuly
+16:14:50 12/09/23 [38;5;21mINFO[0m STARTING A PROGRAM
+16:14:50 12/09/23 [38;5;21mINFO[0m starting message
+16:14:50 12/09/23 [38;5;21mINFO[0m print water -> successfuly
+16:14:51 12/09/23 [38;5;21mINFO[0m option choose -> successfuly
+16:14:51 12/09/23 [38;5;21mINFO[0m option choosed ->> Todos
+16:14:51 12/09/23 [38;5;21mINFO[0m select all files
+16:14:51 12/09/23 [38;5;21mINFO[0m add files
