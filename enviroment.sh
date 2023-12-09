@@ -2,8 +2,7 @@
 
 # enviroments vars
 ## logs
-export LOG="logs.txt"
-export OUTPUT="./output.txt"
+export LOG="$CONFIG_PATH/logs.txt"
 export SLOGS=true
 export SERROR=true
 export SEP="◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢"
