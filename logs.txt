@@ -1070,3 +1070,30 @@
 10:50:03 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
 10:50:03 12/10/23 [38;5;21mINFO[0m select all files
 10:50:03 12/10/23 [38;5;21mINFO[0m add files
+10:50:03 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+10:50:03 12/10/23 [38;5;21mINFO[0m creatin a commit
+10:50:07 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+10:50:08 12/10/23 [38;5;21mINFO[0m input taked default
+10:50:08 12/10/23 [38;5;21mINFO[0m adding commit -> successfuly
+10:50:08 12/10/23 [38;5;21mINFO[0m show credentials
+10:50:08 12/10/23 [38;5;21mINFO[0m show credentials -> successfuly
+10:50:08 12/10/23 [38;5;21mINFO[0m upload changes to repository
+10:50:17 12/10/23 [38;5;21mINFO[0m make a push -> successfuly
+10:50:17 12/10/23 [38;5;21mINFO[0m successfull
+10:50:17 12/10/23 [38;5;21mINFO[0m closing a program
+10:50:17 12/10/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:57:54 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:57:54 12/10/23 [38;5;21mINFO[0m clear screan
+10:57:54 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+10:57:54 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:57:54 12/10/23 [38;5;21mINFO[0m starting message
+10:57:54 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+10:57:55 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+10:57:55 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+10:57:55 12/10/23 [38;5;21mINFO[0m select all files
+10:57:55 12/10/23 [38;5;21mINFO[0m add files
