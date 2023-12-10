@@ -49,6 +49,10 @@ print_message "Commit obtenido"
 print_key "$COMMIT_gu"
 git commit -m "$COMMIT_gu"
 try_catch "adding commit"
+log_info "show credentials"
+print_message "Sus credenciales"
+credentials
+try_catch "show credentials"
 log_info "upload changes to repository"
 spin_time "Upload changes in git" 2
 git push
