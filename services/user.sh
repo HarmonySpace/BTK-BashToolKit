@@ -8,9 +8,9 @@ function water (){
 
 function credentials (){
   print_message "User name"
-  print_key "$(sed -n '1p' $CRED_PATH)"
+  print_key "$(sed -n '1p' $CRED_DIR)"
   print_message "Git Key"
-  print_key "$(sed -n '2p' $CRED_PATH)"
+  print_key "$(sed -n '2p' $CRED_DIR)"
 }
 
 # export default

@@ -8,7 +8,7 @@ source "$SCRIPT_DIR/../services/import.sh"
 source "$SCRIPT_DIR/../config.sh"
 try_catch_import $CONFIG_LOADED "Configuration imported"
 
-spin_command "hellow" "$(sudo apt update)"
+credentials
 
 
 
