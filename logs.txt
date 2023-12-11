@@ -1952,3 +1952,48 @@
 11:41:22 12/11/23 [38;5;21mINFO[0m option choosed ->> Todos
 11:41:22 12/11/23 [38;5;21mINFO[0m select all files
 11:41:22 12/11/23 [38;5;21mINFO[0m add files
+11:41:22 12/11/23 [38;5;21mINFO[0m adding files -> successfuly
+11:41:22 12/11/23 [38;5;21mINFO[0m creatin a commit
+11:41:30 12/11/23 [38;5;21mINFO[0m take input -> successfuly
+11:41:30 12/11/23 [38;5;21mINFO[0m input taked remove a logs
+11:41:30 12/11/23 [38;5;21mINFO[0m adding commit -> successfuly
+11:41:31 12/11/23 [38;5;21mINFO[0m show credentials
+11:41:31 12/11/23 [38;5;21mINFO[0m show credentials -> successfuly
+11:41:31 12/11/23 [38;5;21mINFO[0m upload changes to repository
+11:41:43 12/11/23 [38;5;21mINFO[0m make a push -> successfuly
+11:41:43 12/11/23 [38;5;21mINFO[0m successfull
+11:41:43 12/11/23 [38;5;21mINFO[0m closing a program
+11:41:43 12/11/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:45:13 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:45:13 12/11/23 [38;5;21mINFO[0m clean a screen
+11:45:13 12/11/23 [38;5;21mINFO[0m print a dog ascii
+11:45:13 12/11/23 [38;5;21mINFO[0m print a dog draw -> successfuly
+11:45:13 12/11/23 [38;5;21mINFO[0m choose an option
+11:45:14 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+11:45:14 12/11/23 [38;5;21mINFO[0m option choosed ->> github
+11:45:14 12/11/23 [38;5;21mINFO[0m choose an github option
+11:45:14 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+11:45:14 12/11/23 [38;5;21mINFO[0m option choosed ->> Mostrar credenciales
+11:45:15 12/11/23 [38;5;21mINFO[0m  -> successfuly
+11:45:15 12/11/23 [38;5;21mINFO[0m closing a program
+11:45:15 12/11/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:45:48 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:45:48 12/11/23 [38;5;21mINFO[0m clear screan
+11:45:48 12/11/23 [38;5;21mINFO[0m clear -> successfuly
+11:45:48 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:45:48 12/11/23 [38;5;21mINFO[0m starting message
+11:45:48 12/11/23 [38;5;21mINFO[0m print water -> successfuly
+11:45:49 12/11/23 [38;5;21mINFO[0m option choose -> successfuly
+11:45:49 12/11/23 [38;5;21mINFO[0m option choosed ->> Todos
+11:45:49 12/11/23 [38;5;21mINFO[0m select all files
+11:45:49 12/11/23 [38;5;21mINFO[0m add files
