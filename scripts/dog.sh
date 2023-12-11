@@ -13,7 +13,7 @@ clear
 log_info "print a dog ascii"
 water_dog
 try_catch "print a dog draw"
-print_custom $CL2 0 none center 0 "1 5" "WOOF WOOF... que necesitas? ->"
+print_custom $CL2 0 none center 0 "1 5" "WOOF WOOF... como te ayudo? ->"
 log_info "choose an option"
 CHOOSE_dog=$(choose_one "github")
 try_catch "option selected"
