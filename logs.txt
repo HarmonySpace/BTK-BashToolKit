@@ -1906,3 +1906,49 @@
 11:29:19 12/11/23 [38;5;21mINFO[0m option choosed ->> Todos
 11:29:19 12/11/23 [38;5;21mINFO[0m select all files
 11:29:19 12/11/23 [38;5;21mINFO[0m add files
+11:29:19 12/11/23 [38;5;21mINFO[0m adding files -> successfuly
+11:29:19 12/11/23 [38;5;21mINFO[0m creatin a commit
+11:29:59 12/11/23 [38;5;21mINFO[0m take input -> successfuly
+11:29:59 12/11/23 [38;5;21mINFO[0m input taked add a git service file, add a gch.sh file and someone change in dog.sh
+11:29:59 12/11/23 [38;5;21mINFO[0m adding commit -> successfuly
+11:29:59 12/11/23 [38;5;21mINFO[0m show credentials
+11:30:00 12/11/23 [38;5;21mINFO[0m show credentials -> successfuly
+11:30:00 12/11/23 [38;5;21mINFO[0m upload changes to repository
+11:30:13 12/11/23 [38;5;21mINFO[0m make a push -> successfuly
+11:30:13 12/11/23 [38;5;21mINFO[0m successfull
+11:30:13 12/11/23 [38;5;21mINFO[0m closing a program
+11:30:13 12/11/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:31:05 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:31:05 12/11/23 [38;5;21mINFO[0m clean a screen
+11:31:05 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:31:05 12/11/23 [38;5;21mINFO[0m starting message
+11:31:05 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+11:31:05 12/11/23 [38;5;21mINFO[0m Take an actual branch
+11:31:06 12/11/23 [38;5;21mINFO[0m take an actual branch -> successfuly
+11:31:06 12/11/23 [38;5;21mINFO[0m check git status
+11:31:06 12/11/23 [38;5;21mINFO[0m check a unpushed changes
+11:31:13 12/11/23 [38;5;21mINFO[0m take a others branchs -> successfuly
+11:31:13 12/11/23 [38;5;21mINFO[0m option choosed ->> main
+11:31:13 12/11/23 [38;5;21mINFO[0m Choosing to main branch
+11:31:13 12/11/23 [38;5;93mERROR[0m change to main -> failed
+11:31:13 12/11/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:41:21 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:41:21 12/11/23 [38;5;21mINFO[0m clear screan
+11:41:21 12/11/23 [38;5;21mINFO[0m clear -> successfuly
+11:41:21 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:41:21 12/11/23 [38;5;21mINFO[0m starting message
+11:41:21 12/11/23 [38;5;21mINFO[0m print water -> successfuly
+11:41:22 12/11/23 [38;5;21mINFO[0m option choose -> successfuly
+11:41:22 12/11/23 [38;5;21mINFO[0m option choosed ->> Todos
+11:41:22 12/11/23 [38;5;21mINFO[0m select all files
+11:41:22 12/11/23 [38;5;21mINFO[0m add files
