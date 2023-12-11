@@ -36,6 +36,12 @@ function print_custom (){
   gum style --foreground "${1}" --border-foreground "${2}" --border "${3}" --align "${4}" --margin "${5}" --padding "${6}" "${7}"
   return 0
 }
+## print a separate screen message
+function print_divider (){
+  print_message " "
+  print_message "$SEC2"
+  print_message " "
+}
 
 # export default
 export PRINTS_SERVICES_LOADED=true

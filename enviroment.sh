@@ -7,7 +7,7 @@ export SLOGS=false
 export SERROR=true
 export SEP="◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢"
 export SEC="<<>><<>><<>><<>>"
-export SEC2="•·····•"
+export SEC2="•······························•"
 export CRED_DIR="/home/spacebox/Documentos/tools/.githubKeys.md"
 
 # export default

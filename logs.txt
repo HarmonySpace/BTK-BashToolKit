@@ -1097,3 +1097,507 @@
 10:57:55 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
 10:57:55 12/10/23 [38;5;21mINFO[0m select all files
 10:57:55 12/10/23 [38;5;21mINFO[0m add files
+10:57:55 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+10:57:55 12/10/23 [38;5;21mINFO[0m creatin a commit
+10:58:07 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+10:58:07 12/10/23 [38;5;21mINFO[0m input taked Add a .gitignore
+10:58:07 12/10/23 [38;5;21mINFO[0m adding commit -> successfuly
+10:58:07 12/10/23 [38;5;21mINFO[0m show credentials
+10:58:07 12/10/23 [38;5;21mINFO[0m show credentials -> successfuly
+10:58:07 12/10/23 [38;5;21mINFO[0m upload changes to repository
+10:58:20 12/10/23 [38;5;21mINFO[0m make a push -> successfuly
+10:58:20 12/10/23 [38;5;21mINFO[0m successfull
+10:58:20 12/10/23 [38;5;21mINFO[0m closing a program
+10:58:20 12/10/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:35:56 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:37:55 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:37:55 12/10/23 [38;5;21mINFO[0m clear screan
+11:37:55 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+11:37:55 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:37:56 12/10/23 [38;5;21mINFO[0m starting message
+11:37:56 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+11:37:57 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+11:37:57 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+11:37:57 12/10/23 [38;5;21mINFO[0m select all files
+11:37:57 12/10/23 [38;5;21mINFO[0m add files
+11:37:57 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+11:37:57 12/10/23 [38;5;21mINFO[0m creatin a commit
+11:38:09 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+11:38:09 12/10/23 [38;5;21mINFO[0m input taked first commit
+11:38:10 12/10/23 [38;5;21mINFO[0m adding commit -> successfuly
+11:38:10 12/10/23 [38;5;21mINFO[0m show credentials
+11:38:10 12/10/23 [38;5;21mINFO[0m show credentials -> successfuly
+11:38:10 12/10/23 [38;5;21mINFO[0m upload changes to repository
+11:38:24 12/10/23 [38;5;93mERROR[0m make a push -> failed
+11:38:24 12/10/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:38:26 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:38:26 12/10/23 [38;5;21mINFO[0m clear screan
+11:38:26 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+11:38:26 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:38:27 12/10/23 [38;5;21mINFO[0m starting message
+11:38:27 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+11:38:28 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+11:38:28 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+11:38:28 12/10/23 [38;5;21mINFO[0m select all files
+11:38:28 12/10/23 [38;5;21mINFO[0m add files
+11:38:28 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+11:38:28 12/10/23 [38;5;21mINFO[0m creatin a commit
+11:38:29 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+11:38:29 12/10/23 [38;5;21mINFO[0m input taked 
+11:38:29 12/10/23 [38;5;93mERROR[0m adding commit -> failed
+11:38:29 12/10/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:38:32 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:38:32 12/10/23 [38;5;21mINFO[0m clear screan
+11:38:32 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+11:38:32 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:38:32 12/10/23 [38;5;21mINFO[0m starting message
+11:38:32 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+11:38:32 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+11:38:32 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+11:38:33 12/10/23 [38;5;21mINFO[0m select all files
+11:38:33 12/10/23 [38;5;21mINFO[0m add files
+11:38:33 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+11:38:33 12/10/23 [38;5;21mINFO[0m creatin a commit
+11:38:36 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+11:38:36 12/10/23 [38;5;21mINFO[0m input taked default
+11:38:36 12/10/23 [38;5;93mERROR[0m adding commit -> failed
+11:38:36 12/10/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:40:53 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:40:53 12/10/23 [38;5;21mINFO[0m clear screan
+11:40:53 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+11:40:53 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:40:53 12/10/23 [38;5;21mINFO[0m starting message
+11:40:53 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+11:40:54 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+11:40:54 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+11:40:54 12/10/23 [38;5;21mINFO[0m select all files
+11:40:54 12/10/23 [38;5;21mINFO[0m add files
+11:40:54 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+11:40:54 12/10/23 [38;5;21mINFO[0m creatin a commit
+11:41:07 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+11:41:07 12/10/23 [38;5;21mINFO[0m input taked add all my first icons
+11:41:07 12/10/23 [38;5;21mINFO[0m adding commit -> successfuly
+11:41:07 12/10/23 [38;5;21mINFO[0m show credentials
+11:41:07 12/10/23 [38;5;21mINFO[0m show credentials -> successfuly
+11:41:08 12/10/23 [38;5;21mINFO[0m upload changes to repository
+11:41:18 12/10/23 [38;5;93mERROR[0m make a push -> failed
+11:41:18 12/10/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:41:35 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:41:35 12/10/23 [38;5;21mINFO[0m clear screan
+11:41:35 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+11:41:35 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:41:35 12/10/23 [38;5;21mINFO[0m starting message
+11:41:35 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+11:41:35 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+11:41:35 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+11:41:36 12/10/23 [38;5;21mINFO[0m select all files
+11:41:36 12/10/23 [38;5;21mINFO[0m add files
+11:41:36 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+11:41:36 12/10/23 [38;5;21mINFO[0m creatin a commit
+11:41:41 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+11:41:41 12/10/23 [38;5;21mINFO[0m input taked default
+11:41:41 12/10/23 [38;5;93mERROR[0m adding commit -> failed
+11:41:41 12/10/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:47:36 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:47:36 12/10/23 [38;5;21mINFO[0m clear screan
+11:47:36 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+11:47:36 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:47:36 12/10/23 [38;5;21mINFO[0m starting message
+11:47:36 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+11:47:37 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+11:47:37 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+11:47:37 12/10/23 [38;5;21mINFO[0m select all files
+11:47:37 12/10/23 [38;5;21mINFO[0m add files
+11:47:37 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+11:47:37 12/10/23 [38;5;21mINFO[0m creatin a commit
+11:48:15 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+11:48:16 12/10/23 [38;5;21mINFO[0m input taked Add a cash methods
+11:48:16 12/10/23 [38;5;21mINFO[0m adding commit -> successfuly
+11:48:16 12/10/23 [38;5;21mINFO[0m show credentials
+11:48:16 12/10/23 [38;5;21mINFO[0m show credentials -> successfuly
+11:48:16 12/10/23 [38;5;21mINFO[0m upload changes to repository
+11:48:29 12/10/23 [38;5;93mERROR[0m make a push -> failed
+11:48:29 12/10/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:48:35 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:48:35 12/10/23 [38;5;21mINFO[0m clear screan
+11:48:35 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+11:48:35 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:48:35 12/10/23 [38;5;21mINFO[0m starting message
+11:48:35 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+11:48:36 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+11:48:36 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+11:48:36 12/10/23 [38;5;21mINFO[0m select all files
+11:48:36 12/10/23 [38;5;21mINFO[0m add files
+11:48:36 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+11:48:36 12/10/23 [38;5;21mINFO[0m creatin a commit
+11:48:39 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+11:48:40 12/10/23 [38;5;21mINFO[0m input taked default
+11:48:40 12/10/23 [38;5;93mERROR[0m adding commit -> failed
+11:48:40 12/10/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:49:16 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+21:12:20 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+21:12:20 12/10/23 [38;5;21mINFO[0m clear screan
+21:12:20 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+21:12:20 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+21:12:20 12/10/23 [38;5;21mINFO[0m starting message
+21:12:20 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+21:12:21 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+21:12:21 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+21:12:21 12/10/23 [38;5;21mINFO[0m select all files
+21:12:21 12/10/23 [38;5;21mINFO[0m add files
+21:12:21 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+21:12:21 12/10/23 [38;5;21mINFO[0m creatin a commit
+21:12:48 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+21:12:48 12/10/23 [38;5;21mINFO[0m input taked add a paypal and reorganized the icons
+21:12:48 12/10/23 [38;5;21mINFO[0m adding commit -> successfuly
+21:12:48 12/10/23 [38;5;21mINFO[0m show credentials
+21:12:49 12/10/23 [38;5;21mINFO[0m show credentials -> successfuly
+21:12:49 12/10/23 [38;5;21mINFO[0m upload changes to repository
+21:13:01 12/10/23 [38;5;21mINFO[0m make a push -> successfuly
+21:13:01 12/10/23 [38;5;21mINFO[0m successfull
+21:13:01 12/10/23 [38;5;21mINFO[0m closing a program
+21:13:01 12/10/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+21:15:38 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+21:15:38 12/10/23 [38;5;21mINFO[0m clear screan
+21:15:38 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+21:15:38 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+21:15:39 12/10/23 [38;5;21mINFO[0m starting message
+21:15:39 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+21:15:39 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+21:15:39 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+21:15:40 12/10/23 [38;5;21mINFO[0m select all files
+21:15:40 12/10/23 [38;5;21mINFO[0m add files
+21:15:40 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+21:15:40 12/10/23 [38;5;21mINFO[0m creatin a commit
+21:15:41 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+21:15:41 12/10/23 [38;5;21mINFO[0m input taked 
+21:15:41 12/10/23 [38;5;93mERROR[0m adding commit -> failed
+21:15:41 12/10/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+21:15:43 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+21:15:43 12/10/23 [38;5;21mINFO[0m clear screan
+21:15:43 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+21:15:43 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+21:15:43 12/10/23 [38;5;21mINFO[0m starting message
+21:15:43 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+21:15:45 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+21:15:45 12/10/23 [38;5;21mINFO[0m option choosed ->> Uno
+21:15:45 12/10/23 [38;5;21mINFO[0m browser file
+21:15:49 12/10/23 [38;5;21mINFO[0m file choose -> successfuly
+21:15:49 12/10/23 [38;5;21mINFO[0m file choosed ->> /home/spacebox/Documentos/design_repo/flat-icons/flat-icons.svg
+21:15:49 12/10/23 [38;5;21mINFO[0m add files
+21:15:49 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+21:15:49 12/10/23 [38;5;21mINFO[0m creatin a commit
+21:16:15 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+21:16:15 12/10/23 [38;5;21mINFO[0m input taked safe a flat icons change in inkscape project
+21:16:16 12/10/23 [38;5;21mINFO[0m adding commit -> successfuly
+21:16:16 12/10/23 [38;5;21mINFO[0m show credentials
+21:16:16 12/10/23 [38;5;21mINFO[0m show credentials -> successfuly
+21:16:16 12/10/23 [38;5;21mINFO[0m upload changes to repository
+21:16:26 12/10/23 [38;5;21mINFO[0m make a push -> successfuly
+21:16:26 12/10/23 [38;5;21mINFO[0m successfull
+21:16:26 12/10/23 [38;5;21mINFO[0m closing a program
+21:16:26 12/10/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+21:59:30 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+21:59:30 12/10/23 [38;5;21mINFO[0m clear screan
+21:59:30 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+21:59:30 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+21:59:30 12/10/23 [38;5;21mINFO[0m starting message
+21:59:30 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+21:59:31 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+21:59:31 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+21:59:31 12/10/23 [38;5;21mINFO[0m select all files
+21:59:31 12/10/23 [38;5;21mINFO[0m add files
+21:59:31 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+21:59:31 12/10/23 [38;5;21mINFO[0m creatin a commit
+22:00:07 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+22:00:07 12/10/23 [38;5;21mINFO[0m input taked add a international cash method -> cash methods
+22:00:07 12/10/23 [38;5;21mINFO[0m adding commit -> successfuly
+22:00:07 12/10/23 [38;5;21mINFO[0m show credentials
+22:00:07 12/10/23 [38;5;21mINFO[0m show credentials -> successfuly
+22:00:07 12/10/23 [38;5;21mINFO[0m upload changes to repository
+22:00:19 12/10/23 [38;5;21mINFO[0m make a push -> successfuly
+22:00:19 12/10/23 [38;5;21mINFO[0m successfull
+22:00:19 12/10/23 [38;5;21mINFO[0m closing a program
+22:00:19 12/10/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+22:05:31 12/10/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+22:05:31 12/10/23 [38;5;21mINFO[0m clear screan
+22:05:31 12/10/23 [38;5;21mINFO[0m clear -> successfuly
+22:05:31 12/10/23 [38;5;21mINFO[0m STARTING A PROGRAM
+22:05:31 12/10/23 [38;5;21mINFO[0m starting message
+22:05:31 12/10/23 [38;5;21mINFO[0m print water -> successfuly
+22:05:32 12/10/23 [38;5;21mINFO[0m option choose -> successfuly
+22:05:32 12/10/23 [38;5;21mINFO[0m option choosed ->> Todos
+22:05:33 12/10/23 [38;5;21mINFO[0m select all files
+22:05:33 12/10/23 [38;5;21mINFO[0m add files
+22:05:33 12/10/23 [38;5;21mINFO[0m adding files -> successfuly
+22:05:33 12/10/23 [38;5;21mINFO[0m creatin a commit
+22:05:41 12/10/23 [38;5;21mINFO[0m take input -> successfuly
+22:05:41 12/10/23 [38;5;21mINFO[0m input taked add a paypal logo changes
+22:05:41 12/10/23 [38;5;21mINFO[0m adding commit -> successfuly
+22:05:41 12/10/23 [38;5;21mINFO[0m show credentials
+22:05:41 12/10/23 [38;5;21mINFO[0m show credentials -> successfuly
+22:05:41 12/10/23 [38;5;21mINFO[0m upload changes to repository
+22:05:51 12/10/23 [38;5;21mINFO[0m make a push -> successfuly
+22:05:51 12/10/23 [38;5;21mINFO[0m successfull
+22:05:51 12/10/23 [38;5;21mINFO[0m closing a program
+22:05:51 12/10/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+07:56:26 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+07:56:26 12/11/23 [38;5;21mINFO[0m clear screan
+07:56:26 12/11/23 [38;5;21mINFO[0m clear -> successfuly
+07:56:26 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+07:56:26 12/11/23 [38;5;21mINFO[0m starting message
+07:56:26 12/11/23 [38;5;21mINFO[0m print water -> successfuly
+07:56:28 12/11/23 [38;5;21mINFO[0m option choose -> successfuly
+07:56:28 12/11/23 [38;5;21mINFO[0m option choosed ->> Todos
+07:56:28 12/11/23 [38;5;21mINFO[0m select all files
+07:56:28 12/11/23 [38;5;21mINFO[0m add files
+07:56:29 12/11/23 [38;5;21mINFO[0m adding files -> successfuly
+07:56:29 12/11/23 [38;5;21mINFO[0m creatin a commit
+07:56:45 12/11/23 [38;5;21mINFO[0m take input -> successfuly
+07:56:45 12/11/23 [38;5;21mINFO[0m input taked add binace to methods
+07:56:45 12/11/23 [38;5;21mINFO[0m adding commit -> successfuly
+07:56:46 12/11/23 [38;5;21mINFO[0m show credentials
+07:56:46 12/11/23 [38;5;21mINFO[0m show credentials -> successfuly
+07:56:46 12/11/23 [38;5;21mINFO[0m upload changes to repository
+07:56:59 12/11/23 [38;5;21mINFO[0m make a push -> successfuly
+07:56:59 12/11/23 [38;5;21mINFO[0m successfull
+07:56:59 12/11/23 [38;5;21mINFO[0m closing a program
+07:56:59 12/11/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+08:11:16 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:10:54 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:11:12 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:14:10 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:14:29 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:14:39 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:15:19 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:17:43 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:18:31 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:18:53 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:19:05 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:19:16 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:42:33 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+09:42:33 12/11/23 [38;5;21mINFO[0m clean a screen
+09:42:33 12/11/23 [38;5;21mINFO[0m print a dog ascii
+09:42:33 12/11/23 [38;5;21mINFO[0m print a dog draw -> successfuly
+09:42:33 12/11/23 [38;5;21mINFO[0m choose an option
+09:42:35 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+09:42:35 12/11/23 [38;5;21mINFO[0m option choosed ->> github
+09:42:35 12/11/23 [38;5;21mINFO[0m choose an github option
+09:42:36 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+09:42:36 12/11/23 [38;5;21mINFO[0m option choosed ->> show credentials
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:44:58 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+09:44:58 12/11/23 [38;5;21mINFO[0m clean a screen
+09:44:58 12/11/23 [38;5;21mINFO[0m print a dog ascii
+09:44:58 12/11/23 [38;5;21mINFO[0m print a dog draw -> successfuly
+09:44:58 12/11/23 [38;5;21mINFO[0m choose an option
+09:44:59 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+09:44:59 12/11/23 [38;5;21mINFO[0m option choosed ->> github
+09:44:59 12/11/23 [38;5;21mINFO[0m choose an github option
+09:45:02 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+09:45:02 12/11/23 [38;5;21mINFO[0m option choosed ->> show credentials
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:46:00 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+09:46:00 12/11/23 [38;5;21mINFO[0m clean a screen
+09:46:00 12/11/23 [38;5;21mINFO[0m print a dog ascii
+09:46:00 12/11/23 [38;5;21mINFO[0m print a dog draw -> successfuly
+09:46:00 12/11/23 [38;5;21mINFO[0m choose an option
+09:46:01 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+09:46:01 12/11/23 [38;5;21mINFO[0m option choosed ->> github
+09:46:01 12/11/23 [38;5;21mINFO[0m choose an github option
+09:46:02 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+09:46:02 12/11/23 [38;5;21mINFO[0m option choosed ->> show credentials
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:50:15 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+09:50:15 12/11/23 [38;5;21mINFO[0m clean a screen
+09:50:15 12/11/23 [38;5;21mINFO[0m print a dog ascii
+09:50:15 12/11/23 [38;5;21mINFO[0m print a dog draw -> successfuly
+09:50:15 12/11/23 [38;5;21mINFO[0m choose an option
+09:50:16 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+09:50:16 12/11/23 [38;5;21mINFO[0m option choosed ->> github
+09:50:16 12/11/23 [38;5;21mINFO[0m choose an github option
+09:50:17 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+09:50:17 12/11/23 [38;5;21mINFO[0m option choosed ->> show credentials
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+09:51:55 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+09:51:55 12/11/23 [38;5;21mINFO[0m clean a screen
+09:51:55 12/11/23 [38;5;21mINFO[0m print a dog ascii
+09:51:55 12/11/23 [38;5;21mINFO[0m print a dog draw -> successfuly
+09:51:55 12/11/23 [38;5;21mINFO[0m choose an option
+09:51:56 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+09:51:56 12/11/23 [38;5;21mINFO[0m option choosed ->> github
+09:51:56 12/11/23 [38;5;21mINFO[0m choose an github option
+09:51:57 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+09:51:57 12/11/23 [38;5;21mINFO[0m option choosed ->> show credentials
+09:51:57 12/11/23 [38;5;21mINFO[0m  -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:05:25 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:05:25 12/11/23 [38;5;21mINFO[0m clear screan
+10:05:25 12/11/23 [38;5;21mINFO[0m clear -> successfuly
+10:05:26 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:05:26 12/11/23 [38;5;21mINFO[0m starting message
+10:05:26 12/11/23 [38;5;21mINFO[0m print water -> successfuly
+10:05:27 12/11/23 [38;5;21mINFO[0m option choose -> successfuly
+10:05:27 12/11/23 [38;5;21mINFO[0m option choosed ->> Todos
+10:05:27 12/11/23 [38;5;21mINFO[0m select all files
+10:05:27 12/11/23 [38;5;21mINFO[0m add files

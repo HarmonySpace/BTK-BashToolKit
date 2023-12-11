@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #vars
-SHOW_LOG=true
+SHOW_LOG=false
 
 #functions
 ##try catch import
