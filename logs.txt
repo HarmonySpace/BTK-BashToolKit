@@ -1626,3 +1626,283 @@
 10:07:28 12/11/23 [38;5;21mINFO[0m option choosed ->> Todos
 10:07:28 12/11/23 [38;5;21mINFO[0m select all files
 10:07:28 12/11/23 [38;5;21mINFO[0m add files
+10:07:28 12/11/23 [38;5;21mINFO[0m adding files -> successfuly
+10:07:28 12/11/23 [38;5;21mINFO[0m creatin a commit
+10:07:31 12/11/23 [38;5;21mINFO[0m take input -> successfuly
+10:07:31 12/11/23 [38;5;21mINFO[0m input taked default
+10:07:32 12/11/23 [38;5;21mINFO[0m adding commit -> successfuly
+10:07:32 12/11/23 [38;5;21mINFO[0m show credentials
+10:07:32 12/11/23 [38;5;21mINFO[0m show credentials -> successfuly
+10:07:32 12/11/23 [38;5;21mINFO[0m upload changes to repository
+10:07:41 12/11/23 [38;5;21mINFO[0m make a push -> successfuly
+10:07:41 12/11/23 [38;5;21mINFO[0m successfull
+10:07:41 12/11/23 [38;5;21mINFO[0m closing a program
+10:07:41 12/11/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:13:30 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:13:30 12/11/23 [38;5;21mINFO[0m clean a screen
+10:13:30 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:13:30 12/11/23 [38;5;21mINFO[0m starting message
+10:13:30 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:13:43 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:13:43 12/11/23 [38;5;21mINFO[0m clean a screen
+10:13:43 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:13:43 12/11/23 [38;5;21mINFO[0m starting message
+10:13:43 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:13:51 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:13:51 12/11/23 [38;5;21mINFO[0m clean a screen
+10:13:51 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:13:51 12/11/23 [38;5;21mINFO[0m starting message
+10:13:51 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:16:39 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:16:39 12/11/23 [38;5;21mINFO[0m clean a screen
+10:16:39 12/11/23 [38;5;21mINFO[0m print a dog ascii
+10:16:40 12/11/23 [38;5;21mINFO[0m print a dog draw -> successfuly
+10:16:40 12/11/23 [38;5;21mINFO[0m choose an option
+10:16:40 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+10:16:40 12/11/23 [38;5;21mINFO[0m option choosed ->> github
+10:16:40 12/11/23 [38;5;21mINFO[0m choose an github option
+10:16:41 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+10:16:41 12/11/23 [38;5;21mINFO[0m option choosed ->> Mostrar credenciales
+10:16:42 12/11/23 [38;5;21mINFO[0m  -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:19:19 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:19:19 12/11/23 [38;5;21mINFO[0m clean a screen
+10:19:19 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:19:19 12/11/23 [38;5;21mINFO[0m starting message
+10:19:19 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:19:39 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:19:39 12/11/23 [38;5;21mINFO[0m clean a screen
+10:19:39 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:19:39 12/11/23 [38;5;21mINFO[0m starting message
+10:19:40 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:20:43 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:20:43 12/11/23 [38;5;21mINFO[0m clean a screen
+10:20:43 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:20:43 12/11/23 [38;5;21mINFO[0m starting message
+10:20:43 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:25:02 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:25:02 12/11/23 [38;5;21mINFO[0m clean a screen
+10:25:02 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:25:03 12/11/23 [38;5;21mINFO[0m starting message
+10:25:03 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:25:30 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:25:30 12/11/23 [38;5;21mINFO[0m clean a screen
+10:25:30 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:25:30 12/11/23 [38;5;21mINFO[0m starting message
+10:25:31 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:25:47 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:25:47 12/11/23 [38;5;21mINFO[0m clean a screen
+10:25:47 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:25:47 12/11/23 [38;5;21mINFO[0m starting message
+10:25:47 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:25:59 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:25:59 12/11/23 [38;5;21mINFO[0m clean a screen
+10:25:59 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:25:59 12/11/23 [38;5;21mINFO[0m starting message
+10:25:59 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:26:12 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:26:12 12/11/23 [38;5;21mINFO[0m clean a screen
+10:26:12 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:26:12 12/11/23 [38;5;21mINFO[0m starting message
+10:26:12 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:48:21 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:48:21 12/11/23 [38;5;21mINFO[0m clean a screen
+10:48:21 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:48:21 12/11/23 [38;5;21mINFO[0m starting message
+10:48:21 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+10:48:21 12/11/23 [38;5;21mINFO[0m Take an actual branch
+10:48:22 12/11/23 [38;5;21mINFO[0m take an actual branch -> successfuly
+10:48:22 12/11/23 [38;5;21mINFO[0m check a unpushed changes
+10:48:50 12/11/23 [38;5;21mINFO[0m take a others branchs -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:50:32 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:50:32 12/11/23 [38;5;21mINFO[0m clean a screen
+10:50:32 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:50:32 12/11/23 [38;5;21mINFO[0m starting message
+10:50:32 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+10:50:32 12/11/23 [38;5;21mINFO[0m Take an actual branch
+10:50:32 12/11/23 [38;5;21mINFO[0m take an actual branch -> successfuly
+10:50:32 12/11/23 [38;5;21mINFO[0m check a unpushed changes
+10:50:43 12/11/23 [38;5;21mINFO[0m take a others branchs -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:50:46 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:50:46 12/11/23 [38;5;21mINFO[0m clean a screen
+10:50:46 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:50:46 12/11/23 [38;5;21mINFO[0m starting message
+10:50:46 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+10:50:46 12/11/23 [38;5;21mINFO[0m Take an actual branch
+10:50:46 12/11/23 [38;5;21mINFO[0m take an actual branch -> successfuly
+10:50:46 12/11/23 [38;5;21mINFO[0m check a unpushed changes
+10:50:58 12/11/23 [38;5;21mINFO[0m take a others branchs -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:53:24 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:53:24 12/11/23 [38;5;21mINFO[0m clean a screen
+10:53:24 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:53:24 12/11/23 [38;5;21mINFO[0m starting message
+10:53:24 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+10:53:24 12/11/23 [38;5;21mINFO[0m Take an actual branch
+10:53:24 12/11/23 [38;5;21mINFO[0m take an actual branch -> successfuly
+10:53:24 12/11/23 [38;5;21mINFO[0m check git status
+10:53:24 12/11/23 [38;5;21mINFO[0m check a unpushed changes
+10:53:45 12/11/23 [38;5;21mINFO[0m take a others branchs -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:54:17 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:54:17 12/11/23 [38;5;21mINFO[0m clean a screen
+10:54:17 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:54:17 12/11/23 [38;5;21mINFO[0m starting message
+10:54:17 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+10:54:17 12/11/23 [38;5;21mINFO[0m Take an actual branch
+10:54:17 12/11/23 [38;5;21mINFO[0m take an actual branch -> successfuly
+10:54:17 12/11/23 [38;5;21mINFO[0m check git status
+10:54:17 12/11/23 [38;5;21mINFO[0m check a unpushed changes
+10:54:39 12/11/23 [38;5;21mINFO[0m take a others branchs -> successfuly
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:03:13 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:03:13 12/11/23 [38;5;21mINFO[0m clean a screen
+11:03:13 12/11/23 [38;5;21mINFO[0m print a dog ascii
+11:03:13 12/11/23 [38;5;21mINFO[0m print a dog draw -> successfuly
+11:03:13 12/11/23 [38;5;21mINFO[0m choose an option
+11:03:18 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+11:03:18 12/11/23 [38;5;21mINFO[0m option choosed ->> github
+11:03:18 12/11/23 [38;5;21mINFO[0m choose an github option
+11:03:20 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+11:03:20 12/11/23 [38;5;21mINFO[0m option choosed ->> Mostrar credenciales
+11:03:21 12/11/23 [38;5;21mINFO[0m  -> successfuly
+11:03:21 12/11/23 [38;5;21mINFO[0m closing a program
+11:03:21 12/11/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:03:36 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:03:36 12/11/23 [38;5;21mINFO[0m clean a screen
+11:03:36 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:03:36 12/11/23 [38;5;21mINFO[0m starting message
+11:03:36 12/11/23 [38;5;21mINFO[0m print a starting message -> successfuly
+11:03:36 12/11/23 [38;5;21mINFO[0m Take an actual branch
+11:03:36 12/11/23 [38;5;21mINFO[0m take an actual branch -> successfuly
+11:03:36 12/11/23 [38;5;21mINFO[0m check git status
+11:03:36 12/11/23 [38;5;21mINFO[0m check a unpushed changes
+11:03:39 12/11/23 [38;5;21mINFO[0m take a others branchs -> successfuly
+11:03:39 12/11/23 [38;5;21mINFO[0m option choosed ->> main
+11:03:39 12/11/23 [38;5;21mINFO[0m Choosing to main branch
+11:03:39 12/11/23 [38;5;93mERROR[0m change to main -> failed
+11:03:39 12/11/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:04:51 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:04:52 12/11/23 [38;5;21mINFO[0m clean a screen
+11:04:52 12/11/23 [38;5;21mINFO[0m print a dog ascii
+11:04:52 12/11/23 [38;5;21mINFO[0m print a dog draw -> successfuly
+11:04:52 12/11/23 [38;5;21mINFO[0m choose an option
+11:04:57 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+11:04:57 12/11/23 [38;5;21mINFO[0m option choosed ->> github
+11:04:58 12/11/23 [38;5;21mINFO[0m choose an github option
+11:05:02 12/11/23 [38;5;21mINFO[0m option selected -> successfuly
+11:05:02 12/11/23 [38;5;21mINFO[0m option choosed ->> Mostrar credenciales
+11:05:03 12/11/23 [38;5;21mINFO[0m  -> successfuly
+11:05:03 12/11/23 [38;5;21mINFO[0m closing a program
+11:05:03 12/11/23 [38;5;21mINFO[0m finish
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+11:29:17 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+11:29:17 12/11/23 [38;5;21mINFO[0m clear screan
+11:29:17 12/11/23 [38;5;21mINFO[0m clear -> successfuly
+11:29:17 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+11:29:17 12/11/23 [38;5;21mINFO[0m starting message
+11:29:17 12/11/23 [38;5;21mINFO[0m print water -> successfuly
+11:29:19 12/11/23 [38;5;21mINFO[0m option choose -> successfuly
+11:29:19 12/11/23 [38;5;21mINFO[0m option choosed ->> Todos
+11:29:19 12/11/23 [38;5;21mINFO[0m select all files
+11:29:19 12/11/23 [38;5;21mINFO[0m add files

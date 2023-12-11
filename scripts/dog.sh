@@ -13,22 +13,22 @@ clear
 log_info "print a dog ascii"
 water_dog
 try_catch "print a dog draw"
-print_custom $CL2 0 none center 0 "1 5" "WOOF WOOF... what do you need?"
+print_custom $CL2 0 none center 0 "1 5" "WOOF WOOF... que necesitas? ->"
 log_info "choose an option"
 CHOOSE_dog=$(choose_one "github")
 try_catch "option selected"
 log_info "option choosed ->> $CHOOSE_dog"
-print_message "Option selected"
+print_message "Opción seleccionada"
 print_user "$CHOOSE_dog"
 if [[ "$CHOOSE_dog" = "github" ]]
 then
   log_info "choose an $CHOOSE_dog option"
-  CHOOSE_dog=$(choose_one "show credentials")
+  CHOOSE_dog=$(choose_one "Mostrar credenciales")
   try_catch "option selected"
   log_info "option choosed ->> $CHOOSE_dog"
-  print_message "Option selected"
+print_message "Opción seleccionada"
   print_user "$CHOOSE_dog"
-  if [[ "$CHOOSE_dog" = "show credentials" ]]
+  if [[ "$CHOOSE_dog" = "Mostrar credenciales" ]]
   then
     print_divider
     credentials
@@ -36,6 +36,9 @@ then
     print_divider
   fi
 fi
+log_info "closing a program"
+print_key "WOOF adios!"
+log_info "finish"
 
 
 
