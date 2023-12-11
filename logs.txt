@@ -1601,3 +1601,28 @@
 10:05:27 12/11/23 [38;5;21mINFO[0m option choosed ->> Todos
 10:05:27 12/11/23 [38;5;21mINFO[0m select all files
 10:05:27 12/11/23 [38;5;21mINFO[0m add files
+10:05:27 12/11/23 [38;5;21mINFO[0m adding files -> successfuly
+10:05:28 12/11/23 [38;5;21mINFO[0m creatin a commit
+10:07:06 12/11/23 [38;5;21mINFO[0m take input -> successfuly
+10:07:06 12/11/23 [38;5;21mINFO[0m input taked Create a Dog assistand and create a << gch >> script
+10:07:06 12/11/23 [38;5;21mINFO[0m adding commit -> successfuly
+10:07:06 12/11/23 [38;5;21mINFO[0m show credentials
+10:07:07 12/11/23 [38;5;21mINFO[0m show credentials -> successfuly
+10:07:07 12/11/23 [38;5;21mINFO[0m upload changes to repository
+10:07:16 12/11/23 [38;5;93mERROR[0m make a push -> failed
+10:07:16 12/11/23 [38;5;93mERROR[0m 0
+
+
+
+
+◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+10:07:27 12/11/23 [38;5;21mINFO[0m Configuration imported -> import successfuly
+10:07:27 12/11/23 [38;5;21mINFO[0m clear screan
+10:07:27 12/11/23 [38;5;21mINFO[0m clear -> successfuly
+10:07:27 12/11/23 [38;5;21mINFO[0m STARTING A PROGRAM
+10:07:27 12/11/23 [38;5;21mINFO[0m starting message
+10:07:27 12/11/23 [38;5;21mINFO[0m print water -> successfuly
+10:07:28 12/11/23 [38;5;21mINFO[0m option choose -> successfuly
+10:07:28 12/11/23 [38;5;21mINFO[0m option choosed ->> Todos
+10:07:28 12/11/23 [38;5;21mINFO[0m select all files
+10:07:28 12/11/23 [38;5;21mINFO[0m add files
