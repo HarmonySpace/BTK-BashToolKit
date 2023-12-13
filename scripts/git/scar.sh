@@ -37,7 +37,7 @@ print_message "Opción seleccionada"
   fi
 fi
 log_info "closing a program"
-print_key "WOOF adios!"
+print_user "WOOF adios!"
 log_info "finish"
 
 

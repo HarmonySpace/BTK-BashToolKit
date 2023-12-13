@@ -22,9 +22,9 @@ try_catch "take an actual branch"
 log_info "check git status"
 print_divider
 git_status
-print_divider
 log_info "check a unpushed changes"
 git_check_unpushed
+print_divider
 print_message "Selecciona la rama a cambiar ->"
 CHOOSE_gch=$(choose_one $(git branch --list | grep -v "\*"))
 try_catch "take a others branchs"

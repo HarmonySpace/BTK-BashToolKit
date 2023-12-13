@@ -14,7 +14,7 @@ function git_check_unpushed (){
   if [[ -z "$unpushed_files" ]]
   then
     # No unpushed changes found.
-    print_key "La rama esta actualizada"
+    print_warning "No hay cambios registrados"
     return 0
   else
     # Unpushed changes found. Capture the list for user message.
