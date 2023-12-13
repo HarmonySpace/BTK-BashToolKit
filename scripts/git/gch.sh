@@ -29,7 +29,7 @@ print_message "Selecciona la rama a cambiar ->"
 CHOOSE_gch=$(choose_one $(git branch --list | grep -v "\*"))
 try_catch "take a others branchs"
 log_info "option choosed ->> $CHOOSE_gch"
-print_message "Cambiando a la rama"
+print_message "Rama seleccionada"
 print_user "$CHOOSE_gch"
 log_info "Choosing to $CHOOSE_gch branch"
 git switch "$CHOOSE_gch"
