@@ -20,7 +20,9 @@ print_message "Tu rama actual ->"
 print_key "$(git rev-parse --abbrev-ref HEAD)"
 try_catch "take an actual branch"
 log_info "check git status"
+print_divider
 git_status
+print_divider
 log_info "check a unpushed changes"
 git_check_unpushed
 print_message "Selecciona la rama a cambiar ->"
