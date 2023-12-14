@@ -12,6 +12,7 @@ source $CONFIG_PATH/services/prints.sh
 source $CONFIG_PATH/services/choose.sh
 source $CONFIG_PATH/services/input.sh
 source $CONFIG_PATH/services/spin.sh
+source $CONFIG_PATH/services/confirm.sh
 source $CONFIG_PATH/services/file.sh
 source $CONFIG_PATH/services/user.sh
 source $CONFIG_PATH/services/git.sh
