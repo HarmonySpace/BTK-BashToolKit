@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # share the dir
-SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 #import libreries
 source "$SCRIPT_DIR/../services/import.sh"
 ## configuration import
@@ -22,18 +22,21 @@ CHOOSE_gu=$(choose_one "Todos" "Uno")
 try_catch "option choose"
 log_info "option choosed ->> $CHOOSE_gu"
 print_user "$CHOOSE_gu"
-if [[ $CHOOSE_gu = "Todos" ]]
-then
+if [[ $CHOOSE_gu = "Todos" ]]; then
   log_info "select all files"
   FILE_gu="."
-elif [[ $CHOOSE_gu = "Uno" ]]
-then
-  log_info "browser file"
-  FILE_gu="$(file_browser)"
-  try_catch "file choose"
-  log_info "file choosed ->> $FILE_gu"
-  print_message "Archivo seleccionado"
-  print_user "$FILE_gu"
+elif [[ $CHOOSE_gu = "Uno" ]]; then
+  CONTINUE="yes"
+  while [ "$CONTINUE" = yes ]
+  do
+    log_info "browser file"
+    FILE_gu="$(file_browser)"
+    try_catch "file choose"
+    log_info "file choosed ->> $FILE_gu"
+    print_message "Archivo seleccionado"
+    print_user "$FILE_gu"
+    CONTINUE=$(confirm_yn "¿Seleccionar otro archivo?")
+  done
 else
   log_error "opcioón no valida"
 fi
@@ -46,7 +49,7 @@ COMMIT_gu="$(input_text "Ingresa tu commit acá")"
 try_catch "take input"
 log_info "input taked $COMMIT_gu"
 print_message "Commit obtenido"
-print_key "$COMMIT_gu"
+print_user "$COMMIT_gu"
 git commit -m "$COMMIT_gu"
 try_catch "adding commit"
 log_info "show credentials"
@@ -63,11 +66,3 @@ log_info "successfull"
 log_info "closing a program"
 print_key "Subida exitosa"
 log_info "finish"
-
-
-
-
-
-
-
-
