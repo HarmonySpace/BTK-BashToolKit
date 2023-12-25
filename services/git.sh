@@ -32,7 +32,7 @@ function git_get_branches() {
   log_info "prints all branches"
   print_divider
   print_key "All your branches"
-  git branch --list | grep -v "\*" | paste -s -d "" 
+  git branch --list | grep -v "\*" | paste -s -d " "
   log_info "take all branchs"
   print_divider
 }
