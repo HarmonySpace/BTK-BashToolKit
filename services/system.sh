@@ -13,6 +13,17 @@ function try_catch (){
     exit 1
   fi
 }
+## if null
+function if_null () {
+  log_info "checking if argument is null"
+  if [[ "${1}" = "" ]]; then
+    log_error "argument is null"
+    print_error "Volor vacio"
+    exit 1
+  else
+    log_info "argument is not null"
+  fi
+}
 # system
 ## take a actual date
 function take_date (){
