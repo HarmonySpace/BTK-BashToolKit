@@ -9,14 +9,7 @@ source "$SCRIPT_DIR/../config.sh"
 try_catch_import $CONFIG_LOADED "Configuration imported"
 
 # start the script
-log_info "clear screan"
-clear
-try_catch "clear"
-log_info "STARTING A PROGRAM"
-log_info "starting message"
-water
-try_catch "print water"
-print_custom $CL2 0 none center 0 "1 10" "( ONLY GIT PUSH )"
+print_start "git push"
 print_message "Seleccióne los archivos a subir ->"
 CHOOSE_gu=$(choose_one "Todos" "Uno")
 try_catch "option choose"

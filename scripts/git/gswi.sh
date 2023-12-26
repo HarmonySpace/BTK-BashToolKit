@@ -7,16 +7,8 @@ source "$SCRIPT_DIR/../services/import.sh"
 ## configuration import
 source "$SCRIPT_DIR/../config.sh"
 try_catch_import $CONFIG_LOADED "Configuration imported"
-## helpers
-HELPERS_GSWI="$SCRIPT_DIR/../scripts/git/gswi_scripts"
 
-log_info "clean a screen"
-clear
-log_info "STARTING A PROGRAM"
-log_info "starting message"
-water
-try_catch "print a starting message"
-print_custom $CL2 0 none center 0 "1 4" "( ONLY GIT CHECKOUT BRANCH )"
+print_start "git switch"
 git_get_branches
 log_info "actual branch"
 print_message "Tu rama actual ->"
