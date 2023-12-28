@@ -2,23 +2,28 @@
 
 # print messages
 ## join prints
-function print_join (){
+function print_join() {
   echo "${1}" "${2}" "${3}"
   return 0
 }
 ## print a body message
-function print_message (){
+function print_message() {
   gum style --foreground $FR --align left "${1}"
   return 0
 }
-## print a key message  
+## print a key message
 function print_key (){
   gum style --foreground $CL1 --align left "${1}"
   return 0
 }
-## print a key message  
-function print_user (){
+## print a key second message
+function print_key2 (){
   gum style --foreground $CL2 --align left "${1}"
+  return 0
+}
+## print a key message
+function print_user (){
+  gum style --foreground $UFR --align left "${1}"
   return 0
 }
 ## print a warning message
@@ -41,6 +46,16 @@ function print_divider (){
   print_message " "
   print_message "$SEC2"
   print_message " "
+}
+# print start message
+function print_start (){
+  log_info "clean a screen"
+  clear
+  log_info "STARTING A PROGRAM"
+  log_info "starting message"
+  water
+  try_catch "print water" $?
+  print_custom $CL2 0 none center 0 "1 10" ">> ${1} <<"
 }
 
 # export default

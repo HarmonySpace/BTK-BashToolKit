@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # git status
-function git_status() {
+function git_status (){
   print_divider
   print_warning "Tu estatus de la rama actual"
   git status
@@ -12,7 +12,7 @@ function git_status() {
 }
 
 # git unpushed check
-function git_check_unpushed() {
+function git_check_unpushed (){
   UNPUSHED_GCH=$(git diff --name-only)
   if [[ -z "$unpushed_files" ]]; then
     # No unpushed changes found.
@@ -28,7 +28,7 @@ function git_check_unpushed() {
 }
 
 # git check all branch
-function git_get_branches() {
+function git_get_branches (){
   log_info "prints all branches"
   print_divider
   print_key "All your branches"
@@ -38,7 +38,7 @@ function git_get_branches() {
 }
 
 # git change branchs
-function git_change_branch() {
+function git_change_branch (){
   log_info "check git status"
   git_status
   print_message "Selecciona la rama a cambiar ->"
@@ -55,7 +55,7 @@ function git_change_branch() {
 }
 
 # git create a branch
-function git_create_branch() {
+function git_create_branch (){
   log_info "create a new brach"
   print_key "Crear nueva Rama"
   print_message "Ingrese el nombre de la rama"
@@ -90,7 +90,7 @@ function git_create_branch() {
 }
 
 # git delete a branch
-function git_delete_branch() {
+function git_delete_branch (){
   log_info "deleting a branch"
   print_key "Eliminar una rama"
   print_message "Seleccione la rama a eliminar"

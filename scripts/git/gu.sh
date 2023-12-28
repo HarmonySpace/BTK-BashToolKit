@@ -45,17 +45,14 @@ print_message "Ingressa un commit para el push ->"
 COMMIT_gu="$(input_text "Ingresa tu commit acá")"
 try_catch "take input"
 if_null $COMMIT_gu
-log_info "input taked $COMMIT_gu"
+log_info "input taked -> $COMMIT_gu"
 print_message "Commit obtenido"
 print_user "$COMMIT_gu"
 git commit -m "$COMMIT_gu"
 try_catch "adding commit"
 log_info "show credentials"
-print_divider
-print_message "Sus credenciales"
 credentials
 try_catch "show credentials"
-print_divider
 log_info "upload changes to repository"
 spin_time "Upload changes in git" 2
 git push

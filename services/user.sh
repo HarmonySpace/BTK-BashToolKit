@@ -12,10 +12,12 @@ function water_dog (){
 }
 
 function credentials (){
+  print_divider
   print_message "User name"
   print_key "$(sed -n '1p' $CRED_DIR)"
   print_message "Git Key"
   print_key "$(sed -n '2p' $CRED_DIR)"
+  print_divider
   return 0
 }
 

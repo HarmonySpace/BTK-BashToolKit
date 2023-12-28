@@ -38,7 +38,7 @@ function i_log_info (){
   fi
 }
 ##log separated
-function i_log_sep(){
+function i_log_sep (){
   log_void ""
   log_void ""
   log_void ""
