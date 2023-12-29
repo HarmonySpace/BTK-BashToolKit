@@ -49,10 +49,7 @@ function print_divider (){
 }
 # print start message
 function print_start (){
-  log_info "clean a screen"
   clear
-  log_info "STARTING A PROGRAM"
-  log_info "starting message"
   water
   try_catch "print water" $?
   print_custom $CL2 0 none center 0 "1 10" ">> ${1} <<"

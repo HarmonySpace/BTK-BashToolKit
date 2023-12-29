@@ -12,11 +12,15 @@ function water_dog (){
 }
 
 function credentials (){
+  USER_usr=$(search_in_file "${1}" "$CONFIG_PREF" 4)
+  try_catch "take a <user> for account ${1}"
+  KEY_usr=$(search_in_file "${1}" "$CONFIG_PREF" 5)
+  try_catch "take a <git key> for account ${1}"
   print_divider
   print_message "User name"
-  print_key "$(sed -n '1p' $CRED_DIR)"
+  print_key "$USER_usr"
   print_message "Git Key"
-  print_key "$(sed -n '2p' $CRED_DIR)"
+  print_key "$KEY_usr"
   print_divider
   return 0
 }

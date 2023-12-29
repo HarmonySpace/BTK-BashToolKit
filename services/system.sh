@@ -5,23 +5,23 @@
 function try_catch (){
   if [[ "$?" = 0 ]]
   then
-    log_info "${1} -> successfuly"
+    log_debug "${1} successfuly"
     return 0
   else
-    log_error "${1} -> failed"
+    log_error "${1} failed"
     log_error "$?"
     exit 1
   fi
 }
 ## if null
 function if_null () {
-  log_info "checking if argument is null"
+  log_debug "checking if argument is null"
   if [[ "${1}" = "" ]]; then
     log_error "argument is null"
     print_error "Volor vacio"
     exit 1
   else
-    log_info "argument is not null"
+    log_debug "argument is not null"
   fi
 }
 # system
