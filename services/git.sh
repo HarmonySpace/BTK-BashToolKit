@@ -27,15 +27,15 @@ function git_check_unpushed (){
   fi
 }
 
-# git check all branch
+# git branchs
+## git check all branch
 function git_get_branches (){
   print_divider
   print_key "All your branches"
   git branch --list | grep -v "\*" | paste -s -d " "
   print_divider
 }
-
-# git change branchs
+## git change branchs
 function git_change_branch (){
   git_status
   print_message "Selecciona la rama a cambiar ->"
@@ -48,8 +48,7 @@ function git_change_branch (){
   try_catch "change to $CHOOSE_CH"
   print_key "Cambio de rama exitosa"
 }
-
-# git create a branch
+## git create a branch
 function git_create_branch (){
   print_key "Crear nueva Rama"
   print_message "Ingrese el nombre de la rama"
@@ -76,8 +75,7 @@ function git_create_branch (){
   git switch -c "$NAME_CR"
   try_catch "branch created"
 }
-
-# git delete a branch
+## git delete a branch
 function git_delete_branch (){
   print_key "Eliminar una rama"
   print_message "Seleccione la rama a eliminar"
@@ -97,6 +95,15 @@ function git_delete_branch (){
   else
     print_error "Eliminación cancelada"
   fi
+}
+
+# git config
+## git config account
+function git_config_account (){
+  git config "--${1}" user.name "${2}"
+  try_catch "git user config"
+  git config "--${1}" user.email "${3}"
+  try_catch "git email config"
 }
 
 # export default

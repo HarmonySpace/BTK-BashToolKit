@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # share the dir
-SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd )"
 ## configuration import
 source "$SCRIPT_DIR/../config.sh"
 
@@ -39,7 +39,7 @@ elif [[ "$CHOOSE_dog" = "github" ]]; then
     TEMP_dog=$(take_me_list "git_account" "$CONFIG_PREF" 4)
     try_catch "account search"
     if_null $TEMP_dog
-    CHOOSE_dog=$(cat $TEMP | choose_one)
+    CHOOSE_dog=$(cat "$TEMPO" | choose_one)
     try_catch "account selection"
     if_null $CHOOSE_dog
     credentials $CHOOSE_dog

@@ -23,7 +23,7 @@ function log_fatal (){
 }
 ## error logs
 function log_error (){
-  gum log --time kitchen --structured --level error "${1}" --level.foreground $ERR >& /dev/null
+  gum log --time kitchen --structured --level error "${1}" --level.foreground $ERR
   return 0
 }
 # # print logs

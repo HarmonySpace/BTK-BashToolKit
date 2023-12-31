@@ -53,6 +53,11 @@ function print_start (){
   water
   try_catch "print water" $?
   print_custom $CL2 0 none center 0 "1 10" ">> ${1} <<"
+  trap print_finish EXIT
+}
+function print_finish (){
+  print_key2 "Gracias por usar BASH TOOL KIT"
+  print_key "FINALIZADO"
 }
 
 # export default
