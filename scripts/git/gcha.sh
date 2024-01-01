@@ -9,39 +9,47 @@ init_temp
 print_start "git change account"
 temp1=$(create_temp)
 try_catch "create one temp"
-put_in $temp1 $(git config --get user.name)
+put_in $temp1 "$(echo actual_account = $(git config --get user.name))"
 try_catch "get an actual user"
 print_message "Cuenta configurada"
-print_key "$(cat $temp1)"
-temp2=$(create_temp)
-try_catch "create one temp"
-put_in $temp2 $(confirm_yn '¿Desea cambiar de cuenta?')
-try_catch "confirm change account"
+print_key "$(search_in $temp1 "actual_account" 3)"
+add_in $temp1 "$(echo confirm_change = $(confirm_yn '¿Desea cambiar de cuenta?'))"
+try_catch "confirm a changes"
+if_null $(search_in $temp1 "confirm_change" 3)
 print_message "¿Desea cambiar de cuenta?"
-print_user "$(cat $temp2)"
-if [[ $(cat $temp2) =~ "yes" ]]; then
-  take_me_list $temp2 "git_account" "$CONFIG_PREF" 4
-  try_catch "account search"
+print_key "$(search_in $temp1 "confirm_change" 3)"
+if [[ $(search_in $temp1 "confirm_change" 3) =~ "yes" ]]; then
+  add_in $temp1 "$(list_in $temp1 "git_account" $CONFIG_PREF 4 accounts)"
+  try_catch "get all accounts"
+  if_null $(search_in $temp1 "account" 3)
   print_message "Cuentas encontradas"
-  print_user "$(cat $temp2)"
-  drop_me "$temp1" "$(cat $temp1)" "$temp2"
+  print_key "$(search_list_in "accounts" $temp1)"
+  remove_in $temp1 "$(search_in $temp1 "actual_account" 3)" "$(search_list_in "accounts" $temp1)" "valid_accounts"
   try_catch "remove actual account"
+  if_null $(search_in $temp1 "valid_accounts" 3)
   print_message "Cuenta a cambiar"
   print_warning "No se permite cambiar a la misma cuenta"
-  put_in $temp1 $(cat "$temp1" | choose_one)
+  add_in $temp1 "$(echo account_name = $(search_list_in "valid_accounts" "$temp1" | choose_one))"
   try_catch "choose any account"
-  print_user $(cat $temp1)
+  if_null $(search_in $temp1 "account_name" 3)
+  print_key "$(search_in $temp1 "account_name" 3)"
+  print_message "Email de la cuenta"
+  add_in $temp1 "$(echo account_email = $(search_in $CONFIG_PREF $(search_in $temp1 "account_name" 3) 3))"
+  try_catch "get account email"
+  if_null $(search_in $temp1 "account_email" 3)
+  print_key "$(search_in $temp1 "account_email" 3)"
   print_message "Alcance del cambio"
-  put_in $temp1 $(search_in $(cat $temp1) $CONFIG_PREF 3)
-  try_catch "extract email"
-  add_in $temp1 $(search_in $(cat $temp1) $CONFIG_PREF 4)
-  try_catch "extract user"
-  put_in $temp2 $(choose_one "global" "local" "worktree")
+  add_in $temp1 "$(echo config_scope = $(choose_one "global" "local" "worktree"))"
   try_catch "select any scope"
-  temp3=$(create_temp)
-  try_catch "create one temp"
-  git_config_account "$(cat $temp2)" "$(line_in $temp3 2 1 $temp1 && cat $temp3)" "$(line_in $temp3 1 1 $temp1 && cat $temp3)"
+  if_null $(search_in $temp1 "config_scope" 3)
+  print_key "$(search_in $temp1 "config_scope" 3)"
+  git_config_account "$(search_in $temp1 "config_global" 3)" "$(search_in $temp1 "account_name" 3)" "$(search_in $temp1 "account_email" 3)"
   try_catch "git config"
+else
+  print_error "Cambio de cuenta cancelado"
 fi
+delete_temp
+print_key2 "Cuenta cabiada correctamente"
+print_finish
 
 #log_debug $(cat $temp2)
