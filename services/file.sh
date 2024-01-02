@@ -86,6 +86,9 @@ function delete_temp() {
   rm -rf $TEMP_DIR
 }
 
+
+
+
 ## extract values
 ### search in file
 #function search_in_file (){
