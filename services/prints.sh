@@ -11,6 +11,11 @@ function print_message() {
   gum style --foreground $FR --align left "${1}"
   return 0
 }
+## print a body file
+function print_file() {
+  gum style --foreground $FT --align left "${1}"
+  return 0
+}
 ## print a key message
 function print_key (){
   gum style --foreground $CL1 --align left "${1}"

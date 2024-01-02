@@ -2,13 +2,13 @@
 
 # print file browser
 ## file browser
-function file_browser (){
+function file_browser() {
   gum file --cursor "> " --all --cursor.foreground "$CL1" --directory.foreground "$CL2" --file.foreground "$FR" --selected.foreground "$CL1" "./"
   return 0
 }
 
 ## custom file browser
-function file_browser_custom (){
+function file_browser_custom() {
   ALL_this="${7}"
   if [[ $ALL_this = "true" ]]; then
     ALL_this="--all"
@@ -20,15 +20,15 @@ function file_browser_custom (){
 }
 
 ## add in temp.txt
-function add_in (){
-  echo ${2} >> ${1}
+function add_in() {
+  echo ${2} >>${1}
 }
 ## put in temp.txt
-function put_in (){
-  echo ${2} > ${1}
+function put_in() {
+  echo ${2} >${1}
 }
-## drop a line in temp.txt
-function remove_in (){
+## remove an element in temp.txt
+function remove_element_in() {
   # salida - que - lista - como
   temp_removein=$(create_temp)
   put_in $temp_removein "$(echo "${3}" | sed "s/\b${2}\b//")"
@@ -36,49 +36,55 @@ function remove_in (){
   add_in ${1} "$(echo "${4}" = $(cat $temp_removein))"
 }
 ## get line in temp.txt
-function line_in (){
+function line_in() {
   # salida - arriba abajo - abajo arriba - donde
-  head -n ${2} ${4} | tail -n ${3} > ${1}
-}
-## get line what I search in temp.txt
-function search_in (){
-  # donde - que - campo
-  grep "${2}" "${1}" | cut -d' ' -f${3}
-}
-## get content what I search in temp.txt
-function search_list_in (){
-  # que - donde
-  while IFS= read -r line; do
-    if [[ "$line" =~ "${1}" ]]; then
-      echo "$line" | awk -F'=' '{print $2}' | sed 's/^[[:space:]]*//' | tr ' ' '\n'
-    fi
-  done < "${2}"
+  head -n ${2} ${4} | tail -n ${3} >${1}
 }
 ## create a list in temp.txt
-function list_in (){
-  # salida - que - donde - campo - como
+function list_in() {
+  # salida - que - donde - campo - caracter - como
   temp_listin=$(create_temp)
   while read -r line; do
     if [[ "$line" =~ "${2}" ]]; then
-      add_in $temp_listin "$(echo "$line" | cut -d' ' -f${4})"
+      add_in $temp_listin "$(echo "$line" | cut -d"${5}" -f${4})"
     fi
   done < "${3}"
-  add_in ${1} "$(echo "${5}" = $(cat $temp_listin | tr '\n' ' '))"
+  add_in ${1} "$(echo "${6}" = $(cat $temp_listin | tr '\n' ' '))"
 }
+## remove a line in temp.txt
+  # donde - que
+function remove_line_in() {
+  temp_removelinein=$(create_temp)
+  grep -v "${2}" "${1}" >"$temp_removelinein"
+  mv "$temp_removelinein" "${1}"
+}
+## get line what I search in temp.txt
+function search_in() {
+  # donde - que - caracter - campo
+  grep "${2}" "${1}" | cut -d"${3}" -f${4} | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
+}
+## get content what I search in temp.txt
+function search_list_in() {
+  # que - donde - caracter
+  while IFS= read -r line; do
+    if [[ "$line" =~ "${1}" ]]; then
+      echo "$line" | awk -F"${3}" '{print $2}' | sed 's/^[[:space:]]*//' | tr ' ' '\n'
+    fi
+  done <"${2}"
+}
+
 ## init temp files
-function init_temp (){
+function init_temp() {
   mkdir -p "$TEMP_DIR"
 }
 ## create temp file
-function create_temp (){
+function create_temp() {
   mktemp "$TEMP_DIR/temp_file.XXXXXX"
 }
 ## delete temp file
-function delete_temp (){
+function delete_temp() {
   rm -rf $TEMP_DIR
 }
-
-
 
 ## extract values
 ### search in file
