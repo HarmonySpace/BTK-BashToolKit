@@ -27,14 +27,6 @@ function add_in() {
 function put_in() {
   echo ${2} >${1}
 }
-## remove an element in temp.txt
-function remove_element_in() {
-  # salida - que - lista - como
-  temp_removein=$(create_temp)
-  put_in $temp_removein "$(echo "${3}" | sed "s/\b${2}\b//")"
-  put_in $temp_removein "$(cat $temp_removein | sed 's/  */ /g')"
-  add_in ${1} "$(echo "${4}" = $(cat $temp_removein))"
-}
 ## get line in temp.txt
 function line_in() {
   # salida - arriba abajo - abajo arriba - donde
@@ -71,6 +63,14 @@ function search_list_in() {
       echo "$line" | awk -F"${3}" '{print $2}' | sed 's/^[[:space:]]*//' | tr ' ' '\n'
     fi
   done <"${2}"
+}
+## remove an element in temp.txt
+function remove_element_in() {
+  # salida - que - lista - como
+  temp_removein=$(create_temp)
+  put_in $temp_removein "$(echo "${3}" | sed "s/\b${2}\b//")"
+  put_in $temp_removein "$(cat $temp_removein | sed 's/  */ /g')"
+  add_in ${1} "$(echo "${4}" = $(cat $temp_removein))"
 }
 
 ## init temp files
