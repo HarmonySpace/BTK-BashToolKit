@@ -42,6 +42,8 @@ spin_command "git commit" "$(git commit -m "$(search_in $temp1 "git_commit" = 2)
 add_in $temp1 "$(echo actual_account = $(git config --get user.name))"
 if_null $(search_in $temp1 "actual_account" = 2)
 credentials "$(search_in $temp1 "actual_account" = 2)"
+git push
+try_catch "git push"
 print_file "$(cat $temp1)"
 delete_temp
 print_finish
