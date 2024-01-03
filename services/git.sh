@@ -51,29 +51,26 @@ function git_change_branch (){
 }
 ## git create a branch
 function git_create_branch (){
+  temp_gitcreatebranck=$(create_temp)
   print_key "Crear nueva Rama"
-  print_message "Ingrese el nombre de la rama"
-  NAME_CR=$(input_text "nueva rama")
-  try_catch "take a new branch name"
-  if_null $NAME_CR
-  print_user "$NAME_CR"
-  print_key "Rama de origen"
-  print_message "Seleccione la rama de origen"
-  CHOOSE_CR=$(choose_one $(git branch --list | cut -c3-) "Huérfana")
-  try_catch "origin branch"
-  if_null $CHOOSE_CR
-  print_message "Rama origen"
-  print_user "$CHOOSE_CR"
-  if [[ "$CHOOSE_CR" = "Huérfana" ]]; then
+  print_message "Nombre de la nueva rama"
+  put_in $temp_gitcreatebranck "$(echo branch_name = $(input_text "box"))"
+  if_null $(search_in $temp_gitcreatebranck "branch_name" = 2)
+  print_user "$(search_in $temp_gitcreatebranck "branch_name" = 2)"
+  print_message "Rama de origen"
+  add_in $temp_gitcreatebranck "$(echo origin_branch = $(choose_one $(git branch --list | cut -c3-) "Huérfana"))"
+  if_null $(search_in $temp_gitcreatebranck "origin_branch" = 2)
+  print_user "$(search_in $temp_gitcreatebranck "origin_branch" = 2)"
+  if [[ "$(search_in $temp_gitcreatebranck "origin_branch" = 2)" = "Huérfana" ]]; then
     print_key "Creando rama Huérfana"
     PARAM_CR="--orphan"
   else
     print_key "Cambiando a la rama origen"
     PARAM_CR=""
   fi
-  git switch $PARAM_CR "$CHOOSE_CR"
+  git switch $PARAM_CR "$(search_in $temp_gitcreatebranck "origin_branch" = 2)"
   try_catch "change to origin"
-  git switch -c "$NAME_CR"
+  git switch -c "$(search_in $temp_gitcreatebranck "branch_name" = 2)"
   try_catch "branch created"
 }
 ## git delete a branch
