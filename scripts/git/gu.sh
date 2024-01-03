@@ -44,23 +44,5 @@ if_null $(search_in $temp1 "actual_account" = 2)
 credentials "$(search_in $temp1 "actual_account" = 2)"
 git push
 try_catch "git push"
-print_file "$(cat $temp1)"
 delete_temp
 print_finish
-# > > >
-# git add $FILE_gu
-# try_catch "adding files"
-# print_message "Ingressa un commit para el push ->"
-# COMMIT_gu="$(input_text "Ingresa tu commit acá")"
-# try_catch "take input"
-# if_null $COMMIT_gu
-# print_message "Commit obtenido"
-# print_user "$COMMIT_gu"
-# git commit -m "$COMMIT_gu"
-# try_catch "adding commit"
-# credentials
-# try_catch "show credentials"
-# spin_time "Upload changes in git" 2
-# git push
-# try_catch "make a push"
-# print_key "Subida exitosa"

@@ -32,20 +32,21 @@ function git_check_unpushed (){
 function git_get_branches (){
   print_divider
   print_key "All your branches"
-  git branch --list | grep -v "\*" | paste -s -d " "
+  git branch --list | paste -s -d " "
   print_divider
 }
 ## git change branchs
 function git_change_branch (){
+  temp_gitchangebranch=$(create_temp)
   git_status
-  print_message "Selecciona la rama a cambiar ->"
-  CHOOSE_CH=$(choose_one $(git branch --list | grep -v "\*"))
-  try_catch "take a others branchs"
-  if_null $CHOOSE_CH
+  print_message "Selecciona la rama a cambiar"
+  put_in $temp_gitchangebranch "$(echo go = $(choose_one $(git branch --list | grep -v "\*")))"
+  if_null $(search_in $temp_gitchangebranch "go" = 2)
   print_message "Rama seleccionada"
-  print_user "$CHOOSE_CH"
-  git switch "$CHOOSE_CH"
-  try_catch "change to $CHOOSE_CH"
+  print_user "$(cat $temp_gitchangebranch)"
+  print_user "$(search_in $temp_gitchangebranch "go" = 2)"
+  git switch "$(search_in $temp_gitchangebranch "go" = 2)"
+  try_catch "change to other branch"
   print_key "Cambio de rama exitosa"
 }
 ## git create a branch

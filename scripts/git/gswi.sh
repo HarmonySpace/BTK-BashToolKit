@@ -5,6 +5,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ## configuration import
 source "$SCRIPT_DIR/../config.sh"
 
+init_temp
 print_start "git switch"
 git_get_branches
 print_message "Tu rama actual ->"
