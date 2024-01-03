@@ -39,10 +39,10 @@ function git_get_branches (){
 function git_change_branch (){
   temp_gitchangebranch=$(create_temp)
   git_status
-  print_message "Selecciona la rama a cambiar"
-  put_in $temp_gitchangebranch "$(echo go = $(choose_one $(git branch --list | grep -v "\*")))"
+  print_message "Cambiar a la rama"
+  #put_in $temp_gitchangebranch "$(echo go = $(choose_one $(git branch --list | grep -v "\*")))"
+  put_in $temp_gitchangebranch "$(echo go = $(git branch --list | grep -v "\*" | choose_one))"
   if_null $(search_in $temp_gitchangebranch "go" = 2)
-  print_message "Rama seleccionada"
   print_user "$(cat $temp_gitchangebranch)"
   print_user "$(search_in $temp_gitchangebranch "go" = 2)"
   git switch "$(search_in $temp_gitchangebranch "go" = 2)"

@@ -28,3 +28,4 @@ else
   print_error "Opción no valida"
   exit 1
 fi
+delete_temp
