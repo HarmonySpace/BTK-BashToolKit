@@ -61,7 +61,7 @@ function git_create_branch (){
   add_in $temp_gitcreatebranck "$(echo origin_branch = $(choose_one $(git branch --list | cut -c3-) "Huérfana"))"
   if_null $(search_in $temp_gitcreatebranck "origin_branch" = 2)
   print_user "$(search_in $temp_gitcreatebranck "origin_branch" = 2)"
-  if [[ "$(search_in $temp_gitcreatebranck "origin_branch" = 2)" = "Huérfana" ]]; then
+  if [[ "$(search_in $temp_gitcreatebranck "origin_branch" = 2)" =~ "Huérfana" ]]; then
     print_key "Creando rama Huérfana"
     PARAM_CR="--orphan"
   else
@@ -75,20 +75,17 @@ function git_create_branch (){
 }
 ## git delete a branch
 function git_delete_branch (){
+  temp_gitdeletebranch=$(create_temp)
   print_key "Eliminar una rama"
-  print_message "Seleccione la rama a eliminar"
+  print_message "Rama a eliminar"
   print_warning "¡Rama actual no disponible!"
-  CHOOSE_DE=$(choose_one $(git branch --list | grep -v "\*"))
-  try_catch "take a branch"
-  if_null $CHOOSE_DE
-  print_message "Rama seleccionada para eliminar"
-  print_key "$CHOOSE_DE"
-  print_message "Confirma"
-  CONTINUE_DE=$(confirm_yn "Estas seguro de eliminar")
-  try_catch "take a confirmation"
-  if_null $CONTINUE_DE
-  if [[ "$CONTINUE_DE" = "yes" ]]; then
-    git branch -d $CHOOSE_DE
+  put_in $temp_gitdeletebranch "$(echo to_delete = $(choose_one $(git branch --list | grep -v "\*")))"
+  if_null $(search_in $temp_gitdeletebranch "to_delete" = 2)
+  print_key "$(search_in $temp_gitdeletebranch "to_delete" = 2)"
+  add_in $temp_gitdeletebranch "$(echo confirim_delete = $(confirm_yn "Estas seguro de eliminar"))"
+  if_null $(search_in $temp_gitdeletebranch "confirim_delete" = 2)
+  if [[ "$(search_in $temp_gitdeletebranch "confirim_delete" = 2)" =~ "yes" ]]; then
+    git branch -d $(search_in $temp_gitdeletebranch "to_delete" = 2)
     try_catch "branch deleted"
   else
     print_error "Eliminación cancelada"

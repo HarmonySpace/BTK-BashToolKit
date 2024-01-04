@@ -21,11 +21,11 @@ function file_browser_custom() {
 
 ## add in temp.txt
 function add_in() {
-  echo ${2} >>${1}
+  echo ${2} >> ${1}
 }
 ## put in temp.txt
 function put_in() {
-  echo ${2} >${1}
+  echo ${2} > ${1}
 }
 ## get line in temp.txt
 function line_in() {

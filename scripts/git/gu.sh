@@ -9,7 +9,7 @@ source "$SCRIPT_DIR/../config.sh"
 init_temp
 print_start "git push"
 print_message "Archivos a subir"
-temp1=(create_temp)
+temp1=$(create_temp)
 try_catch "create a temp file"
 put_in $temp1 "$(echo files_to_add = $(choose_one "todos" "uno"))"
 if_null $(search_in $temp1 "files_to_add" = 2)
