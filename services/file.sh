@@ -21,16 +21,37 @@ function file_browser_custom() {
 
 ## add in temp.txt
 function add_in() {
-  echo ${2} >> ${1}
+  echo -e ${2} >> ${1}
 }
 ## put in temp.txt
 function put_in() {
-  echo ${2} > ${1}
+  echo -e ${2} > ${1}
 }
 ## get line in temp.txt
 function line_in() {
   # salida - arriba abajo - abajo arriba - donde
   head -n ${2} ${4} | tail -n ${3} >${1}
+}
+
+## remove a line in temp.txt
+  # donde - que
+function remove_line_in() {
+  temp_removelinein=$(create_temp)
+  grep -v "${2}" "${1}" >"$temp_removelinein"
+  mv "$temp_removelinein" "${1}"
+}
+## get line what I search in temp.txt
+function search_in() {
+  # donde - que - caracter - campo
+  grep "${2}" "${1}" | cut -d"${3}" -f${4} | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
+}
+## remplace string in temp file
+function replace_in() {
+  # donde - salida - que - con
+  temp_replacein=$(create_temp)
+  sed "s#${3}#${4}#g" "${1}" > "${temp_replacein}"
+  mv "${temp_replacein}" "${2}"
+  # NOTA: Los # son para evitar problemas con las rutas 
 }
 ## create a list in temp.txt
 function list_in() {
@@ -43,17 +64,11 @@ function list_in() {
   done < "${3}"
   add_in ${1} "$(echo "${6}" = $(cat $temp_listin | tr '\n' ' '))"
 }
-## remove a line in temp.txt
-  # donde - que
-function remove_line_in() {
-  temp_removelinein=$(create_temp)
-  grep -v "${2}" "${1}" >"$temp_removelinein"
-  mv "$temp_removelinein" "${1}"
-}
-## get line what I search in temp.txt
-function search_in() {
-  # donde - que - caracter - campo
-  grep "${2}" "${1}" | cut -d"${3}" -f${4} | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
+function add_to_list() {
+  # donde - salida - lista - que
+  temp_addtolist=$(create_temp)
+  sed "/${3}/ s/$/ ${4}/" "${2}" > "${temp_addtolist}"
+  mv "${temp_addtolist}" "${1}"
 }
 ## get content what I search in temp.txt
 function search_list_in() {
