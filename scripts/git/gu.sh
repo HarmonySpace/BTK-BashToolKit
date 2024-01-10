@@ -25,13 +25,11 @@ elif [[ $(search_in $temp1 "files_to_add" = 2) =~ "uno" ]]; then
     add_in $temp_gu "$(file_browser)"
     print_message "Archivos seleccionados"
     print_key "$(cat $temp_gu)"
-    print_file "$(cat $temp1)"
     remove_line_in $temp1 "continue"
     add_in $temp1 "$(echo continue = $(confirm_yn "¿Deseas seleccionar otro archivo?"))"
     if_null $(search_in $temp1 "continue" = 2)
     remove_line_in $temp1 "files_selected"
     list_in $temp1 "/" $temp_gu 1 ' ' "files_selected"
-    print_file "$(cat $temp1)"
     if_null $(search_in $temp1 "files_selected" = 2)
   done
 fi
