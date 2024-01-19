@@ -6,10 +6,10 @@ function water (){
   return 0
 }
 
-function water_dog (){
-  print_key "$(cat $CONFIG_PATH/waters/dog.txt)"
-  return 0
-}
+#function water_dog (){
+#  print_key "$(cat $CONFIG_PATH/waters/dog.txt)"
+#  return 0
+#}
 
 function credentials (){
   USER_usr=$(search_in "$CONFIG_PREF" "${1}" ' ' 4)
