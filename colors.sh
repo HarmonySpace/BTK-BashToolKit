@@ -5,14 +5,14 @@
 # ERR=93
 # FR=247
 # UFR=33
-CL1=39
-CL2=92
+CL1=44
+CL2=30
 WR=229
 ERR=199
-FT=245
-FR=255
-UFR=37
-BG=232
+FT=240
+FR=25
+UFR=39
+BG=17
 
 # export default
 export COLOR_LOADED=true
