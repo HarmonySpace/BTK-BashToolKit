@@ -43,20 +43,37 @@ function print_error (){
 }
 ## print a custom message
 function print_custom (){
-  gum style --foreground "${1}" --border-foreground "${2}" --border "${3}" --align "${4}" --margin "${5}" --padding "${6}" "${7}" --background "${8}"
+  cwidth=$(( ${9} ))
+  gum style --foreground "${1}" --border-foreground "${2}" --border "${3}" --align "${4}" --margin "${5}" --padding "${6}" --background "${8}" --width $cwidth "${7}"
   return 0
 }
 function print_montse (){
-  gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "=＾● ⋏ ●＾=")" "$(print_custom $CL2 $CL2 normal left "0 3" "0 1" "${1}" $BG)"
+  clear
+  mwidth=$(( $(tput cols) / 2 ))
+  gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "=＾● ⋏ ●＾=")" "$(print_custom $CL2 $CL2 normal left "0 3" "0 1" "${1}" 0 "$mwidth")"
+  echo ""
+  echo ""
 }
 function print_montse2 (){
-  gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "= ^・ ⋏ ・^ =")" "$(print_custom $CL2 $CL2 normal left "0 3" "0 1" "${1}" $BG)"
+  clear
+  mwidth=$(( $(tput cols) / 2 ))
+  gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "= ^・ ⋏ ・^ =")" "$(print_custom $CL2 $CL2 normal left "0 3" "0 1" "${1}" 0 "$mwidth")"
+  echo ""
+  echo ""
 }
 function print_montseHappy (){
-  gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "= ^- ⋏ -^ =")" "$(print_custom $CL2 $CL2 normal left "0 3" "0 1" "${1}" $BG)"
+  clear
+  mwidth=$(( $(tput cols) / 2 ))
+  gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "= ^- ⋏ -^ =")" "$(print_custom $CL2 $CL2 normal left "0 3" "0 1" "${1}" 0 "$mwidth")"
+  echo ""
+  echo ""
 }
 function print_montseSad (){
-  gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "= ^T ⋏ T^ =")" "$(print_custom $CL2 $CL2 normal left "0 3" "0 1" "${1}" $BG)"
+  clear
+  mwidth=$(( $(tput cols) / 2 ))
+  gum join "$(print_custom $ERR $ERR normal center 0 "0 1" "= ^T ⋏ T^ =")" "$(print_custom $ERR $ERR normal left "0 3" "0 1" "${1}" 0 "$mwidth")"
+  echo ""
+  echo ""
 }
 
 
