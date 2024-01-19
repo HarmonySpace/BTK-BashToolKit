@@ -12,7 +12,7 @@ function print_message() {
   return 0
 }
 function print_message_b() {
-  mwidth=$(( $(tput cols) / 2 )) && mwidth=$(( $mwidth / 2 )) && mwidth=$(( $mwidth * 3 ))
+  mwidth=$(( $(tput cols) / 2 )) && mwidth=$(( $mwidth / 2 )) && mwidth=$(( $mwidth * 3 )) && echo ""
   gum style --foreground $FR --align left --border normal --border-foreground $FR --width $mwidth "${1}"
   echo ""
   return 0
@@ -57,7 +57,6 @@ function print_user (){
 }
 function print_user_b (){
   mwidth=$(( $(tput cols) / 2 )) && mwidth=$(( $mwidth / 2 )) && mwidth=$(( $mwidth * 3 ))
-  echo $mwidth
   gum style --foreground $UFR --align left --border normal --border-foreground $UFR --width $mwidth "${1}"
   echo ""
   return 0
