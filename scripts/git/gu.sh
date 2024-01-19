@@ -7,7 +7,6 @@ source "$SCRIPT_DIR/../config.sh"
 
 init_temp
 print_montse "Añadir archivos al git push"
-credentials "$(search_in $temp1 "actual_account" = 2)"
 temp1=$(create_temp)
 try_catch "create a temp file"
 put_in $temp1 "$(echo files_to_add = $(choose_one "todos" "uno"))"
