@@ -13,19 +13,16 @@ temp1=$(create_temp)
 print_montse "¿Cómo te ayudo?"
 put_in $temp1 "$(echo option_selected = $(choose_one "  directory" "  github" "  archivos"))"
 if_null "$(search_in $temp1 "option_selected" = 2)"
-print_message "Opción seleccionada"
-print_user "$(search_in $temp1 "option_selected" = 2)"
 if [[ $(search_in $temp1 "option_selected" = 2) =~ "directory" ]]; then
   remove_line_in $temp1 "option_selected"
-  print_message "Opción para \"directorio\""
+  print_montse2 "¿Qué deseas hacer con \"directorio\"?"
   add_in $temp1 "$(echo option_selected = $(choose_one "  copiar directorio"))"
   if_null "$(search_in $temp1 "option_selected" = 2)"
   print_user "$(search_in $temp1 "option_selected" = 2)"
   if [[ $(search_in $temp1 "option_selected" = 2) =~ "copiar directorio" ]]; then
     add_in $temp1 "$(echo actual_dir = $(pwd))"
     if_null "$(search_in $temp1 "actual_dir" = 2)"
-    print_message "Dirección actual"
-    print_key "$(search_in $temp1 "actual_dir" = 2)"
+    print_montseHappy "Dirección actual $(search_in $temp1 "actual_dir" = 2)"
     search_in $temp1 "actual_dir" = 2 | xclip -selection clipboard
     if [[ "$TERM" == *"kitty"* ]]; then
       search_in $temp1 "actual_dir" = 2 | kitty +kitten clipboard
@@ -86,4 +83,4 @@ else
   print_error "Opción no válida"
 fi
 delete_temp
-print_key "WOOF adios!"
+print_key "$SEC3"

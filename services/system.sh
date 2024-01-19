@@ -8,6 +8,7 @@ function try_catch (){
     log_debug "${1} successfuly"
     return 0
   else
+    print_montseSad "Fallo = ${1}"
     log_error "${1} failed"
     log_error "$?"
     exit 1
@@ -17,6 +18,8 @@ function try_catch (){
 function if_null () {
   log_debug "checking if argument is null"
   if [[ "${1}" = "" ]]; then
+    clear
+    print_montseSad "Argumento vacio"
     log_error "argument is null"
     print_error "Volor vacio"
     exit 1
