@@ -12,6 +12,7 @@ ERR=199
 FT=245
 FR=255
 UFR=37
+BG=232
 
 # export default
 export COLOR_LOADED=true

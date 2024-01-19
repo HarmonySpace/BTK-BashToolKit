@@ -7,10 +7,10 @@ source "$SCRIPT_DIR/../config.sh"
 
 init_temp
 clear
-water_dog
+# water_dog
 try_catch "print a dog draw"
 temp1=$(create_temp)
-print_key "  󰩃   WOOF WOOF... como te ayudo?"
+print_montse "¿Cómo te ayudo?"
 put_in $temp1 "$(echo option_selected = $(choose_one "  directory" "  github" "  archivos"))"
 if_null "$(search_in $temp1 "option_selected" = 2)"
 print_message "Opción seleccionada"
