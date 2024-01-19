@@ -91,7 +91,7 @@ function print_start (){
   print_custom $CL2 0 none center 0 "1 10" ">> ${1} <<"
 }
 function print_finish (){
-  print_key ">>> FINALIZADO"
+  print_montseHappy "¡ ADIÓS !"
 }
 
 # export default
