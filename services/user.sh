@@ -16,12 +16,12 @@ function credentials (){
   try_catch "take a <user> for account ${1}"
   KEY_usr=$(search_in "$CONFIG_PREF" "${1}" ' ' 5)
   try_catch "take a <git key> for account ${1}"
-  #print_divider
-  print_message_b "User name"
+  print_divider
+  print_message "User name"
   print_key "$USER_usr"
-  print_message_b "Git Key"
+  print_message "Git Key"
   print_key "$KEY_usr"
-  #print_divider
+  print_divider
   return 0
 }
 
