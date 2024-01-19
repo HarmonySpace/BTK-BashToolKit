@@ -99,7 +99,6 @@ function print_montseHappy() {
 }
 function print_montseSad() {
   clear
-  mwidth=$(($(tput cols) / 2))
   gum join "$(print_custom $ERR $ERR normal center 0 "0 1" "= ^T ⋏ T^ =")" "$(print_custom $ERR $ERR normal left "0 1" "0 1" "${1}" 0 "$WM")"
   echo ""
   echo ""
