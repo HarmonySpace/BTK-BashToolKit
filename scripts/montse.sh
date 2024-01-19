@@ -16,20 +16,7 @@ if_null "$(search_in $temp1 "option_selected" = 2)"
 if [[ $(search_in $temp1 "option_selected" = 2) =~ "directory" ]]; then
   source "$SCRIPT_DIR/../scripts/navegation/navegation.sh"
 elif [[ $(search_in $temp1 "option_selected" = 2) =~ "github" ]]; then
-  remove_line_in $temp1 "option_selected"
-  print_message "Opción para \"github\""
-  add_in $temp1 "$(echo option_selected = $(choose_one "󰛐   mostrar credenciales"))"
-  if_null "$(search_in $temp1 "option_selected" = 2)"
-  print_user "$(search_in $temp1 "option_selected" = 2)"
-  if [[ $(search_in $temp1 "option_selected" = 2) =~ "mostrar credenciales" ]]; then
-    print_message "Credenciales de la cuenta ..."
-    list_in $temp1 "git_account" $CONFIG_PREF 4 ' ' accounts
-    if_null "$(search_list_in "accounts" $temp1 =)"
-    add_in $temp1 "$(echo account_name = $(search_list_in "accounts" $temp1 = | choose_one))"
-    if_null "$(search_list_in "accounts" $temp1 =)"
-    print_user "$(search_in $temp1 "account_name" = 2)"
-    credentials "$(search_in $temp1 "account_name" = 2)"
-  fi
+  source "$SCRIPT_DIR/../scripts/gitcli/gitcli.sh"
 elif [[ $(search_in $temp1 "option_selected" = 2) =~ "archivos" ]]; then
   remove_line_in $temp1 "option_selected"
   print_message "Opción para \"archivos\""
