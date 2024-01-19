@@ -21,14 +21,6 @@ if [[ $(search_in $temp1 "option_selected" = 2) =~ "directory" ]]; then
   print_user "$(search_in $temp1 "option_selected" = 2)"
   if [[ $(search_in $temp1 "option_selected" = 2) =~ "copiar directorio" ]]; then
     source "$SCRIPT_DIR/../scripts/navegation/copy_dir.sh"
-    #add_in $temp1 "$(echo actual_dir = $(pwd))"
-    #if_null "$(search_in $temp1 "actual_dir" = 2)"
-    #print_montseHappy "Dirección actual $(search_in $temp1 "actual_dir" = 2)"
-    #search_in $temp1 "actual_dir" = 2 | xclip -selection clipboard
-    #if [[ "$TERM" == *"kitty"* ]]; then
-    #  search_in $temp1 "actual_dir" = 2 | kitty +kitten clipboard
-    #fi
-    #try_catch "copy dir"
   fi
 elif [[ $(search_in $temp1 "option_selected" = 2) =~ "github" ]]; then
   remove_line_in $temp1 "option_selected"
