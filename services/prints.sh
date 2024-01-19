@@ -49,7 +49,7 @@ function print_custom (){
 function print_montse (){
   gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "=＾● ⋏ ●＾=")" "$(print_custom $CL2 $CL2 normal left "0 3" "0 1" "${1}" $BG)"
 }
-function print_montseHappy (){
+function print_montse2 (){
   gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "= ^・ ⋏ ・^ =")" "$(print_custom $CL2 $CL2 normal left "0 3" "0 1" "${1}" $BG)"
 }
 function print_montseHappy (){
