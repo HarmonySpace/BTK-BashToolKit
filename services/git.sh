@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # git status
-function git_status (){
+function git_status() {
   print_divider
   print_warning "Tu estatus de la rama actual"
   git status
@@ -12,7 +12,7 @@ function git_status (){
 }
 
 # git unpushed check
-function git_check_unpushed (){
+function git_check_unpushed() {
   UNPUSHED_GCH=$(git diff --name-only)
   if [[ -z "$unpushed_files" ]]; then
     # No unpushed changes found.
@@ -29,14 +29,14 @@ function git_check_unpushed (){
 
 # git branchs
 ## git check all branch
-function git_get_branches (){
+function git_get_branches() {
   print_divider
   print_key "All your branches"
   git branch --list | paste -s -d " "
   print_divider
 }
 ## git change branchs
-function git_change_branch (){
+function git_change_branch() {
   temp_gitchangebranch=$(create_temp)
   git_status
   print_message "Cambiar a la rama"
@@ -50,7 +50,7 @@ function git_change_branch (){
   print_key "Cambio de rama exitosa"
 }
 ## git create a branch
-function git_create_branch (){
+function git_create_branch() {
   temp_gitcreatebranck=$(create_temp)
   print_key "Crear nueva Rama"
   print_message "Nombre de la nueva rama"
@@ -74,7 +74,7 @@ function git_create_branch (){
   try_catch "branch created"
 }
 ## git delete a branch
-function git_delete_branch (){
+function git_delete_branch() {
   temp_gitdeletebranch=$(create_temp)
   print_key "Eliminar una rama"
   print_message "Rama a eliminar"
@@ -94,7 +94,7 @@ function git_delete_branch (){
 
 # git config
 ## git config account
-function git_config_account (){
+function git_config_account() {
   git config "--${1}" user.name "${2}"
   try_catch "git user config"
   git config "--${1}" user.email "${3}"
