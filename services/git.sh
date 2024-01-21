@@ -31,7 +31,7 @@ function git_check_unpushed() {
 ## git check all branch
 function git_get_branches() {
   print_divider
-  print_key "All your branches"
+  print_key "Ramas registradas"
   git branch --list | paste -s -d " "
   print_divider
 }
