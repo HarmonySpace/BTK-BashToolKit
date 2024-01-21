@@ -110,7 +110,7 @@ function print_divider() {
   print_message " "
   while [ "$i" -lt "$mwidth" ]; do
     printf "$SEC3"
-    i++
+    i=$((i + 1))
   done
   print_message " "
 }
