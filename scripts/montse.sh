@@ -56,4 +56,4 @@ else
   print_error "Opción no válida"
 fi
 delete_temp
-print_key "$SEC3"
+print_key "$(print_divider)"

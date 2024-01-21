@@ -108,7 +108,7 @@ function print_montseSad() {
 function print_divider() {
   i=0
   print_message " "
-  while [ "$i" -lt "$mwidth" ]; do
+  while [ "$i" -lt "$(($mwidth / 2))" ]; do
     printf "$SEC3"
     i=$((i + 1))
   done
