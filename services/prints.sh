@@ -106,8 +106,11 @@ function print_montseSad() {
 
 ## print a separate screen message
 function print_divider() {
+  i=0
   print_message " "
-  print_message "$SEC2"
+  while [ "$i" -lt "$mwidth" ]; do
+    printf "$SEC3"
+  done
   print_message " "
 }
 # print start message
