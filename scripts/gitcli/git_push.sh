@@ -23,4 +23,3 @@ git push
 try_catch "git push"
 delete_temp
 print_montseHappy "Archivos subidos correctamente"
-print_key "$SEC3"

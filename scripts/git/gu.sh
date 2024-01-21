@@ -45,4 +45,3 @@ credentials "$(search_in $temp1 "actual_account" = 2)"
 git push
 try_catch "git push"
 delete_temp
-print_key "$SEC3"
