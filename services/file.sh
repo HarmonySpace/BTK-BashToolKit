@@ -21,11 +21,11 @@ function file_browser_custom() {
 
 ## add in temp.txt
 function add_in() {
-  echo -e ${2} >> ${1}
+  echo -e ${2} >>${1}
 }
 ## put in temp.txt
 function put_in() {
-  echo -e ${2} > ${1}
+  echo -e ${2} >${1}
 }
 ## get line in temp.txt
 function line_in() {
@@ -34,7 +34,7 @@ function line_in() {
 }
 
 ## remove a line in temp.txt
-  # donde - que
+# donde - que
 function remove_line_in() {
   temp_removelinein=$(create_temp)
   grep -v "${2}" "${1}" >"$temp_removelinein"
@@ -49,9 +49,17 @@ function search_in() {
 function replace_in() {
   # donde - salida - que - con
   temp_replacein=$(create_temp)
-  sed "s#${3}#${4}#g" "${1}" > "${temp_replacein}"
+  sed "s#${3}#${4}#g" "${1}" >"${temp_replacein}"
   mv "${temp_replacein}" "${2}"
-  # NOTA: Los # son para evitar problemas con las rutas 
+  # NOTA: Los # son para evitar problemas con las rutas
+}
+## get a file list
+function get_list_file() {
+  #cat "${1}" | cut -d"${2}" -f"${3}" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
+  cat "${1}" | grep -v "^#" | cut -d"${2}" -f"${3}"
+  #cat "${1}" | cut -d"${2}" -f"${3}"
+  #cat "${1}" | sed -e 's/^[[:space:]]+|[[:space:]]+$//g' | cut -d"${2}" -f"${3}"
+  #cat "${1}" | tr -d '[[:space:]]' | cut -d"${2}" -f"${3}"
 }
 ## create a list in temp.txt
 function list_in() {
@@ -61,13 +69,13 @@ function list_in() {
     if [[ "$line" =~ "${2}" ]]; then
       add_in $temp_listin "$(echo "$line" | cut -d"${5}" -f${4})"
     fi
-  done < "${3}"
+  done <"${3}"
   add_in ${1} "$(echo "${6}" = $(cat $temp_listin | tr '\n' ' '))"
 }
 function add_to_list() {
   # donde - salida - lista - que
   temp_addtolist=$(create_temp)
-  sed "/${3}/ s/$/ ${4}/" "${2}" > "${temp_addtolist}"
+  sed "/${3}/ s/$/ ${4}/" "${2}" >"${temp_addtolist}"
   mv "${temp_addtolist}" "${1}"
 }
 ## get content what I search in temp.txt
@@ -100,9 +108,6 @@ function create_temp() {
 function delete_temp() {
   rm -rf $TEMP_DIR
 }
-
-
-
 
 ## extract values
 ### search in file

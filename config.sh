@@ -10,6 +10,7 @@ source $CONFIG_PATH/services/system.sh
 source $CONFIG_PATH/services/logs.sh
 source $CONFIG_PATH/services/prints.sh
 source $CONFIG_PATH/services/choose.sh
+source $CONFIG_PATH/services/filter.sh
 source $CONFIG_PATH/services/input.sh
 source $CONFIG_PATH/services/spin.sh
 source $CONFIG_PATH/services/confirm.sh
