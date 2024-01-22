@@ -11,7 +11,8 @@ print_user "$(search_in $temp1 "action_crud" = 2)"
 if [[ "$(search_in $temp1 "action_crud" = 2)" =~ "switch branch" ]]; then
   source "$SCRIPT_DIR/../scripts/gitcli/switch_branch.sh"
 elif [[ "$(search_in $temp1 "action_crud" = 2)" =~ "create branch" ]]; then
-  git_create_branch
+  source "$SCRIPT_DIR/../scripts/gitcli/switch_create.sh"
+  #git_create_branch
 elif [[ "$(search_in $temp1 "action_crud" = 2)" =~ "delete branch" ]]; then
   git_delete_branch
 else

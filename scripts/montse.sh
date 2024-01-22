@@ -11,7 +11,7 @@ clear
 try_catch "print a dog draw"
 temp1=$(create_temp)
 print_montse "¿Cómo te ayudo?"
-put_in $temp1 "$(echo option_selected = $(choose_one "  directory" "  github" "  archivos"))"
+put_in $temp1 "$(echo option_selected = $(choose_one "   directory" "   github" "   archivos"))"
 if_null "$(search_in $temp1 "option_selected" = 2)"
 if [[ $(search_in $temp1 "option_selected" = 2) =~ "directory" ]]; then
   source "$SCRIPT_DIR/../scripts/navegation/navegation.sh"
