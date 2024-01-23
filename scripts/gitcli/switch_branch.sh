@@ -1,4 +1,3 @@
-#temp_sb=$(create_temp)
 print_montse "Estado de la rama actual"
 git_status
 remove_line_in $temp1 "continue"
