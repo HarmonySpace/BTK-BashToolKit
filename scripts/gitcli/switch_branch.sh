@@ -1,4 +1,3 @@
-print_montse "Estado de la rama actual"
 source "$SCRIPTS/../scripts/gitcli/status.sh"
 remove_line_in $temp1 "continue"
 add_in $temp1 "$(echo continue = $(confirm_yn "¿Deseas continuar con el cambio de rama?"))"
