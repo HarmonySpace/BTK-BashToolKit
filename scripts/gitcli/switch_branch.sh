@@ -1,5 +1,5 @@
 print_montse "Estado de la rama actual"
-git_status
+source "$SCRIPTS/../scripts/gitcli/status.sh"
 remove_line_in $temp1 "continue"
 add_in $temp1 "$(echo continue = $(confirm_yn "¿Deseas continuar con el cambio de rama?"))"
 if_null $(search_in $temp1 "continue" = 2)
