@@ -1,7 +1,7 @@
 confirm_git
 print_montse2 "Selecciona la rama main"
 print_warning_b "Rama base"
-add_in $temp1 "main = $(git branch --list | grep -v "\*" | choose_one)"
+add_in $temp1 "main = $(git branch --list | choose_one)"
 if_null $(search_in $temp1 "main" = 2)
 print_montse "Selecciona la rama feature"
 print_warning_b "Rama de fusión"
