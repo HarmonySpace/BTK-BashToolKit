@@ -8,71 +8,71 @@ function print_join() {
 }
 ## print a body message
 function print_message() {
-  gum style --foreground $FR --align left "${1}"
+  gum style --foreground $FR --align left "${@}"
   return 0
 }
 function print_message_b() {
-  gum style --foreground $FR --align left --border normal --border-foreground $FR --width $WMM "${1}"
+  gum style --foreground $FR --align left --border normal --border-foreground $FR --width $WMM "${@}"
   echo ""
   return 0
 }
 ## print a body file
 function print_file() {
-  gum style --foreground $FT --align left "${1}"
+  gum style --foreground $FT --align left "${@}"
   return 0
 }
 function print_file_b() {
-  gum style --foreground $FT --align left --border normal --border-foreground $FT --width $WMM "${1}"
+  gum style --foreground $FT --align left --border normal --border-foreground $FT --width $WMM "${@}"
   echo ""
   return 0
 }
 ## print a key message
 function print_key() {
-  gum style --foreground $CL1 --align left "${1}"
+  gum style --foreground $CL1 --align left "${@}"
   return 0
 }
 function print_key_b() {
-  gum style --foreground $CL1 --align left --border normal --border-foreground $CL1 --width $WMM "${1}"
+  gum style --foreground $CL1 --align left --border normal --border-foreground $CL1 --width $WMM "${@}"
   echo ""
   return 0
 }
 ## print a key second message
 function print_key2() {
-  gum style --foreground $CL2 --align left "${1}"
+  gum style --foreground $CL2 --align left "${@}"
   return 0
 }
 function print_key2_b() {
-  gum style --foreground $CL2 --align left --border normal --border-foreground $CL2 --width $WMM "${1}"
+  gum style --foreground $CL2 --align left --border normal --border-foreground $CL2 --width $WMM "${@}"
   echo ""
   return 0
 }
 ## print a key message
 function print_user() {
-  gum style --foreground $UFR --align left "${1}"
+  gum style --foreground $UFR --align left "${@}"
   return 0
 }
 function print_user_b() {
-  gum style --foreground $UFR --align left --border normal --border-foreground $UFR --width $WMM "${1}"
+  gum style --foreground $UFR --align left --border normal --border-foreground $UFR --width $WMM "${@}"
   echo ""
   return 0
 }
 ## print a warning message
 function print_warning() {
-  gum style --foreground $WR --align left "${1}"
+  gum style --foreground $WR --align left "${@}"
   return 0
 }
 function print_warning_b() {
-  gum style --foreground $WR --align left --border normal --border-foreground $WR --width $WMM "${1}"
+  gum style --foreground $WR --align left --border normal --border-foreground $WR --width $WMM "${@}"
   echo ""
   return 0
 }
 ## print a error message
 function print_error() {
-  gum style --foreground $ERR --align left "${1}"
+  gum style --foreground $ERR --align left "${@}"
   return 0
 }
 function print_error_b() {
-  gum style --foreground $ERR --align left --border normal --border-foreground $ERR --width $WMM "${1}"
+  gum style --foreground $ERR --align left --border normal --border-foreground $ERR --width $WMM "${@}"
   echo ""
   return 0
 }
