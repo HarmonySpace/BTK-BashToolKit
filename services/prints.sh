@@ -12,7 +12,7 @@ function print_message() {
   return 0
 }
 function print_message_b() {
-  gum style --foreground $FR --align left --border normal --border-foreground $FR --width $WMM "${@}"
+  gum style --foreground $FR --align left --border $BORDER --border-foreground $FR --width $WMM "${@}"
   echo ""
   return 0
 }
@@ -22,7 +22,7 @@ function print_file() {
   return 0
 }
 function print_file_b() {
-  gum style --foreground $FT --align left --border normal --border-foreground $FT --width $WMM "${@}"
+  gum style --foreground $FT --align left --border $BORDER --border-foreground $FT --width $WMM "${@}"
   echo ""
   return 0
 }
@@ -32,7 +32,7 @@ function print_key() {
   return 0
 }
 function print_key_b() {
-  gum style --foreground $CL1 --align left --border normal --border-foreground $CL1 --width $WMM "${@}"
+  gum style --foreground $CL1 --align left --border $BORDER --border-foreground $CL1 --width $WMM "${@}"
   echo ""
   return 0
 }
@@ -42,7 +42,7 @@ function print_key2() {
   return 0
 }
 function print_key2_b() {
-  gum style --foreground $CL2 --align left --border normal --border-foreground $CL2 --width $WMM "${@}"
+  gum style --foreground $CL2 --align left --border $BORDER --border-foreground $CL2 --width $WMM "${@}"
   echo ""
   return 0
 }
@@ -52,7 +52,7 @@ function print_user() {
   return 0
 }
 function print_user_b() {
-  gum style --foreground $UFR --align left --border normal --border-foreground $UFR --width $WMM "${@}"
+  gum style --foreground $UFR --align left --border $BORDER --border-foreground $UFR --width $WMM "${@}"
   echo ""
   return 0
 }
@@ -62,7 +62,7 @@ function print_warning() {
   return 0
 }
 function print_warning_b() {
-  gum style --foreground $WR --align left --border normal --border-foreground $WR --width $WMM "${@}"
+  gum style --foreground $WR --align left --border $BORDER --border-foreground $WR --width $WMM "${@}"
   echo ""
   return 0
 }
@@ -72,7 +72,7 @@ function print_error() {
   return 0
 }
 function print_error_b() {
-  gum style --foreground $ERR --align left --border normal --border-foreground $ERR --width $WMM "${@}"
+  gum style --foreground $ERR --align left --border $BORDER --border-foreground $ERR --width $WMM "${@}"
   echo ""
   return 0
 }
@@ -84,22 +84,22 @@ function print_custom() {
 }
 function print_montse() {
   clear
-  gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "=＾● ⋏ ●＾=")" "$(print_custom $CL2 $CL2 normal left "0 1" "0 1" "${1}" 0 "$WM")"
+  gum join "$(print_custom $CL2 $CL2 $BORDER center 0 "0 1" "$M")" "$(print_custom $CL2 $CL2 $BORDER2 left "0 1" "0 1" "${1}" 0 "$WM")"
   echo ""
 }
 function print_montse2() {
   clear
-  gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "= ^・ ⋏ ・^ =")" "$(print_custom $CL2 $CL2 normal left "0 1" "0 1" "${1}" 0 "$WM")"
+  gum join "$(print_custom $CL2 $CL2 $BORDER center 0 "0 1" "$M2")" "$(print_custom $CL2 $CL2 $BORDER2 left "0 1" "0 1" "${1}" 0 "$WM")"
   echo ""
 }
 function print_montseHappy() {
   clear
-  gum join "$(print_custom $CL2 $CL2 normal center 0 "0 1" "= ^- ⋏ -^ =")" "$(print_custom $CL2 $CL2 normal left "0 1" "0 1" "${1}" 0 "$WM")"
+  gum join "$(print_custom $CL2 $CL2 $BORDER center 0 "0 1" "$MH")" "$(print_custom $CL2 $CL2 $BORDER2 left "0 1" "0 1" "${1}" 0 "$WM")"
   echo ""
 }
 function print_montseSad() {
   clear
-  gum join "$(print_custom $ERR $ERR normal center 0 "0 1" "= ^T ⋏ T^ =")" "$(print_custom $ERR $ERR normal left "0 1" "0 1" "${1}" 0 "$WM")"
+  gum join "$(print_custom $ERR $ERR $BORDER center 0 "0 1" "$MS")" "$(print_custom $ERR $ERR $BORDER2 left "0 1" "0 1" "${1}" 0 "$WM")"
   echo ""
   echo ""
 }

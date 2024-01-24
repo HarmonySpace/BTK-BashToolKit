@@ -4,7 +4,7 @@
 
 ## basic spin
 function confirm_yn() {
-  gum confirm --selected.foreground="$BG" --prompt.foreground="$CL1" --unselected.foreground="$CL1" --affirmative="yes" --negative="no" --default "${1}" && echo "yes" || echo "no"
+  gum confirm --selected.foreground="$CL2" --prompt.foreground="$CL1" --unselected.foreground="$CL1" --affirmative="yes" --negative="no" --default "${1}" && echo "yes" || echo "no"
   return 0
 }
 function confirm_git() {

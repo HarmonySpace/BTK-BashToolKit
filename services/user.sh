@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # watermark
-function water (){
+function water() {
   print_key "$(cat $CONFIG_PATH/waters/ascii.txt)"
   return 0
 }
@@ -11,7 +11,7 @@ function water (){
 #  return 0
 #}
 
-function credentials (){
+function credentials() {
   USER_usr=$(search_in "$CONFIG_PREF" "${1}" ' ' 4)
   try_catch "take a <user> for account ${1}"
   KEY_usr=$(search_in "$CONFIG_PREF" "${1}" ' ' 5)

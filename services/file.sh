@@ -3,7 +3,7 @@
 # print file browser
 ## file browser
 function file_browser() {
-  gum file --cursor "> " --all --cursor.foreground "$CL1" --directory.foreground "$CL2" --file.foreground "$FR" --selected.foreground "$CL1" "./"
+  gum file --cursor "$CURSOR" --all --cursor.foreground "$CL1" --directory.foreground "$CL2" --file.foreground "$FR" --selected.foreground "$CL1" "./"
   return 0
 }
 

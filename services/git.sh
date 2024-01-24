@@ -3,7 +3,7 @@
 # git status
 function git_status() {
   print_divider
-  print_warning "tu estatus de la rama actual"
+  print_warning "Tu estatus de la rama actual"
   git status
   print_divider
   git_check_unpushed
