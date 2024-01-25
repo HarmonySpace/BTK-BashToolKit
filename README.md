@@ -1,5 +1,5 @@
+![Poster](./assets/img/logo_logo-icon-blue.png)
 # BashToolKit
-
 BashToolKit (BTK) es un un repositorio de herramientas de uso cotidiano para un usuario linux. Dichas herramientas tiene la intención de facilitar tareas cotidianas para los amantes de la terminal.
 
 > [!WARNING]
@@ -15,14 +15,12 @@ Es necesario instalar estos paquetes para el funcionamiento de los scripts.
 - gum shell (charm)
     
 - xclip
-    
-
 ## Instalación
 
 La instalación debe ser de manera manual. Para ello se debe colocar la siguiente línea en el archivo de configuración de tu shell (zsh, bash).
 
 ```bash
-export PATH="$HOME/Documentos/tools/BashToolKit/executable:$PATH"
+export PATH="$HOME/$RutaDelProyecyo/executable:$PATH"
 ```
 
 Luego debemos recargar nuestra terminal. Podremos cerrarla o utilizar los comandos `source` para cargar el archivo de nuestra shell.
