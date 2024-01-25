@@ -20,7 +20,7 @@ Es necesario instalar estos paquetes para el funcionamiento de los scripts.
 La instalación debe ser de manera manual. Para ello se debe colocar la siguiente línea en el archivo de configuración de tu shell (zsh, bash).
 
 ```bash
-export PATH="$HOME/$RutaDelProyecyo/executable:$PATH"
+export PATH="$HOME/$RutaDelProyecto/executable:$PATH"
 ```
 
 Luego debemos recargar nuestra terminal. Podremos cerrarla o utilizar los comandos `source` para cargar el archivo de nuestra shell.
