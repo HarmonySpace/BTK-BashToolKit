@@ -23,12 +23,8 @@ while true; do
   printf "\033[%d;%dH $(date +"Año: %Y, Mes: %B, Día: %A, %d")" "$(( $y - 3 ))" "$(( $x - 10 ))" | lolcat
   try_catch "print day date"
   printf "\033[%dH$(figlet -f ansi_shadow -w $(tput cols) -c "$current_time")" "$y" | lolcat
-<<<<<<< HEAD
-  printf "\033[%d;%dH <CTRL + c> para salir" "$y2" "$x + 2" | lolcat
-=======
   try_catch "print hour date"
   printf "\033[%d;%dH <CTRL + c> para salir" "$y2" "$x" | lolcat
   try_catch "print out with"
->>>>>>> clock-feature
   sleep 1
 done
