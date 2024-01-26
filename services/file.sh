@@ -98,15 +98,15 @@ function remove_element_in() {
 
 ## init temp files
 function init_temp() {
-  mkdir -p "$TEMP_DIR"
+  mkdir -p "$TEMP_PATH"
 }
 ## create temp file
 function create_temp() {
-  mktemp "$TEMP_DIR/temp_file.XXXXXX"
+  mktemp "$TEMP_PATH/temp_file.XXXXXX"
 }
 ## delete temp file
 function delete_temp() {
-  rm -rf $TEMP_DIR
+  rm -rf $TEMP_PATH
 }
 
 ## extract values

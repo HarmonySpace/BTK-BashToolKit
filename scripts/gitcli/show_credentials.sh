@@ -1,5 +1,5 @@
 print_montse "Selecciona la cuenta"
-list_in $temp1 "git_account" $CONFIG_PREF 4 ' ' accounts
+list_in $temp1 "git_account" $PREF_PATH 4 ' ' accounts
 if_null "$(search_list_in "accounts" $temp1 =)"
 add_in $temp1 "$(echo account_name = $(search_list_in "accounts" $temp1 = | choose_one))"
 if_null "$(search_list_in "accounts" $temp1 =)"

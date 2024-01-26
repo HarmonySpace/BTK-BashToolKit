@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # search the file dirs
-CONFIG_PATH=$(cd $SCRIPT_DIR && cd .. && pwd)
+CONFIG_PATH=$(cd $EXEC_PATH && cd .. && pwd)
 
 # source $CONFIG_PATH/themes/tokio-light.sh
 
@@ -20,7 +20,7 @@ source $CONFIG_PATH/services/user.sh
 source $CONFIG_PATH/services/git.sh
 
 # import a color theme
-source "$CONFIG_PATH/themes/$(cat "$CONFIG_PATH/config.ini" | grep "theme =" | cut -d"=" -f2 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//').sh"
+source "$CONFIG_PATH/themes/$(cat "$PREF_PATH" | grep "theme =" | cut -d"=" -f2 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//').sh"
 try_catch "import color theme"
 
 # export default

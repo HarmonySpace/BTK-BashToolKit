@@ -11,6 +11,6 @@ print_montse2 "Cambiando a la rama main"
 spin_command "git switch" "$(git switch "$(search_in $temp1 "main" = 2)") && $(try_catch "git switch")"
 print_montse "Fusionando las ramas"
 spin_command "git merge" "$(git merge "$(search_in $temp1 "feature" = 2)") && $(try_catch "git merge")"
-source "$SCRIPTS/../scripts/gitcli/status.sh"
+source "$SCRIPT_PATH/gitcli/status.sh"
 wait_enter
 print_montseHappy "Ramas fusionadas correctamente"
