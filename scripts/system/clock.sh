@@ -9,8 +9,6 @@ while true; do
   fi
   if [[ $tW -ne $wl || $th -ne $hl ]]; then
     clear
-    wl=$tW
-    hl=$th
     set_width=true
   fi
   x=$(( (tW - 25) / 2 ))
@@ -21,8 +19,12 @@ while true; do
     y2=$(( $y + 7 ))
   fi
   current_time=$(date +"%H : %M : %S")
+  try_catch "take date"
   printf "\033[%d;%dH $(date +"Año: %Y, Mes: %B, Día: %A, %d")" "$(( $y - 3 ))" "$(( $x - 10 ))" | lolcat
+  try_catch "print day date"
   printf "\033[%dH$(figlet -f ansi_shadow -w $(tput cols) -c "$current_time")" "$y" | lolcat
+  try_catch "print hour date"
   printf "\033[%d;%dH <CTRL + c> para salir" "$y2" "$x" | lolcat
+  try_catch "print out with"
   sleep 1
 done
