@@ -23,6 +23,6 @@ while true; do
   current_time=$(date +"%H : %M : %S")
   printf "\033[%d;%dH $(date +"Año: %Y, Mes: %B, Día: %A, %d")" "$(( $y - 3 ))" "$(( $x - 10 ))" | lolcat
   printf "\033[%dH$(figlet -f ansi_shadow -w $(tput cols) -c "$current_time")" "$y" | lolcat
-  printf "\033[%d;%dH <CTRL + c> para salir" "$y2" "$x" | lolcat
+  printf "\033[%d;%dH <CTRL + c> para salir" "$y2" "$x + 2" | lolcat
   sleep 1
 done
