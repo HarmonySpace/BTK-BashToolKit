@@ -7,7 +7,7 @@ if [[ $(search_in $temp1 "files_to_add" = 2) =~ "todos" ]]; then
   add_in $temp1 "$(echo files_selected = .)"
   if_null $(search_in $temp1 "files_selected" = 2)
 elif [[ $(search_in $temp1 "files_to_add" = 2) =~ "uno" ]]; then
-  source "$SCRIPT_DIR/../scripts/navegation/tools/select_files.sh"
+  source "$SCRIPT_PATH/navegation/tools/select_files.sh"
 fi
 spin_command "git add" "$(git add $(search_list_in "files_selected" $temp1 =)) && $(try_catch "git add")"
 print_montse "Commit para el push"

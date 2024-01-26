@@ -8,7 +8,7 @@ function confirm_yn() {
   return 0
 }
 function confirm_git() {
-  source "$SCRIPTS/../scripts/gitcli/status.sh"
+  source "$SCRIPT_PATH/gitcli/status.sh"
   add_in $temp1 "$(echo continue = $(confirm_yn "¿Continuar?"))"
   if_null $(search_in $temp1 "continue" = 2)
   if [[ "$(search_in $temp1 "continue" = 2)" = "no" ]]; then
