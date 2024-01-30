@@ -1,0 +1,40 @@
+colors:
+  primary:
+    background: "#33186B"
+    foreground: "#F2AFEF"
+
+  normal:
+    black:      "#35196b"
+    red:        "#502f7e"
+    green:      "#865aa4"
+    yellow:     "#bc85c9"
+    blue:       "#6b4491"
+    magenta:    "#d79adc"
+    cyan:       "#a16fb6"
+    white:      "#f2b0ef"
+
+  bright:
+    black:      "#35196b"
+    red:        "#502f7e"
+    green:      "#865aa4"
+    yellow:     "#bc85c9"
+    blue:       "#6b4491"
+    magenta:    "#d79adc"
+    cyan:       "#a16fb6"
+    white:      "#f2b0ef"
+
+borders:
+  primary:  rounded
+  normal:   rounded
+
+cursos:
+  primary:  ">> "
+  normal:   "> "
+
+spin: dot
+
+profile:
+  primary:  "=＾● ⋏ ●＾="
+  normal:   "= ^・ ⋏ ・^ ="
+  sad:      "= ^- ⋏ -^ ="
+  happy:    "= ^T ⋏ T^ ="
