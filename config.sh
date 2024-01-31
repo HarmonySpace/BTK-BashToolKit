@@ -7,7 +7,7 @@ CONFIG_PATH=$(cd $EXEC_PATH && cd .. && pwd)
 #   import enviroment
 source $CONFIG_PATH/enviroment.sh
 #   import yaml consults
-source $SERVICES_PATH/yq.sh
+#source $SERVICES_PATH/yq.sh
 source $SERVICES_PATH/gp.sh
 #source $SERVICES_PATH/system.sh
 #source $SERVICES_PATH/file.sh
