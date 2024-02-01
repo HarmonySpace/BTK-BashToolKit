@@ -6,7 +6,6 @@ CONFIG_PATH=$(cd $EXEC_PATH && cd .. && pwd)
 OLD_PATH=$PATH
 export PATH="$CONFIG_PATH/services/shortcuts:$PATH"
 
-
 #     import
 #   import enviroment
 source $CONFIG_PATH/enviroment.sh
@@ -29,13 +28,13 @@ source $CONFIG_PATH/enviroment.sh
 theme_route="$CONFIG_PATH/themes/$(yq .theme $PREF_PATH).yaml"
 # import colors from theme.yaml
 export BLACK="$(echo "$(yq .colors.normal.black $theme_route)")"
-export RED="$(echo "$(yq .colors.normal.red $theme_route)")"              #errors
-export GREEN="$(echo "$(yq .colors.normal.green $theme_route)")"          #user
-export YELLOW="$(echo "$(yq .colors.normal.yellow $theme_route)")"        #warnings
-export BLUE="$(echo "$(yq .colors.normal.blue $theme_route)")"            #key
-export MAGENTA="$(echo "$(yq .colors.normal.magenta $theme_route)")"      #file
-export CYAN="$(echo "$(yq .colors.normal.cyan $theme_route)")"            #second key
-export WHITE="$(echo "$(yq .colors.normal.white $theme_route)")"          #message
+export RED="$(echo "$(yq .colors.normal.red $theme_route)")"         #errors
+export GREEN="$(echo "$(yq .colors.normal.green $theme_route)")"     #user
+export YELLOW="$(echo "$(yq .colors.normal.yellow $theme_route)")"   #warnings
+export BLUE="$(echo "$(yq .colors.normal.blue $theme_route)")"       #key
+export MAGENTA="$(echo "$(yq .colors.normal.magenta $theme_route)")" #file
+export CYAN="$(echo "$(yq .colors.normal.cyan $theme_route)")"       #second key
+export WHITE="$(echo "$(yq .colors.normal.white $theme_route)")"     #message
 #   import a script element
 # borders
 export BORDERS="$(yq .borders.primary $theme_route)"
@@ -46,13 +45,11 @@ export CURSOR_NORMAL="$(yq .cursors.normal $theme_route)"
 # spin
 export SPIN="$(yq .spin $theme_route)"
 # profile
-export CHAR="$(yq .profile.primary $theme_route)"
-export CHAR_NORMAL="$(yq .profile.normal $theme_route)"
-export CHAR_HAPPY="$(yq .profile.happy $theme_route)"
-export CHAR_SAD="$(yq .profile.sad $theme_route)"
+export PET="$(yq .profile.primary $theme_route)"
+export PET_NORMAL="$(yq .profile.normal $theme_route)"
+export PET_HAPPY="$(yq .profile.happy $theme_route)"
+export PET_SAD="$(yq .profile.sad $theme_route)"
 
 #     add services shortcuts
 OLD_PATH=$PATH
 export PATH="$CONFIG_PATH/services/shortcuts:$PATH"
-
-

@@ -1,0 +1,12 @@
+
+Usage: gpm [message] [color]
+Use <gpm> to print a pet and a text with you color scheme
+
+message:
+  -m        use to set a message type=string
+
+color:
+  -n        to print type=message
+  -t        to print type=second
+  -f        to print type=fail
+  -s        to print type=succesfull

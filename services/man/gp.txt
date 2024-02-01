@@ -1,5 +1,5 @@
 
-Usage: gh [message] [options] [color]
+Usage: gp [message] [options] [color]
 Use <gp> to print a color text with you color scheme
 
 message:
