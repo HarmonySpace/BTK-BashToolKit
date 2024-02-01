@@ -16,4 +16,49 @@
 # theme
 theme: catp
 
+#   routes
+# define all routes
+routes:
+  - navegation:
+    - copy_dir: 
+      name: "Copiar directorio actual"
+      route: "/navegation/copy_dir.sh"
+
+  - file_manager:
+    - create_launcher: 
+      name: "Crear lanzador"
+      route: "/files/create_launcher.sh"
+  
+  - git:
+    - show_credentials:
+      name: "Mostrar credenciales"
+      route: "/gitcli/show_credentials.sh"
+
+    - change_account:
+      name: "Cambiar de cuenta"
+      route: "/gitcli/change_account.sh"
+    
+    - push:
+      name: "Subir cambios"
+      route: "/gitcli/push.sh"
+
+    - status:
+      name: "Status"
+      route: "/gitcli/switch_branch.sh"
+
+    - switch_branch:
+      name: "Cambiar de rama"
+      route: "/gitcli/switch_branch.sh"
+
+    - switch_create:
+      name: "Crear una rama"
+      route: "/gitcli/switch_create.sh"
+
+    - switch_delete:
+      name: "Eliminar una rama"
+      route: "/gitcli/switch_delete.sh"
+
+    - merge_branchs:
+      name: "Eliminar una rama"
+      route: "/gitcli/ merge_branchs.sh"
 

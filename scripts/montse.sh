@@ -5,8 +5,8 @@ EXEC_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ## configuration import
 source "$EXEC_PATH/../config.sh"
 
-gpps "hola"
-#gpps_b "adios"
+gp -h 
+
 
 #init_temp
 #clear
@@ -18,3 +18,4 @@ gpps "hola"
 #delete_temp
 #print_key "$(print_divider)"
 
+export PATH=$OLD_PATH

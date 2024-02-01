@@ -18,5 +18,3 @@ export WMM=$mwidth
 export WT=$(tput cols)
 export HT=$(tput lines)
 
-# export default
-export ENVIROMENT_LOADED=true

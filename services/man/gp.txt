@@ -1,0 +1,18 @@
+
+Usage: gh [message] [options] [color]
+Use <gp> to print a color text with you color scheme
+
+message:
+  -m        use to set a message type=string
+
+options:
+  -b        use if you want to print a border
+
+color:
+  -p        to print type=message
+  -f        to print type=file
+  -k        to print type=key
+  -s        to print type=second key
+  -u        to print type=user
+  -w        to print type=warning
+  -e        to print type=error
