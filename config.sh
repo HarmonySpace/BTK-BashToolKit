@@ -9,7 +9,8 @@ export PATH="$CONFIG_PATH/services/shortcuts:$PATH"
 #     import
 #   import enviroment
 source $CONFIG_PATH/enviroment.sh
-#   import yaml consults
+#   import services
+source $SERVICES_PATH/tp.sh
 #source $SERVICES_PATH/gp.sh
 #source $SERVICES_PATH/system.sh
 #source $SERVICES_PATH/file.sh

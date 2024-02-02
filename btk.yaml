@@ -59,6 +59,6 @@ routes:
       route: "/gitcli/switch_delete.sh"
 
     - merge_branchs:
-      name: "Eliminar una rama"
+      name: "Combinar dos ramas"
       route: "/gitcli/ merge_branchs.sh"
 

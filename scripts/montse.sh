@@ -6,7 +6,15 @@ EXEC_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$EXEC_PATH/../config.sh"
 
 clear
-gpm -m "HOLA ¿Cómo te puedo ayudar?" -n
+mTemp
+t1=$(cTemp)
+a1=$(yq '.routes[].[].[].name' "$CONFIG_PATH/btk.yaml")
+echo "$a1"
+#gpm -m "HOLA ¿Cómo te puedo ayudar?" -n
+#dTemp
+
+#e1="$(echo "hello world")" yq -i '.do = env(e1)' $t1
+#yq -i '.Section.key = "value"' $t1
 
 #init_temp
 #clear
@@ -18,4 +26,4 @@ gpm -m "HOLA ¿Cómo te puedo ayudar?" -n
 #delete_temp
 #print_key "$(print_divider)"
 
-#export PATH=$OLD_PATH
+export PATH=$OLD_PATH
