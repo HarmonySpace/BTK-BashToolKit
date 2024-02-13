@@ -47,14 +47,12 @@ gpm -m "Subiendo cambios" -t
 	gpm -m "Git push" -n
 	gp -m "Nombre de la cuenta" -p
 	gp -m "$(skate get gitName@git-btk)" -u -d 0
+	echo ""
 	gp -m "Git key" -p
 	gp -m "$(skate get gitKey@git-btk)" -u -d 0
 	echo ""
 	gp -m "Coloca tus credenciales"
   git push
-	read -n 1 -s -r -p "Press any key to continue"
-	gpm -m "Git push Finalizado"
-	read -n 1 -s -r -p "Press any key to continue"
 } || {
 	git reset --soft HEAD~1
 }
