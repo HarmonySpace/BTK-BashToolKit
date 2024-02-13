@@ -4,7 +4,7 @@ MESSAGE=""
 COLORP=""
 THIS_PETH=""
 
-while getopts 'm:ntfs' OPTION; do
+while getopts 'm:ntfsh' OPTION; do
 	case "$OPTION" in
 	m)
 		MESSAGE="$OPTARG"
@@ -14,7 +14,6 @@ while getopts 'm:ntfs' OPTION; do
 		THIS_PETH="$PET"
 		;;
 	t)
-		COLORP="-p"
 		THIS_PETH="$PET_NORMAL"
 		;;
 	f)
@@ -34,4 +33,4 @@ while getopts 'm:ntfs' OPTION; do
 	esac
 done
 
-gum join "$(gp -m "$THIS_PETH" -b $COLORP)" "$(gp -m "$MESSAGE" -b $COLORP)"
+gum join "$(gp -m "$THIS_PETH" -d "$WSD4" $COLORP -bc)" "$(gp -m "$MESSAGE" -d "$WSD4X3" $COLORP -b)"

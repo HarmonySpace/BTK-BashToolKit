@@ -1,9 +1,6 @@
-add_in $temp1 "$(echo actual_dir = $(pwd))"
-if_null "$(search_in $temp1 "actual_dir" = 2)"
-print_montseHappy "Dirección actual"
-print_message_b "$(search_in $temp1 "actual_dir" = 2)"
-search_in $temp1 "actual_dir" = 2 | xclip -selection clipboard
-if [[ "$TERM" == *"kitty"* ]]; then
-  search_in $temp1 "actual_dir" = 2 | kitty +kitten clipboard
-fi
-try_catch "copy dir"
+export a3=$(pwd)
+[ -n "$a3" ] &&
+	yq -i '.dir = env(a3)' $t1 &&
+	gpm -m "Dirección actual" -n &&
+	gp -m "$(yq '.dir' $t1)" -b -k &&
+	yq '.dir' $t1 | xclip -selection clipboard

@@ -27,7 +27,7 @@ borders:
   primary:  rounded
   normal:   rounded
 
-cursos:
+cursors:
   primary:  ">> "
   normal:   "> "
 
@@ -36,5 +36,5 @@ spin: dot
 profile:
   primary:  "=＾● ⋏ ●＾="
   normal:   "= ^・ ⋏ ・^ ="
-  sad:      "= ^- ⋏ -^ ="
-  happy:    "= ^T ⋏ T^ ="
+  happy:    "= ^- ⋏ -^ ="
+  sad:      "= ^T ⋏ T^ ="

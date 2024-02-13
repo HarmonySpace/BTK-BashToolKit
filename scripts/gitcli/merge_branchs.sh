@@ -14,3 +14,4 @@ spin_command "git merge" "$(git merge "$(search_in $temp1 "feature" = 2)") && $(
 source "$SCRIPT_PATH/gitcli/status.sh"
 wait_enter
 print_montseHappy "Ramas fusionadas correctamente"
+echo hola

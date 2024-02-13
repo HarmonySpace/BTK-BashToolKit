@@ -11,6 +11,13 @@ export PATH="$CONFIG_PATH/services/shortcuts:$PATH"
 source $CONFIG_PATH/enviroment.sh
 #   import services
 source $SERVICES_PATH/tp.sh
+source $SERVICES_PATH/gb.sh
+source $SERVICES_PATH/gf.sh
+source $SERVICES_PATH/gc.sh
+source $SERVICES_PATH/gcf.sh
+source $SERVICES_PATH/gs.sh
+source $SERVICES_PATH/gi.sh
+
 #source $SERVICES_PATH/gp.sh
 #source $SERVICES_PATH/system.sh
 #source $SERVICES_PATH/file.sh

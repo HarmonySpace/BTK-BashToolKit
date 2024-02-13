@@ -3,14 +3,22 @@
 MESSAGE=""
 BORDERSOP=""
 COLORP="$WHITE"
+DIMENTIONS="$WSD2"
+ALIGNT="left"
 
-while getopts 'm:bpfksuweh' OPTION; do
+while getopts 'm:d:cbpfksuweh' OPTION; do
 	case "$OPTION" in
 	m)
 		MESSAGE="$OPTARG"
 		;;
+	d)
+		DIMENTIONS="$OPTARG"
+		;;
+	c)
+		ALIGNT="center"
+		;;
 	b)
-		BORDERSOP="--border $BORDERS --border-foreground $COLORP"
+		BORDERSOP="--border $BORDERS"
 		;;
 	p)
 		COLORP="$WHITE"
@@ -42,4 +50,4 @@ while getopts 'm:bpfksuweh' OPTION; do
 	esac
 done
 
-gum style "$MESSAGE" $BORDERSOP --foreground $COLORP --align left --padding "0 1"
+gum style "$MESSAGE" --foreground $COLORP $BORDERSOP --border-foreground $COLORP --align $ALIGNT --padding "0 0" --width $DIMENTIONS

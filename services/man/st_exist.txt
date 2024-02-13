@@ -1,0 +1,11 @@
+
+Usage: exist [message] [color]
+Use <exist> to comprove an existing file or directory
+
+message:
+  -p        use to pass a path
+
+color:
+  -e        check if exist
+  -f        check if file exist
+  -d        check if directory exist

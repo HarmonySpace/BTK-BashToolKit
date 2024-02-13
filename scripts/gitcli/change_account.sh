@@ -5,8 +5,8 @@ print_message_b "$(search_in $temp1 "actual_account" = 2)"
 add_in $temp1 "$(echo confirm_change = $(confirm_yn '¿Desea cambiar de cuenta?'))"
 if_null $(search_in $temp1 "confirm_change" = 2)
 if [[ $(search_in $temp1 "confirm_change" = 2) =~ "no" ]]; then
-  print_montseSad "Cambio de cuenta cancelado"
-  exit 2
+	print_montseSad "Cambio de cuenta cancelado"
+	exit 2
 fi
 add_in $temp1 "$(list_in $temp1 "git_account" $PREF_PATH 4 ' ' accounts)"
 if_null $(search_in $temp1 "account" = 2)
@@ -23,3 +23,5 @@ add_in $temp1 "$(echo config_scope = $(choose_one "global" "local" "worktree"))"
 if_null $(search_in $temp1 "config_scope" = 2)
 git_config_account "$(search_in $temp1 "config_scope" = 2)" "$(search_in $temp1 "go" = 2)" "$(search_in $temp1 "account_email" = 2)"
 print_montseHappy "Cambio de cuenta exitosa"
+
+echo hola
