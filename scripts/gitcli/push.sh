@@ -38,13 +38,13 @@ clear
 gpm -m "Subiendo cambios" -t
 {
 	if [[ $(yq '.number' $t1) == "Todos" ]]; then
-		sp "git add" "git add ."
+		git add .
 	else
-		sp "git add" "git add $(yq '.[env(ap2)][]' $t1)"
+		git add $(yq '.[env(ap2)][]' $t1)
 	fi
-	sp "git commit" git commit -m "$(yq '.commit.title' $t1)" -m "$(yq '.commit.description' $t1)"
+	git commit -m "$(yq '.commit.title' $t1)" -m "$(yq '.commit.description' $t1)"
 	clear
-	gpm -m "Tus credenciales" -n
+	gpm -m "Git push" -n
 	gp -m "Nombre de la cuenta" -p
 	gp -m "$(skate get gitName@git-btk)" -u -d 0
 	gp -m "Git key" -p
@@ -52,6 +52,9 @@ gpm -m "Subiendo cambios" -t
 	echo ""
 	gp -m "Coloca tus credenciales"
   git push
+	read -n 1 -s -r -p "Press any key to continue"
+	gpm -m "Git push Finalizado"
+	read -n 1 -s -r -p "Press any key to continue"
 } || {
 	git reset --soft HEAD~1
 }
