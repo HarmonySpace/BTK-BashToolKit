@@ -13,8 +13,9 @@ if [[ $(yq '.number' $t1) == "Seleccionar" ]]; then
 	fi
 	source "$SCRIPT_PATH/navegation/tools/ntsf.sh" "$ap2"
 fi
-ap3="$(skate get gitName@git-btk)" &
-ap4="$(skate get gitKey@git-btk)" &clear
+ap3="$(skate get gitName@git-btk)"
+ap4="$(skate get gitKey@git-btk)"
+clear
 gpm -m "Ingrese un commit para el psuh" -n
 export ap1=$(gi 50 "Título del commit" "title...")
 if [[ ! "$ap1" ]]; then
