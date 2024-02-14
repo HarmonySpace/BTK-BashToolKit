@@ -37,6 +37,8 @@ read -n 1 -s -r -p "Press any key to continue"
 clear
 gpm -m "Subiendo cambios" -t
 {
+	ap3="$(skate get gitName@git-btk)" &
+	ap4="$(skate get gitKey@git-btk)" &
 	if [[ $(yq '.number' $t1) == "Todos" ]]; then
 		git add .
 	else
@@ -46,10 +48,10 @@ gpm -m "Subiendo cambios" -t
 	clear
 	gpm -m "Git push" -n
 	gp -m "Nombre de la cuenta" -p
-	gp -m "$(skate get gitName@git-btk)" -u -d 0
+	gp -m "$ap3" -u -d 0
 	echo ""
 	gp -m "Git key" -p
-	gp -m "$(skate get gitKey@git-btk)" -u -d 0
+	gp -m "$ap4" -u -d 0
 	echo ""
 	gp -m "Coloca tus credenciales"
   git push

@@ -31,14 +31,6 @@ clear
 	export PATH=$OLD_PATH
 	exit 1
 }
-
-#read -n 1 -s -r -p "Press any key to continue" &&
-
-#yq '.routes[].[].[] | select(.name == "hello") | .route' btk.yaml
-#yq '.routes[].[].[].route | parent | select(.name == "hello") | .route' btk.yaml
-#e1="$(echo "hello world")" yq -i '.do = env(e1)' $t1
-#yq -i '.Section.key = "value"' $t1
-
 read -n 1 -s -r -p "Press any key to continue"
 dTemp
 export PATH=$OLD_PATH
