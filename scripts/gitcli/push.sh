@@ -13,7 +13,8 @@ if [[ $(yq '.number' $t1) == "Seleccionar" ]]; then
 	fi
 	source "$SCRIPT_PATH/navegation/tools/ntsf.sh" "$ap2"
 fi
-clear
+ap3="$(skate get gitName@git-btk)" &
+ap4="$(skate get gitKey@git-btk)" &clear
 gpm -m "Ingrese un commit para el psuh" -n
 export ap1=$(gi 50 "Título del commit" "title...")
 if [[ ! "$ap1" ]]; then
@@ -37,8 +38,6 @@ read -n 1 -s -r -p "Press any key to continue"
 clear
 gpm -m "Subiendo cambios" -t
 {
-	ap3="$(skate get gitName@git-btk)" &
-	ap4="$(skate get gitKey@git-btk)" &
 	if [[ $(yq '.number' $t1) == "Todos" ]]; then
 		git add .
 	else
