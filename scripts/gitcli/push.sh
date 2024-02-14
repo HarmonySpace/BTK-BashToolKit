@@ -13,9 +13,6 @@ if [[ $(yq '.number' $t1) == "Seleccionar" ]]; then
 	fi
 	source "$SCRIPT_PATH/navegation/tools/ntsf.sh" "$ap2"
 fi
-# a1=$(echo "hola " | tee >(read a1)) &
-ap3="$(skate get gitName@git-btk | grep -n1 &)"
-ap4=$(skate get gitKey@git-btk | grep -n1 &)
 clear
 gpm -m "Ingrese un commit para el psuh" -n
 export ap1=$(gi 50 "Título del commit" "title...")
@@ -49,10 +46,10 @@ gpm -m "Subiendo cambios" -t
 	clear
 	gpm -m "Git push" -n
 	gp -m "Nombre de la cuenta" -p
-	gp -m "$ap3" -u -d 0
+	gp -m "$(skate get gitName@git-btk)" -u -d 0
 	echo ""
 	gp -m "Git key" -p
-	gp -m "$ap4" -u -d 0
+	gp -m "$(skate get gitKey@git-btk)" -u -d 0
 	echo ""
 	gp -m "Coloca tus credenciales"
   git push
